@@ -1,0 +1,49 @@
+{
+  "source": "Final Exam-Question Bank (CLO3, CLO4) SC",
+  "totalQuestions": 348,
+  "chunkSize": 50,
+  "quizzes": [
+    {
+      "id": "exam-bank-set-01",
+      "title": "Final Exam Bank — Quiz 1 (50 MCQs)",
+      "questionCount": 50,
+      "setIndex": 1
+    },
+    {
+      "id": "exam-bank-set-02",
+      "title": "Final Exam Bank — Quiz 2 (50 MCQs)",
+      "questionCount": 50,
+      "setIndex": 2
+    },
+    {
+      "id": "exam-bank-set-03",
+      "title": "Final Exam Bank — Quiz 3 (50 MCQs)",
+      "questionCount": 50,
+      "setIndex": 3
+    },
+    {
+      "id": "exam-bank-set-04",
+      "title": "Final Exam Bank — Quiz 4 (50 MCQs)",
+      "questionCount": 50,
+      "setIndex": 4
+    },
+    {
+      "id": "exam-bank-set-05",
+      "title": "Final Exam Bank — Quiz 5 (50 MCQs)",
+      "questionCount": 50,
+      "setIndex": 5
+    },
+    {
+      "id": "exam-bank-set-06",
+      "title": "Final Exam Bank — Quiz 6 (50 MCQs)",
+      "questionCount": 50,
+      "setIndex": 6
+    },
+    {
+      "id": "exam-bank-set-07",
+      "title": "Final Exam Bank — Quiz 7 (48 MCQs)",
+      "questionCount": 48,
+      "setIndex": 7
+    }
+  ]
+}

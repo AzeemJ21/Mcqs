@@ -1,0 +1,1310 @@
+{
+  "id": "exam-bank-set-07",
+  "title": "Final Exam Bank — Quiz 7 (48 MCQs)",
+  "questions": [
+    {
+      "id": "exam-bank-set-07-q001",
+      "text": "A smart-home device collects extensive user data unrelated to its primary function. What is the MOST accurate issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data minimization ignored"
+        },
+        {
+          "id": "B",
+          "text": "Privacy boundaries exceeded"
+        },
+        {
+          "id": "C",
+          "text": "Ethical concern exists"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-07-q002",
+      "text": "A school deploys automated grading systems to save time, but students cannot challenge inaccurate grades. What is missing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accountability mechanisms"
+        },
+        {
+          "id": "B",
+          "text": "Human review process"
+        },
+        {
+          "id": "C",
+          "text": "Fair appeal structure"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        },
+        {
+          "id": "E",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q003",
+      "text": "A company focuses only on technical testing while ignoring user behavior patterns. What risk remains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Human factors ignored"
+        },
+        {
+          "id": "B",
+          "text": "Unpredictable interactions"
+        },
+        {
+          "id": "C",
+          "text": "Real-world failure potential"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q004",
+      "text": "A transportation app optimizes routes efficiently but increases traffic in residential areas. What does this reveal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Localized negative impact"
+        },
+        {
+          "id": "B",
+          "text": "Optimization can create external harm"
+        },
+        {
+          "id": "C",
+          "text": "Technology decisions affect society"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        },
+        {
+          "id": "E",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q005",
+      "text": "A company uses AI hiring tools trained on biased historical data. What is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bias can persist through automation"
+        },
+        {
+          "id": "B",
+          "text": "Historical data influences outcomes"
+        },
+        {
+          "id": "C",
+          "text": "Technology may amplify inequality"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q006",
+      "text": "A company implements strict monitoring tools that improve productivity but reduce employee morale. What is the MOST balanced conclusion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Productivity alone defines success"
+        },
+        {
+          "id": "B",
+          "text": "Human impact must be considered"
+        },
+        {
+          "id": "C",
+          "text": "Ethical trade-offs exist"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "Both A & C"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-07-q007",
+      "text": "A system is secure today but becomes vulnerable due to evolving threats. What does this show?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Security is static"
+        },
+        {
+          "id": "B",
+          "text": "Continuous evaluation required"
+        },
+        {
+          "id": "C",
+          "text": "Technology risks evolve over time"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q008",
+      "text": "A government introduces nationwide digital IDs without backup systems. What is the hidden risk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Single point of failure"
+        },
+        {
+          "id": "B",
+          "text": "Dependency vulnerability"
+        },
+        {
+          "id": "C",
+          "text": "Service disruption risk"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        },
+        {
+          "id": "E",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q009",
+      "text": "A company introduces automated customer support that frustrates users during complex cases. What is the MOST accurate issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Human flexibility missing"
+        },
+        {
+          "id": "B",
+          "text": "Over-automation problem"
+        },
+        {
+          "id": "C",
+          "text": "Context handling limitations"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q010",
+      "text": "A business adopts advanced technology but fails to train employees adequately. What is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Technology alone guarantees success"
+        },
+        {
+          "id": "B",
+          "text": "Human readiness matters"
+        },
+        {
+          "id": "C",
+          "text": "Organizational adaptation required"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q011",
+      "text": "A company uses technology to reduce operational costs but ignores environmental damage from electronic waste. What is the MOST accurate evaluation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Financial focus only"
+        },
+        {
+          "id": "B",
+          "text": "Sustainability ignored"
+        },
+        {
+          "id": "C",
+          "text": "Ethical responsibility neglected"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q012",
+      "text": "A technology evaluation committee focuses only on short-term gains. What long-term risk may arise?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hidden future costs"
+        },
+        {
+          "id": "B",
+          "text": "Sustainability problems"
+        },
+        {
+          "id": "C",
+          "text": "Strategic weakness"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        },
+        {
+          "id": "E",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q013",
+      "text": "A smart-city project connects all services digitally, making failures highly disruptive. What is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Connectivity eliminates risk"
+        },
+        {
+          "id": "B",
+          "text": "Interdependence increases vulnerability"
+        },
+        {
+          "id": "C",
+          "text": "System failures can cascade"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q014",
+      "text": "A company rejects all automation because of fear of failure. What is the MOST accurate critique?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Balanced evaluation absent"
+        },
+        {
+          "id": "B",
+          "text": "Innovation opportunities lost"
+        },
+        {
+          "id": "C",
+          "text": "Extreme risk aversion"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q015",
+      "text": "A system evaluation shows excellent efficiency but poor fairness. What does this indicate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Technical success alone is insufficient"
+        },
+        {
+          "id": "B",
+          "text": "Ethical dimensions matter"
+        },
+        {
+          "id": "C",
+          "text": "Evaluation criteria incomplete"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q016",
+      "text": "A technology is adopted globally before its long-term effects are understood. What is the MOST significant concern?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Large-scale unintended consequences"
+        },
+        {
+          "id": "B",
+          "text": "Insufficient evaluation time"
+        },
+        {
+          "id": "C",
+          "text": "Difficulty reversing impact later"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q017",
+      "text": "A healthcare startup secretly shares anonymized patient records with advertisers, claiming no direct identities are exposed. Later, users discover behavioral profiles were still traceable. What is the MOST accurate ethical issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Failure of informed consent and weak privacy protection"
+        },
+        {
+          "id": "B",
+          "text": "Ethical data monetization"
+        },
+        {
+          "id": "C",
+          "text": "Users are responsible for reading policies"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q018",
+      "text": "A software engineer discovers that an AI hiring system consistently rejects applicants from certain regions due to biased historical data. Management refuses changes because the system improves efficiency. What is the MOST ethical response?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ignore the issue because efficiency improved"
+        },
+        {
+          "id": "B",
+          "text": "Secretly leak company data online"
+        },
+        {
+          "id": "C",
+          "text": "Report and advocate correction of the bias"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-07-q019",
+      "text": "A company develops a “free” smart assistant app that constantly records background conversations to improve recommendations. Most users are unaware of this behavior. Which principle is MOST directly violated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transparency and informed consent"
+        },
+        {
+          "id": "B",
+          "text": "Computational efficiency"
+        },
+        {
+          "id": "C",
+          "text": "Market competitiveness"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q020",
+      "text": "A cybersecurity analyst discovers a banking vulnerability that could expose customer funds. The bank ignores repeated private warnings for months. What is the MOST balanced ethical action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sell the exploit to competitors"
+        },
+        {
+          "id": "B",
+          "text": "Immediately publish exploit code publicly"
+        },
+        {
+          "id": "C",
+          "text": "Continue silent observation indefinitely"
+        },
+        {
+          "id": "D",
+          "text": "Consider responsible public disclosure after reasonable warning time"
+        },
+        {
+          "id": "E",
+          "text": "Both A & C"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-07-q021",
+      "text": "A university installs monitoring software on student laptops that activates webcams during exams. The software accidentally records private family conversations after exams end. What is the MOST critical concern?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Excessive academic transparency"
+        },
+        {
+          "id": "B",
+          "text": "Violation of privacy boundaries"
+        },
+        {
+          "id": "C",
+          "text": "Increased educational efficiency"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "Both B & privacy overreach concerns"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-07-q022",
+      "text": "A developer copies proprietary code from a former employer into a new company project to save time. The copied code significantly improves performance. What is the MOST accurate evaluation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ethical because productivity increased"
+        },
+        {
+          "id": "B",
+          "text": "Intellectual property violation"
+        },
+        {
+          "id": "C",
+          "text": "Acceptable under competitive pressure"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q023",
+      "text": "A social media platform redesigns its recommendation algorithm knowing emotionally extreme content increases engagement. Harmful misinformation rises sharply afterward. Which is the MOST accurate conclusion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Algorithms are completely neutral"
+        },
+        {
+          "id": "B",
+          "text": "Users alone caused misinformation"
+        },
+        {
+          "id": "C",
+          "text": "Ethical responsibility exists in system design choices"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-07-q024",
+      "text": "A company stores customer passwords in plain text to reduce system complexity. A breach later exposes millions of accounts. What is the MOST precise root ethical failure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lack of encryption and negligent security practice"
+        },
+        {
+          "id": "B",
+          "text": "Excessive transparency"
+        },
+        {
+          "id": "C",
+          "text": "Users should have created stronger passwords"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q025",
+      "text": "A programmer discovers coworkers secretly collecting extra user data “for future analytics.” The organization has no user consent for this collection. What should the programmer identify FIRST in ethical decision-making?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revenue opportunities"
+        },
+        {
+          "id": "B",
+          "text": "Stakeholders and ethical issue"
+        },
+        {
+          "id": "C",
+          "text": "Technical scalability"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q026",
+      "text": "A company creates targeted advertisements by scanning user emails. Users technically agreed through a 40-page policy document they never realistically read. What is the MOST subtle ethical issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Legal compliance guarantees ethical behavior"
+        },
+        {
+          "id": "B",
+          "text": "Consent may exist legally but not meaningfully"
+        },
+        {
+          "id": "C",
+          "text": "Users waive all privacy rights online"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q027",
+      "text": "A developer intentionally hides negative AI testing results to ensure a product launches on time. Which professional responsibility is MOST directly violated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accountability and honesty"
+        },
+        {
+          "id": "B",
+          "text": "Marketing strategy"
+        },
+        {
+          "id": "C",
+          "text": "Competitive adaptation"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q028",
+      "text": "A school installs surveillance software to improve student safety but fails to define limits for data retention and monitoring scope. What is the MOST important ethical concern?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weak algorithm performance"
+        },
+        {
+          "id": "B",
+          "text": "Lack of boundaries and oversight"
+        },
+        {
+          "id": "C",
+          "text": "Reduced operational costs"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q029",
+      "text": "A company collects voice recordings to improve AI systems without explicitly informing users. Which stakeholders are MOST directly affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only company shareholders"
+        },
+        {
+          "id": "B",
+          "text": "Only software engineers"
+        },
+        {
+          "id": "C",
+          "text": "Users, company, and society"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-07-q030",
+      "text": "A cybersecurity researcher publicly releases exploit details immediately after finding a vulnerability, before organizations can patch systems. What is the MOST likely ethical criticism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Responsible disclosure principles ignored"
+        },
+        {
+          "id": "B",
+          "text": "Transparency should never exist"
+        },
+        {
+          "id": "C",
+          "text": "Security research is unethical"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q031",
+      "text": "A mobile application requests camera, contacts, microphone, and location permissions even though only messaging features are used. What principle is MOST clearly violated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Market optimization"
+        },
+        {
+          "id": "B",
+          "text": "Data minimization"
+        },
+        {
+          "id": "C",
+          "text": "User personalization"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q032",
+      "text": "A software company follows all laws but intentionally designs confusing privacy settings so users unknowingly share more data. What is the MOST accurate conclusion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Legal compliance guarantees ethical conduct"
+        },
+        {
+          "id": "B",
+          "text": "Ethical manipulation can still occur despite legality"
+        },
+        {
+          "id": "C",
+          "text": "Users alone are responsible"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q033",
+      "text": "A developer discovers that a predictive policing AI disproportionately targets certain communities due to historical arrest patterns. What is the MOST ethical recommendation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deploy system unchanged for consistency"
+        },
+        {
+          "id": "B",
+          "text": "Ignore historical bias because data is factual"
+        },
+        {
+          "id": "C",
+          "text": "Reevaluate training data and fairness impacts"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-07-q034",
+      "text": "A cloud provider experiences a breach because engineers skipped security audits to reduce operational costs. Which responsibility was MOST neglected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Responsibility to society and users"
+        },
+        {
+          "id": "B",
+          "text": "Responsibility to maximize short-term profit only"
+        },
+        {
+          "id": "C",
+          "text": "Responsibility to reduce transparency"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q035",
+      "text": "A startup launches a wearable device that tracks user emotions without clearly explaining how emotional profiles are stored or shared. Which ethical principle is MOST threatened?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accountability only"
+        },
+        {
+          "id": "B",
+          "text": "Intellectual property protection"
+        },
+        {
+          "id": "C",
+          "text": "Privacy and informed consent"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-07-q036",
+      "text": "A programmer notices an employer secretly modifying customer reviews using bots to create false trust. What is the MOST ethical professional response?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Support the strategy to protect profits"
+        },
+        {
+          "id": "B",
+          "text": "Ignore the issue because competitors do similar things"
+        },
+        {
+          "id": "C",
+          "text": "Raise concerns through ethical reporting channels"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-07-q037",
+      "text": "A company deploys AI-generated customer support responses that occasionally provide dangerously incorrect medical advice. Which issue is MOST significant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lack of accountability and potential harm"
+        },
+        {
+          "id": "B",
+          "text": "Increased automation efficiency"
+        },
+        {
+          "id": "C",
+          "text": "Reduced operational costs"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q038",
+      "text": "A developer uses open-source software in a commercial project but removes the original license notices. What is the MOST accurate ethical concern?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intellectual property misuse"
+        },
+        {
+          "id": "B",
+          "text": "Better branding strategy"
+        },
+        {
+          "id": "C",
+          "text": "Improved software independence"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q039",
+      "text": "A company creates detailed consumer profiles by combining email activity, location history, and browsing behavior from multiple services. What is the MOST subtle ethical risk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Excessive data aggregation increases privacy exposure"
+        },
+        {
+          "id": "B",
+          "text": "Data integration always improves user trust"
+        },
+        {
+          "id": "C",
+          "text": "Combining data removes security concerns"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q040",
+      "text": "A cybersecurity expert delays reporting a major vulnerability until after presenting it publicly at a conference for recognition. What ethical principle is MOST compromised?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Technical competence"
+        },
+        {
+          "id": "B",
+          "text": "Responsible disclosure"
+        },
+        {
+          "id": "C",
+          "text": "Computational transparency"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q041",
+      "text": "A software engineer is pressured to deploy unstable software before security testing is complete. Which ethical responsibility should guide the decision MOST?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protecting users from preventable harm"
+        },
+        {
+          "id": "B",
+          "text": "Maximizing quarterly revenue only"
+        },
+        {
+          "id": "C",
+          "text": "Following orders regardless of impact"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q042",
+      "text": "A company uses AI to monitor employee productivity every second during remote work. Employees report anxiety and stress despite increased efficiency. What is the MOST balanced ethical interpretation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Productivity alone defines ethical success"
+        },
+        {
+          "id": "B",
+          "text": "Human well-being must also be considered"
+        },
+        {
+          "id": "C",
+          "text": "Surveillance automatically improves trust"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q043",
+      "text": "A developer discovers that management intentionally weakens encryption to allow easier advertising analysis of private user messages. What is the MOST serious issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reduced processing speed"
+        },
+        {
+          "id": "B",
+          "text": "Violation of confidentiality and trust"
+        },
+        {
+          "id": "C",
+          "text": "Increased personalization"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q044",
+      "text": "A company deploys a facial-recognition attendance system without offering alternatives to employees uncomfortable with biometric tracking. What is the MOST ethical criticism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lack of voluntary participation and consent options"
+        },
+        {
+          "id": "B",
+          "text": "Weak internet performance"
+        },
+        {
+          "id": "C",
+          "text": "Excessive employee flexibility"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q045",
+      "text": "A security researcher discovers a flaw in a medical device that could endanger patients. Which action BEST follows ethical professional conduct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ignore issue to avoid legal trouble"
+        },
+        {
+          "id": "B",
+          "text": "Publicly exploit the flaw for awareness"
+        },
+        {
+          "id": "C",
+          "text": "Privately notify stakeholders and support remediation"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-07-q046",
+      "text": "A software company advertises “complete privacy” while secretly sharing metadata with third parties. What is the MOST accurate ethical violation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Honest transparency"
+        },
+        {
+          "id": "B",
+          "text": "Deceptive communication and trust violation"
+        },
+        {
+          "id": "C",
+          "text": "Efficient data optimization"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-07-q047",
+      "text": "A university AI system predicts student failure risks, but inaccurate predictions unfairly stigmatize certain students. What is the MOST important ethical concern?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Potential harm from inaccurate profiling"
+        },
+        {
+          "id": "B",
+          "text": "Increased computational power"
+        },
+        {
+          "id": "C",
+          "text": "Faster administrative processing"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-07-q048",
+      "text": "A company introduces an AI-based insurance approval system that rejects claims faster than human staff. Later, investigations reveal that the AI unfairly denies claims from elderly applicants more frequently. What is the MOST accurate ethical concern?A. Faster processing always justifies outcomesB. Bias and unfair treatment in automated decisionsC. Elderly users misunderstand the systemD. Both A & CE. None of the aboveANSWER: B",
+      "options": [
+        {
+          "id": "A",
+          "text": "A cybersecurity expert discovers a vulnerability in a widely used messaging app. Publishing the flaw immediately could pressure the company to fix it faster but may also help attackers exploit users. What is the MOST ethical approach?"
+        },
+        {
+          "id": "B",
+          "text": "A company requires employees to install productivity-monitoring software on personal devices used at home. The software tracks activity even after working hours. Which ethical principle is MOST clearly violated?"
+        },
+        {
+          "id": "C",
+          "text": "A developer notices that management intentionally hides data-breach incidents from users to avoid reputational damage. What professional responsibility is MOST directly compromised?"
+        },
+        {
+          "id": "D",
+          "text": "A cloud-storage provider collects extensive user data for “service improvement” but never defines retention limits or deletion policies. What is the MOST accurate ethical criticism?"
+        },
+        {
+          "id": "E",
+          "text": "------------------------------------------------------------------------------------------------------------------------"
+        },
+        {
+          "id": "F",
+          "text": "A student sees a viral post supporting their opinion but with no sources. What is the MOST responsible action?"
+        }
+      ],
+      "correctOptionId": "C"
+    }
+  ],
+  "createdAt": "2026-05-18T19:52:14.118Z",
+  "bundled": true,
+  "setIndex": 7,
+  "sourceFile": "FInal Exam-Question Bank (CLO3, CLO4) SC.docx"
+}

@@ -1,0 +1,1360 @@
+{
+  "id": "exam-bank-set-02",
+  "title": "Final Exam Bank — Quiz 2 (50 MCQs)",
+  "questions": [
+    {
+      "id": "exam-bank-set-02-q001",
+      "text": "Which statements about AI are correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Always accurate"
+        },
+        {
+          "id": "B",
+          "text": "Always unbiased"
+        },
+        {
+          "id": "C",
+          "text": "Depends on data"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        },
+        {
+          "id": "E",
+          "text": "Both B & C"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-02-q002",
+      "text": "Which BEST describes system limitations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No errors occur"
+        },
+        {
+          "id": "B",
+          "text": "Complexity issues exist"
+        },
+        {
+          "id": "C",
+          "text": "Human factors matter"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-02-q003",
+      "text": "Which is TRUE about testing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Covers all scenarios"
+        },
+        {
+          "id": "B",
+          "text": "Reduces risk"
+        },
+        {
+          "id": "C",
+          "text": "Cannot ensure perfection"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-02-q004",
+      "text": "Which is TRUE about models?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perfect representation"
+        },
+        {
+          "id": "B",
+          "text": "Simplification of reality"
+        },
+        {
+          "id": "C",
+          "text": "Based on assumptions"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-02-q005",
+      "text": "Which of the following contribute to misinformation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "User bias"
+        },
+        {
+          "id": "B",
+          "text": "Algorithmic amplification"
+        },
+        {
+          "id": "C",
+          "text": "Lack of verification"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-02-q006",
+      "text": "Which is FALSE about systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They can fail"
+        },
+        {
+          "id": "B",
+          "text": "They are perfect"
+        },
+        {
+          "id": "C",
+          "text": "They depend on inputs"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q007",
+      "text": "Which is TRUE about reliability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Absolute reliability exists"
+        },
+        {
+          "id": "B",
+          "text": "Failures cannot be reduced"
+        },
+        {
+          "id": "C",
+          "text": "Risk can be managed"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-02-q008",
+      "text": "A cloud service provider experiences intermittent outages due to failure in multiple dependent microservices. What is the MOST accurate explanation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Single point hardware failure"
+        },
+        {
+          "id": "B",
+          "text": "Lack of internet connectivity"
+        },
+        {
+          "id": "C",
+          "text": "Cascading failure due to interdependencies"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-02-q009",
+      "text": "A hospital system integrates multiple software modules. A minor bug in one module delays patient treatment across departments. What is the key issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Independent system failure"
+        },
+        {
+          "id": "B",
+          "text": "System isolation"
+        },
+        {
+          "id": "C",
+          "text": "Tight coupling between components"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-02-q010",
+      "text": "A company uses an AI hiring tool trained on biased historical data. It systematically disadvantages certain groups. What is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "AI is neutral by default"
+        },
+        {
+          "id": "B",
+          "text": "Bias exists only in humans"
+        },
+        {
+          "id": "C",
+          "text": "Training data influences outcomes"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-02-q011",
+      "text": "A financial system processes transactions correctly under normal conditions but fails during peak hours. What is the primary issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Logic errors"
+        },
+        {
+          "id": "B",
+          "text": "Scalability limitations"
+        },
+        {
+          "id": "C",
+          "text": "Ethical violation"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q012",
+      "text": "A user blindly trusts search engine results without verifying sources. What is the MOST accurate issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Information overload"
+        },
+        {
+          "id": "B",
+          "text": "Lack of access"
+        },
+        {
+          "id": "C",
+          "text": "Absence of critical evaluation"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-02-q013",
+      "text": "A predictive model performs poorly because it ignores rare but critical events. What is the flaw?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Overfitting"
+        },
+        {
+          "id": "B",
+          "text": "Underrepresentation of edge cases"
+        },
+        {
+          "id": "C",
+          "text": "Hardware inefficiency"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q014",
+      "text": "A company releases a software update without backward compatibility, breaking older systems. What is the issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Innovation success"
+        },
+        {
+          "id": "B",
+          "text": "Poor design planning"
+        },
+        {
+          "id": "C",
+          "text": "Hardware mismatch"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q015",
+      "text": "A social platform removes all moderation to promote free speech, leading to harmful content spread. What is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Absolute freedom ensures safety"
+        },
+        {
+          "id": "B",
+          "text": "Lack of moderation increases risk"
+        },
+        {
+          "id": "C",
+          "text": "Systems self-regulate perfectly"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q016",
+      "text": "A system produces consistent results but based on incorrect assumptions. What is the issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Random failure"
+        },
+        {
+          "id": "B",
+          "text": "System unreliability"
+        },
+        {
+          "id": "C",
+          "text": "Consistent but incorrect logic"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-02-q017",
+      "text": "A navigation system fails in remote areas due to lack of signal. What is the key limitation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Software bug"
+        },
+        {
+          "id": "B",
+          "text": "Dependency on external infrastructure"
+        },
+        {
+          "id": "C",
+          "text": "User error"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q018",
+      "text": "A company encrypts user data but shares metadata without consent. What is the concern?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Full privacy protection"
+        },
+        {
+          "id": "B",
+          "text": "Partial privacy violation"
+        },
+        {
+          "id": "C",
+          "text": "No ethical issue"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q019",
+      "text": "A system is highly optimized for speed but fails under unusual conditions. What trade-off is evident?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Speed vs robustness"
+        },
+        {
+          "id": "B",
+          "text": "Cost vs design"
+        },
+        {
+          "id": "C",
+          "text": "Hardware vs software"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-02-q020",
+      "text": "A machine learning model improves accuracy but becomes less interpretable. What is the issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transparency vs performance trade-off"
+        },
+        {
+          "id": "B",
+          "text": "Hardware limitation"
+        },
+        {
+          "id": "C",
+          "text": "Data shortage"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-02-q021",
+      "text": "A company uses automation to reduce costs but removes all human checks. What is the risk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increased efficiency"
+        },
+        {
+          "id": "B",
+          "text": "Uncontrolled system failure"
+        },
+        {
+          "id": "C",
+          "text": "Better reliability"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q022",
+      "text": "A system shows correct outputs but users misinterpret them. What is the issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "System failure"
+        },
+        {
+          "id": "B",
+          "text": "User misunderstanding"
+        },
+        {
+          "id": "C",
+          "text": "Data corruption"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q023",
+      "text": "A company uses user data to personalize services but does not allow opt-out. What is violated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transparency"
+        },
+        {
+          "id": "B",
+          "text": "User autonomy"
+        },
+        {
+          "id": "C",
+          "text": "Legal compliance"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q024",
+      "text": "A distributed system fails because nodes cannot synchronize. What is the issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Centralization"
+        },
+        {
+          "id": "B",
+          "text": "Coordination failure"
+        },
+        {
+          "id": "C",
+          "text": "Hardware overheating"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q025",
+      "text": "A system performs well in lab testing but fails in diverse environments. Why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Controlled testing limitations"
+        },
+        {
+          "id": "B",
+          "text": "Perfect design"
+        },
+        {
+          "id": "C",
+          "text": "User error only"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-02-q026",
+      "text": "A company introduces frequent updates that confuse users. What is the problem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Innovation success"
+        },
+        {
+          "id": "B",
+          "text": "Poor user experience design"
+        },
+        {
+          "id": "C",
+          "text": "Hardware limitation"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q027",
+      "text": "A system fails because developers misunderstood user requirements. What is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Requirement analysis failure"
+        },
+        {
+          "id": "B",
+          "text": "Hardware issue"
+        },
+        {
+          "id": "C",
+          "text": "Testing success"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-02-q028",
+      "text": "A model gives equal importance to all variables, ignoring key factors. What is the flaw?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oversimplification"
+        },
+        {
+          "id": "B",
+          "text": "Overfitting"
+        },
+        {
+          "id": "C",
+          "text": "Data corruption"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-02-q029",
+      "text": "A company uses outdated security protocols leading to breaches. What is the issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strong security"
+        },
+        {
+          "id": "B",
+          "text": "Negligence in updates"
+        },
+        {
+          "id": "C",
+          "text": "Hardware failure"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q030",
+      "text": "A system fails due to incorrect assumptions about user behavior. What is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Users are predictable"
+        },
+        {
+          "id": "B",
+          "text": "Assumptions must reflect reality"
+        },
+        {
+          "id": "C",
+          "text": "Hardware is the issue"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q031",
+      "text": "A platform spreads viral misinformation due to engagement algorithms. What contributes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "User bias"
+        },
+        {
+          "id": "B",
+          "text": "Algorithmic prioritization"
+        },
+        {
+          "id": "C",
+          "text": "Lack of moderation"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-02-q032",
+      "text": "A system crashes due to memory overflow during peak usage. What is the issue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Logical correctness"
+        },
+        {
+          "id": "B",
+          "text": "Resource limitation"
+        },
+        {
+          "id": "C",
+          "text": "Ethical failure"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q033",
+      "text": "A company stores sensitive data without encryption. What is violated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Security principles"
+        },
+        {
+          "id": "B",
+          "text": "Performance standards"
+        },
+        {
+          "id": "C",
+          "text": "Scalability"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-02-q034",
+      "text": "A model ignores rare events leading to catastrophic outcomes. What is TRUE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rare events are irrelevant"
+        },
+        {
+          "id": "B",
+          "text": "Edge cases can be critical"
+        },
+        {
+          "id": "C",
+          "text": "Models are always safe"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q035",
+      "text": "A system is designed for expert users but used by beginners. What issue arises?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Usability mismatch"
+        },
+        {
+          "id": "B",
+          "text": "Hardware failure"
+        },
+        {
+          "id": "C",
+          "text": "Data loss"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-02-q036",
+      "text": "A company relies only on automated testing. What is the limitation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Complete coverage"
+        },
+        {
+          "id": "B",
+          "text": "Missing real-world complexity"
+        },
+        {
+          "id": "C",
+          "text": "Perfect reliability"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q037",
+      "text": "A system’s output is correct but delayed significantly. What trade-off exists?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accuracy vs latency"
+        },
+        {
+          "id": "B",
+          "text": "Security vs privacy"
+        },
+        {
+          "id": "C",
+          "text": "Cost vs design"
+        },
+        {
+          "id": "D",
+          "text": "Both B & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "exam-bank-set-02-q038",
+      "text": "Which of the following are risks in AI systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bias"
+        },
+        {
+          "id": "B",
+          "text": "Lack of transparency"
+        },
+        {
+          "id": "C",
+          "text": "Overdependence"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-02-q039",
+      "text": "Which is TRUE about distributed systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No failures occur"
+        },
+        {
+          "id": "B",
+          "text": "Coordination is complex"
+        },
+        {
+          "id": "C",
+          "text": "Perfect reliability"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q040",
+      "text": "Which BEST explains system failure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Single cause only"
+        },
+        {
+          "id": "B",
+          "text": "Multiple interacting factors"
+        },
+        {
+          "id": "C",
+          "text": "Hardware only"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q041",
+      "text": "Which is TRUE about scalability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Works under all loads"
+        },
+        {
+          "id": "B",
+          "text": "Handles increasing demand effectively"
+        },
+        {
+          "id": "C",
+          "text": "No failures occur"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q042",
+      "text": "Which is TRUE about user behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fully predictable"
+        },
+        {
+          "id": "B",
+          "text": "Always rational"
+        },
+        {
+          "id": "C",
+          "text": "Highly variable"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-02-q043",
+      "text": "Which of the following improve reliability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Testing"
+        },
+        {
+          "id": "B",
+          "text": "Redundancy"
+        },
+        {
+          "id": "C",
+          "text": "Monitoring"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-02-q044",
+      "text": "Which is FALSE about automation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Removes human error"
+        },
+        {
+          "id": "B",
+          "text": "Eliminates all risks"
+        },
+        {
+          "id": "C",
+          "text": "Requires oversight"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q045",
+      "text": "Which BEST describes ethical computing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Profit maximization only"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring users"
+        },
+        {
+          "id": "C",
+          "text": "Considering societal impact"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "exam-bank-set-02-q046",
+      "text": "Which is TRUE about system design?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple always better"
+        },
+        {
+          "id": "B",
+          "text": "Must consider real-world complexity"
+        },
+        {
+          "id": "C",
+          "text": "No need for testing"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q047",
+      "text": "Which of the following cause system failure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Poor design"
+        },
+        {
+          "id": "B",
+          "text": "Human error"
+        },
+        {
+          "id": "C",
+          "text": "Lack of testing"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "exam-bank-set-02-q048",
+      "text": "A developer releases an app that causes data loss but hides the issue to avoid blame. What BEST describes this situation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accountability"
+        },
+        {
+          "id": "B",
+          "text": "Responsibility"
+        },
+        {
+          "id": "C",
+          "text": "Ethical transparency"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "Lack of accountability"
+        }
+      ],
+      "correctOptionId": "E"
+    },
+    {
+      "id": "exam-bank-set-02-q049",
+      "text": "A project manager ensures the final product quality, even though multiple developers contributed. What does this represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shared responsibility only"
+        },
+        {
+          "id": "B",
+          "text": "Accountability for outcomes"
+        },
+        {
+          "id": "C",
+          "text": "No ownership"
+        },
+        {
+          "id": "D",
+          "text": "Both A & C"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "exam-bank-set-02-q050",
+      "text": "A team member delays their task, causing others to miss deadlines. What type of accountability is affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vertical accountability"
+        },
+        {
+          "id": "B",
+          "text": "Public accountability"
+        },
+        {
+          "id": "C",
+          "text": "Horizontal accountability"
+        },
+        {
+          "id": "D",
+          "text": "Both A & B"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionId": "C"
+    }
+  ],
+  "createdAt": "2026-05-18T19:52:14.074Z",
+  "bundled": true,
+  "setIndex": 2,
+  "sourceFile": "FInal Exam-Question Bank (CLO3, CLO4) SC.docx"
+}

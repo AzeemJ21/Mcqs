@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Brain, FileText, Sparkles, Github } from "lucide-react";
+import { BundledQuizList } from "@/components/home/BundledQuizList";
 import { DropZone } from "@/components/upload/DropZone";
 import { FormatBadges } from "@/components/upload/FormatBadge";
 
@@ -56,7 +57,12 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="mt-10">
+      <BundledQuizList />
+
+      <section className="mt-14">
+        <h2 className="mb-4 text-center font-display text-lg font-semibold text-fg">
+          Or upload your own file
+        </h2>
         <div className="mx-auto max-w-2xl">
           <div className="glass-card p-6 sm:p-8">
             <DropZone />
@@ -71,10 +77,10 @@ export default function HomePage() {
           </h2>
           <ol className="mt-4 space-y-3 text-sm text-muted">
             {[
-              "Upload a DOCX, PDF, or TXT file containing your MCQs.",
-              "We parse the questions and answer key automatically.",
-              "Take the quiz one question at a time — keyboard friendly.",
-              "See your score, review every answer, and retake to improve.",
+              "Pick a ready-made quiz from the Final Exam Bank (348 MCQs, 7 sets).",
+              "Or upload your own DOCX, PDF, or TXT — we parse answers automatically.",
+              "Answer one question at a time; see the correct answer after each Next.",
+              "Review your score and retake any set to improve.",
             ].map((step, i) => (
               <li key={i} className="flex items-start gap-3">
                 <span className="grid h-6 w-6 shrink-0 place-items-center rounded-full bg-primary/10 font-display text-xs font-semibold text-primary">

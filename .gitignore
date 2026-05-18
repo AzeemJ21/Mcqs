@@ -5,3 +5,5 @@ out
 .DS_Store
 *.log
 /tmp
+assets/extracted-raw.txt
+tsconfig.tsbuildinfo
