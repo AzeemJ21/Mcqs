@@ -1,0 +1,69 @@
+1. What is the capital of France?
+A) Paris
+B) London
+C) Berlin
+D) Madrid
+Answer: A
+
+2. What does CPU stand for?
+A) Central Processing Unit
+B) Computer Personal Unit
+C) Central Peripheral Unit
+D) Core Processing Unit
+Answer: A
+
+3. Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+4. The speed of light in vacuum is approximately:
+A) 300,000 km/s
+B) 150,000 km/s
+C) 450,000 km/s
+D) 200,000 km/s
+Answer: A
+
+5. Which gas do plants primarily absorb from the atmosphere for photosynthesis?
+A) Oxygen
+B) Nitrogen
+C) Carbon Dioxide
+D) Hydrogen
+Answer: C
+
+6. Who wrote the play "Romeo and Juliet"?
+A) Charles Dickens
+B) William Shakespeare
+C) Mark Twain
+D) Jane Austen
+Answer: B
+
+7. Which is the largest ocean on Earth?
+A) Atlantic Ocean
+B) Indian Ocean
+C) Arctic Ocean
+D) Pacific Ocean
+Answer: D
+
+8. In computing, what does HTTP stand for?
+A) HyperText Transfer Protocol
+B) High Transfer Text Protocol
+C) HyperText Transmission Process
+D) Hyperlink Transfer Tool Protocol
+Answer: A
+
+9. Which element has the chemical symbol "Fe"?
+A) Fluorine
+B) Iron
+C) Lead
+D) Phosphorus
+Answer: B
+
+10. What is the smallest prime number?
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: C
