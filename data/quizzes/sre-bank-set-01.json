@@ -1,0 +1,1360 @@
+{
+  "id": "sre-bank-set-01",
+  "title": "SRE MCQs — Quiz 1 (50 questions)",
+  "questions": [
+    {
+      "id": "sre-bank-set-01-q001",
+      "text": "What is the primary focus of software re-engineering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Developing a new system from scratch"
+        },
+        {
+          "id": "B",
+          "text": "Modifying and improving existing legacy systems"
+        },
+        {
+          "id": "C",
+          "text": "Deleting outdated documentation"
+        },
+        {
+          "id": "D",
+          "text": "Decreasing the number of system users"
+        },
+        {
+          "id": "E",
+          "text": "Marketing new software products"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q002",
+      "text": "Which term refers to existing, older software systems that are often difficult to maintain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Green-field systems"
+        },
+        {
+          "id": "B",
+          "text": "Modern platforms"
+        },
+        {
+          "id": "C",
+          "text": "Legacy systems"
+        },
+        {
+          "id": "D",
+          "text": "Beta versions"
+        },
+        {
+          "id": "E",
+          "text": "Agile prototypes"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q003",
+      "text": "What is a major challenge in maintaining quality during software re-engineering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple system dependencies"
+        },
+        {
+          "id": "B",
+          "text": "Modern system structures"
+        },
+        {
+          "id": "C",
+          "text": "Incomplete or outdated documentation"
+        },
+        {
+          "id": "D",
+          "text": "Excessively detailed original code"
+        },
+        {
+          "id": "E",
+          "text": "Low number of system modules"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q004",
+      "text": "Which quality issue relates to the problems affecting how easily a system can be updated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Usability"
+        },
+        {
+          "id": "B",
+          "text": "Reliability"
+        },
+        {
+          "id": "C",
+          "text": "Performance"
+        },
+        {
+          "id": "D",
+          "text": "Maintainability"
+        },
+        {
+          "id": "E",
+          "text": "Scalability"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "sre-bank-set-01-q005",
+      "text": "What is the impact of poor code quality in legacy systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the code easier to modify."
+        },
+        {
+          "id": "B",
+          "text": "it reduces the number of errors."
+        },
+        {
+          "id": "C",
+          "text": "It makes the system difficult to understand."
+        },
+        {
+          "id": "D",
+          "text": "it eliminates the need for testing."
+        },
+        {
+          "id": "E",
+          "text": "It speeds up the re-engineering process."
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q006",
+      "text": "What is a direct consequence of incomplete documentation during re-engineering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Improved system performance"
+        },
+        {
+          "id": "B",
+          "text": "Misinterpretation of system functionality"
+        },
+        {
+          "id": "C",
+          "text": "Increased hardware compatibility"
+        },
+        {
+          "id": "D",
+          "text": "Enhanced security standards"
+        },
+        {
+          "id": "E",
+          "text": "Faster code execution"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q007",
+      "text": "What happens when original system knowledge is lost?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Business rules are documented in external manuals."
+        },
+        {
+          "id": "B",
+          "text": "Original developers become more accessible."
+        },
+        {
+          "id": "C",
+          "text": "Critical logic may be misunderstood or lost."
+        },
+        {
+          "id": "D",
+          "text": "The system automatically updates itself."
+        },
+        {
+          "id": "E",
+          "text": "Requirements become more clearly defined."
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q008",
+      "text": "In many legacy systems, where are business rules typically found?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In user manuals only"
+        },
+        {
+          "id": "B",
+          "text": "Embedded in the code only"
+        },
+        {
+          "id": "C",
+          "text": "In modern cloud databases"
+        },
+        {
+          "id": "D",
+          "text": "In the system's marketing materials"
+        },
+        {
+          "id": "E",
+          "text": "In standardized project charters"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q009",
+      "text": "Which problem is caused by requirements that are not clearly defined during re-engineering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Requirement Ambiguity"
+        },
+        {
+          "id": "B",
+          "text": "Architecture Degradation"
+        },
+        {
+          "id": "C",
+          "text": "Data Redundancy"
+        },
+        {
+          "id": "D",
+          "text": "System Migration"
+        },
+        {
+          "id": "E",
+          "text": "Code Restructuring"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-01-q010",
+      "text": "What is the impact of modifying existing code without proper validation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Introduction of new bugs"
+        },
+        {
+          "id": "B",
+          "text": "Improved system reliability"
+        },
+        {
+          "id": "C",
+          "text": "Removal of all previous errors"
+        },
+        {
+          "id": "D",
+          "text": "Faster integration testing"
+        },
+        {
+          "id": "E",
+          "text": "Enhanced data quality"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-01-q011",
+      "text": "What type of error describes a situation where previously working functionality fails after code changes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Syntax errors"
+        },
+        {
+          "id": "B",
+          "text": "Logic errors"
+        },
+        {
+          "id": "C",
+          "text": "Regression errors"
+        },
+        {
+          "id": "D",
+          "text": "Hardware errors"
+        },
+        {
+          "id": "E",
+          "text": "Runtime errors"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q012",
+      "text": "How does the introduction of new bugs affect a re-engineered system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It increases system reliability."
+        },
+        {
+          "id": "B",
+          "text": "It reduces system reliability."
+        },
+        {
+          "id": "C",
+          "text": "It has no effect on quality."
+        },
+        {
+          "id": "D",
+          "text": "It improves the user interface."
+        },
+        {
+          "id": "E",
+          "text": "It makes the code cleaner."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q013",
+      "text": "Which of the following is a common data quality issue in legacy databases?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Standardized data formats"
+        },
+        {
+          "id": "B",
+          "text": "Inconsistent data formats"
+        },
+        {
+          "id": "C",
+          "text": "Highly accurate metadata"
+        },
+        {
+          "id": "D",
+          "text": "Encrypted user credentials"
+        },
+        {
+          "id": "E",
+          "text": "Automated data cleaning"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q014",
+      "text": "What is the impact of redundant or corrupted data in a legacy system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Faster database queries"
+        },
+        {
+          "id": "B",
+          "text": "Incorrect outputs after migration"
+        },
+        {
+          "id": "C",
+          "text": "Improved data modeling"
+        },
+        {
+          "id": "D",
+          "text": "Easier system integration"
+        },
+        {
+          "id": "E",
+          "text": "Lower maintenance costs"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q015",
+      "text": "What is the term for an original system architecture that is no longer scalable or up-to-date?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Architecture Integration"
+        },
+        {
+          "id": "B",
+          "text": "Architecture Degradation"
+        },
+        {
+          "id": "C",
+          "text": "Architecture Migration"
+        },
+        {
+          "id": "D",
+          "text": "Architecture Refinement"
+        },
+        {
+          "id": "E",
+          "text": "Architecture Modeling"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q016",
+      "text": "Architecture degradation primarily limits which aspect of a system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Initial development cost"
+        },
+        {
+          "id": "B",
+          "text": "Performance and future upgrades"
+        },
+        {
+          "id": "C",
+          "text": "The number of original developers"
+        },
+        {
+          "id": "D",
+          "text": "The length of the user manual"
+        },
+        {
+          "id": "E",
+          "text": "The color of the interface"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q017",
+      "text": "Which type of testing is used to find undetected defects in a re-engineered system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unit testing only"
+        },
+        {
+          "id": "B",
+          "text": "Beta testing only"
+        },
+        {
+          "id": "C",
+          "text": "Integration and regression testing"
+        },
+        {
+          "id": "D",
+          "text": "Market testing"
+        },
+        {
+          "id": "E",
+          "text": "A/B testing"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q018",
+      "text": "Compatibility issues in re-engineering often involve problems with:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Project budgets"
+        },
+        {
+          "id": "B",
+          "text": "New hardware and modern operating systems"
+        },
+        {
+          "id": "C",
+          "text": "The length of variable names"
+        },
+        {
+          "id": "D",
+          "text": "The number of code comments"
+        },
+        {
+          "id": "E",
+          "text": "Developer office hours"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q019",
+      "text": "What happens if a system has compatibility issues after re-engineering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It works better in new environments."
+        },
+        {
+          "id": "B",
+          "text": "It may fail in new environments."
+        },
+        {
+          "id": "C",
+          "text": "It automatically fixes itself."
+        },
+        {
+          "id": "D",
+          "text": "It improves user experience."
+        },
+        {
+          "id": "E",
+          "text": "It reduces resource usage."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q020",
+      "text": "Performance degradation during re-engineering refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Improving execution speed"
+        },
+        {
+          "id": "B",
+          "text": "Slowing down execution and increasing resource usage"
+        },
+        {
+          "id": "C",
+          "text": "Reducing memory consumption"
+        },
+        {
+          "id": "D",
+          "text": "Enhancing the user experience"
+        },
+        {
+          "id": "E",
+          "text": "Cleaning up the source code"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q021",
+      "text": "What is a common security risk in legacy systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Excessively high security standards"
+        },
+        {
+          "id": "B",
+          "text": "Lack of modern security standards"
+        },
+        {
+          "id": "C",
+          "text": "Automatic software updates"
+        },
+        {
+          "id": "D",
+          "text": "Highly secure authentication"
+        },
+        {
+          "id": "E",
+          "text": "Reduced risk of cyber attacks"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q022",
+      "text": "What is the primary goal of the Source Code Reengineering Reference Model?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To change the external behavior of the software"
+        },
+        {
+          "id": "B",
+          "text": "To transform legacy code into a cleaner, modern form"
+        },
+        {
+          "id": "C",
+          "text": "To delete the existing source code entirely"
+        },
+        {
+          "id": "D",
+          "text": "To increase the complexity of the system"
+        },
+        {
+          "id": "E",
+          "text": "To avoid software maintenance"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q023",
+      "text": "According to the Reference Model, how many major stages are typically involved?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One"
+        },
+        {
+          "id": "B",
+          "text": "Two"
+        },
+        {
+          "id": "C",
+          "text": "Three"
+        },
+        {
+          "id": "D",
+          "text": "Four"
+        },
+        {
+          "id": "E",
+          "text": "Five"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q024",
+      "text": "Which stage of the Source Code Reengineering Reference Model involves understanding the code?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Forward Engineering"
+        },
+        {
+          "id": "B",
+          "text": "Code Restructuring"
+        },
+        {
+          "id": "C",
+          "text": "Reverse Engineering"
+        },
+        {
+          "id": "D",
+          "text": "Market Analysis"
+        },
+        {
+          "id": "E",
+          "text": "Performance Evaluation"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q025",
+      "text": "Which stage of the Reference Model focuses on improving internal structure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Forward Engineering"
+        },
+        {
+          "id": "B",
+          "text": "Reverse Engineering"
+        },
+        {
+          "id": "C",
+          "text": "Code Restructuring"
+        },
+        {
+          "id": "D",
+          "text": "Feasibility Study"
+        },
+        {
+          "id": "E",
+          "text": "Requirement Analysis"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q026",
+      "text": "What does Forward Engineering represent in the re-engineering model?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Understanding the code"
+        },
+        {
+          "id": "B",
+          "text": "Improving internal structure"
+        },
+        {
+          "id": "C",
+          "text": "Rebuilding the system"
+        },
+        {
+          "id": "D",
+          "text": "Analyzing data types"
+        },
+        {
+          "id": "E",
+          "text": "De-compiling binaries"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q027",
+      "text": "What is the focus of \"Reengineering Economics\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Marketing strategies for software"
+        },
+        {
+          "id": "B",
+          "text": "Cost-benefit analysis of re-engineering vs. replacing"
+        },
+        {
+          "id": "C",
+          "text": "The history of computer hardware"
+        },
+        {
+          "id": "D",
+          "text": "Employee salary structures"
+        },
+        {
+          "id": "E",
+          "text": "Legal patents for software"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q028",
+      "text": "In Reengineering Economics, what is the goal when improving legacy systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maximize cost and risk"
+        },
+        {
+          "id": "B",
+          "text": "Minimize value and performance"
+        },
+        {
+          "id": "C",
+          "text": "Maximize value while minimizing cost and risk"
+        },
+        {
+          "id": "D",
+          "text": "Avoid any changes to the system"
+        },
+        {
+          "id": "E",
+          "text": "Spend the entire IT budget immediately"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q029",
+      "text": "When should an organization decide to \"Replace\" a system instead of re-engineering it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When the system works but is poorly structured"
+        },
+        {
+          "id": "B",
+          "text": "When maintenance costs are slightly high"
+        },
+        {
+          "id": "C",
+          "text": "When the system fails to meet business needs"
+        },
+        {
+          "id": "D",
+          "text": "When the technology is useful but the code is old"
+        },
+        {
+          "id": "E",
+          "text": "When there is minor documentation missing"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q030",
+      "text": "If a legacy system has \"Extremely poor code quality,\" what is the recommended decision?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Re-engineer"
+        },
+        {
+          "id": "B",
+          "text": "Replace"
+        },
+        {
+          "id": "C",
+          "text": "Restructure"
+        },
+        {
+          "id": "D",
+          "text": "De-compile"
+        },
+        {
+          "id": "E",
+          "text": "Document"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q031",
+      "text": "What is the recommended decision for a system with \"Obsolete technology but useful logic\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Replace"
+        },
+        {
+          "id": "B",
+          "text": "Re-engineer"
+        },
+        {
+          "id": "C",
+          "text": "Ignore"
+        },
+        {
+          "id": "D",
+          "text": "Delete"
+        },
+        {
+          "id": "E",
+          "text": "Disassemble"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q032",
+      "text": "How is \"Reverse Engineering\" defined in software engineering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Creating new requirements for a future system"
+        },
+        {
+          "id": "B",
+          "text": "Analyzing an existing system to identify components and relationships"
+        },
+        {
+          "id": "C",
+          "text": "Writing code for a new application"
+        },
+        {
+          "id": "D",
+          "text": "Selling software to competitors"
+        },
+        {
+          "id": "E",
+          "text": "Deleting all legacy documentation"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q033",
+      "text": "Reverse engineering represents the system at a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lower level of abstraction"
+        },
+        {
+          "id": "B",
+          "text": "Higher level of abstraction"
+        },
+        {
+          "id": "C",
+          "text": "Physical level only"
+        },
+        {
+          "id": "D",
+          "text": "Machine code level only"
+        },
+        {
+          "id": "E",
+          "text": "Binary level only"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q034",
+      "text": "Which technique examines source code without executing it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dynamic Analysis"
+        },
+        {
+          "id": "B",
+          "text": "Static Analysis"
+        },
+        {
+          "id": "C",
+          "text": "User Testing"
+        },
+        {
+          "id": "D",
+          "text": "Beta Testing"
+        },
+        {
+          "id": "E",
+          "text": "Performance Evaluation"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q035",
+      "text": "Static analysis helps a developer understand which of the following?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Runtime behavior"
+        },
+        {
+          "id": "B",
+          "text": "Control structures and dependencies"
+        },
+        {
+          "id": "C",
+          "text": "Memory usage during execution"
+        },
+        {
+          "id": "D",
+          "text": "Real-time user interactions"
+        },
+        {
+          "id": "E",
+          "text": "Hard drive physical sectors"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q036",
+      "text": "What do static analysis tools typically generate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "User manuals"
+        },
+        {
+          "id": "B",
+          "text": "Marketing charts"
+        },
+        {
+          "id": "C",
+          "text": "Call graphs and dependency graphs"
+        },
+        {
+          "id": "D",
+          "text": "Executable binary files"
+        },
+        {
+          "id": "E",
+          "text": "SQL databases"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q037",
+      "text": "Which analysis technique is performed during system execution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Static Analysis"
+        },
+        {
+          "id": "B",
+          "text": "Dynamic Analysis"
+        },
+        {
+          "id": "C",
+          "text": "Code Restructuring"
+        },
+        {
+          "id": "D",
+          "text": "Feasibility Study"
+        },
+        {
+          "id": "E",
+          "text": "Requirement Elicitation"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q038",
+      "text": "What does Dynamic Analysis track?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Variable names in source code"
+        },
+        {
+          "id": "B",
+          "text": "Comments in the documentation"
+        },
+        {
+          "id": "C",
+          "text": "Runtime behavior and memory usage"
+        },
+        {
+          "id": "D",
+          "text": "The date the code was written"
+        },
+        {
+          "id": "E",
+          "text": "The original developer's name"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q039",
+      "text": "Which technique focuses specifically on understanding the logic and algorithms of modules?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data Structure Recovery"
+        },
+        {
+          "id": "B",
+          "text": "Program Understanding"
+        },
+        {
+          "id": "C",
+          "text": "Control Flow Analysis"
+        },
+        {
+          "id": "D",
+          "text": "Data Flow Analysis"
+        },
+        {
+          "id": "E",
+          "text": "Performance Tuning"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q040",
+      "text": "What is often used to support the \"Program Understanding\" technique?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hardware upgrades"
+        },
+        {
+          "id": "B",
+          "text": "Visualization tools"
+        },
+        {
+          "id": "C",
+          "text": "Deleting the database"
+        },
+        {
+          "id": "D",
+          "text": "Changing the compiler"
+        },
+        {
+          "id": "E",
+          "text": "Marketing surveys"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q041",
+      "text": "Which technique identifies database schemas and file structures in legacy systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Static Analysis"
+        },
+        {
+          "id": "B",
+          "text": "Control Flow Analysis"
+        },
+        {
+          "id": "C",
+          "text": "Data Structure Recovery"
+        },
+        {
+          "id": "D",
+          "text": "Forward Engineering"
+        },
+        {
+          "id": "E",
+          "text": "Code Restructuring"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q042",
+      "text": "When is Data Structure Recovery most useful?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When documentation is perfect"
+        },
+        {
+          "id": "B",
+          "text": "When the system is new"
+        },
+        {
+          "id": "C",
+          "text": "When legacy documentation is missing"
+        },
+        {
+          "id": "D",
+          "text": "During the marketing phase"
+        },
+        {
+          "id": "E",
+          "text": "When hiring new staff"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q043",
+      "text": "Which technique uses Flowcharts and Control Flow Graphs (CFG)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data Flow Analysis"
+        },
+        {
+          "id": "B",
+          "text": "Control Flow Analysis"
+        },
+        {
+          "id": "C",
+          "text": "Data Structure Extraction"
+        },
+        {
+          "id": "D",
+          "text": "User Experience Design"
+        },
+        {
+          "id": "E",
+          "text": "Market Analysis"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q044",
+      "text": "Control Flow Analysis helps detect:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Database keys"
+        },
+        {
+          "id": "B",
+          "text": "Memory leaks"
+        },
+        {
+          "id": "C",
+          "text": "Loops, conditions, and branching logic"
+        },
+        {
+          "id": "D",
+          "text": "Variable data types"
+        },
+        {
+          "id": "E",
+          "text": "Physical server locations"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q045",
+      "text": "What is the primary focus of Data Flow Analysis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Analyzing user satisfaction"
+        },
+        {
+          "id": "B",
+          "text": "Tracking how data moves through the system"
+        },
+        {
+          "id": "C",
+          "text": "Rebuilding the UI"
+        },
+        {
+          "id": "D",
+          "text": "De-compiling machine code"
+        },
+        {
+          "id": "E",
+          "text": "Designing marketing plans"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q046",
+      "text": "What does Data Flow Analysis identify?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Developer salaries"
+        },
+        {
+          "id": "B",
+          "text": "Input/output relationships and variable usage"
+        },
+        {
+          "id": "C",
+          "text": "Operating system versions"
+        },
+        {
+          "id": "D",
+          "text": "Hardware serial numbers"
+        },
+        {
+          "id": "E",
+          "text": "Security encryption keys"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q047",
+      "text": "In which area is reverse engineering widely used?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Creating new startups"
+        },
+        {
+          "id": "B",
+          "text": "Security analysis and legacy maintenance"
+        },
+        {
+          "id": "C",
+          "text": "Designing office layouts"
+        },
+        {
+          "id": "D",
+          "text": "Writing financial reports"
+        },
+        {
+          "id": "E",
+          "text": "Managing human resources"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q048",
+      "text": "Reverse engineering transforms low-level code into:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Binary files"
+        },
+        {
+          "id": "B",
+          "text": "More complex code"
+        },
+        {
+          "id": "C",
+          "text": "Understandable and structured knowledge"
+        },
+        {
+          "id": "D",
+          "text": "Raw machine instructions"
+        },
+        {
+          "id": "E",
+          "text": "Marketing slogans"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "sre-bank-set-01-q049",
+      "text": "What is the relationship between De-compilation and Reverse Engineering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are exactly the same."
+        },
+        {
+          "id": "B",
+          "text": "De-compilation is a specific technique within reverse engineering."
+        },
+        {
+          "id": "C",
+          "text": "Reverse engineering is a technique within de-compilation."
+        },
+        {
+          "id": "D",
+          "text": "They are unrelated concepts."
+        },
+        {
+          "id": "E",
+          "text": "De-compilation is only for hardware."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-01-q050",
+      "text": "Reverse engineering is considered a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Broad process"
+        },
+        {
+          "id": "B",
+          "text": "Specific technique"
+        },
+        {
+          "id": "C",
+          "text": "Programming language"
+        },
+        {
+          "id": "D",
+          "text": "Hardware component"
+        },
+        {
+          "id": "E",
+          "text": "User interface style"
+        }
+      ],
+      "correctOptionId": "A"
+    }
+  ],
+  "createdAt": "2026-05-19T18:09:02.127Z",
+  "bundled": true,
+  "setIndex": 1,
+  "sourceFile": "SRE MCQs Bank (1).txt"
+}

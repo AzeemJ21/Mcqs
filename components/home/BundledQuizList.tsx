@@ -16,7 +16,7 @@ export async function BundledQuizList() {
           <div className="flex items-center gap-2 text-primary">
             <BookOpen className="h-4 w-4" />
             <span className="text-xs font-semibold uppercase tracking-wider">
-              Final exam question bank
+              Software re-engineering MCQs
             </span>
           </div>
           <h2 className="mt-1 font-display text-2xl font-bold text-fg">
@@ -26,7 +26,7 @@ export async function BundledQuizList() {
             {catalog.totalQuestions} MCQs from{" "}
             <span className="text-fg/90">{catalog.source}</span>, split into{" "}
             {catalog.quizzes.length} sets of up to {catalog.chunkSize} questions
-            each (CLO3 &amp; CLO4).
+            each.
           </p>
         </div>
         <div className="flex items-center gap-2 rounded-xl border border-border bg-surface/60 px-4 py-2 text-sm text-muted">

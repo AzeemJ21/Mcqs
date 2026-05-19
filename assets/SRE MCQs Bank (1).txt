@@ -1,0 +1,2600 @@
+What is the primary focus of software re-engineering?
+A. Developing a new system from scratch
+B. Modifying and improving existing legacy systems
+C. Deleting outdated documentation
+D. Decreasing the number of system users
+E. Marketing new software products
+ANSWER: B   
+
+Which term refers to existing, older software systems that are often difficult to maintain?
+A. Green-field systems
+B. Modern platforms
+C. Legacy systems
+D. Beta versions
+E. Agile prototypes
+ANSWER: C   
+
+What is a major challenge in maintaining quality during software re-engineering?
+A. Simple system dependencies
+B. Modern system structures
+C. Incomplete or outdated documentation
+D. Excessively detailed original code
+E. Low number of system modules
+ANSWER: C   
+
+Which quality issue relates to the problems affecting how easily a system can be updated?
+A. Usability
+B. Reliability
+C. Performance
+D. Maintainability
+E. Scalability
+ANSWER: D   
+
+What is the impact of poor code quality in legacy systems?
+A. It makes the code easier to modify.
+B. it reduces the number of errors.
+C. It makes the system difficult to understand.
+D. it eliminates the need for testing.
+E. It speeds up the re-engineering process.
+ANSWER: C   
+
+What is a direct consequence of incomplete documentation during re-engineering?
+A. Improved system performance
+B. Misinterpretation of system functionality
+C. Increased hardware compatibility
+D. Enhanced security standards
+E. Faster code execution
+ANSWER: B   
+
+What happens when original system knowledge is lost?
+A. Business rules are documented in external manuals.
+B. Original developers become more accessible.
+C. Critical logic may be misunderstood or lost.
+D. The system automatically updates itself.
+E. Requirements become more clearly defined.
+ANSWER: C   
+
+In many legacy systems, where are business rules typically found?
+A. In user manuals only
+B. Embedded in the code only
+C. In modern cloud databases
+D. In the system's marketing materials
+E. In standardized project charters
+ANSWER: B   
+
+Which problem is caused by requirements that are not clearly defined during re-engineering?
+A. Requirement Ambiguity
+B. Architecture Degradation
+C. Data Redundancy
+D. System Migration
+E. Code Restructuring
+ANSWER: A   
+
+What is the impact of modifying existing code without proper validation?
+A. Introduction of new bugs
+B. Improved system reliability
+C. Removal of all previous errors
+D. Faster integration testing
+E. Enhanced data quality
+ANSWER: A   
+
+What type of error describes a situation where previously working functionality fails after code changes?
+A. Syntax errors
+B. Logic errors
+C. Regression errors
+D. Hardware errors
+E. Runtime errors
+ANSWER: C   
+
+How does the introduction of new bugs affect a re-engineered system?
+A. It increases system reliability.
+B. It reduces system reliability.
+C. It has no effect on quality.
+D. It improves the user interface.
+E. It makes the code cleaner.
+ANSWER: B   
+
+Which of the following is a common data quality issue in legacy databases?
+A. Standardized data formats
+B. Inconsistent data formats
+C. Highly accurate metadata
+D. Encrypted user credentials
+E. Automated data cleaning
+ANSWER: B   
+
+What is the impact of redundant or corrupted data in a legacy system?
+A. Faster database queries
+B. Incorrect outputs after migration
+C. Improved data modeling
+D. Easier system integration
+E. Lower maintenance costs
+ANSWER: B   
+
+What is the term for an original system architecture that is no longer scalable or up-to-date?
+A. Architecture Integration
+B. Architecture Degradation
+C. Architecture Migration
+D. Architecture Refinement
+E. Architecture Modeling
+ANSWER: B   
+
+Architecture degradation primarily limits which aspect of a system?
+A. Initial development cost
+B. Performance and future upgrades
+C. The number of original developers
+D. The length of the user manual
+E. The color of the interface
+ANSWER: B   
+
+Which type of testing is used to find undetected defects in a re-engineered system?
+A. Unit testing only
+B. Beta testing only
+C. Integration and regression testing
+D. Market testing
+E. A/B testing
+ANSWER: C   
+
+Compatibility issues in re-engineering often involve problems with:
+A. Project budgets
+B. New hardware and modern operating systems
+C. The length of variable names
+D. The number of code comments
+E. Developer office hours
+ANSWER: B   
+
+What happens if a system has compatibility issues after re-engineering?
+A. It works better in new environments.
+B. It may fail in new environments.
+C. It automatically fixes itself.
+D. It improves user experience.
+E. It reduces resource usage.
+ANSWER: B   
+
+Performance degradation during re-engineering refers to:
+A. Improving execution speed
+B. Slowing down execution and increasing resource usage
+C. Reducing memory consumption
+D. Enhancing the user experience
+E. Cleaning up the source code
+ANSWER: B   
+
+What is a common security risk in legacy systems?
+A. Excessively high security standards
+B. Lack of modern security standards
+C. Automatic software updates
+D. Highly secure authentication
+E. Reduced risk of cyber attacks
+ANSWER: B   
+
+What is the primary goal of the Source Code Reengineering Reference Model?
+A. To change the external behavior of the software
+B. To transform legacy code into a cleaner, modern form
+C. To delete the existing source code entirely
+D. To increase the complexity of the system
+E. To avoid software maintenance
+ANSWER: B   
+
+According to the Reference Model, how many major stages are typically involved?
+A. One
+B. Two
+C. Three
+D. Four
+E. Five
+ANSWER: C   
+
+Which stage of the Source Code Reengineering Reference Model involves understanding the code?
+A. Forward Engineering
+B. Code Restructuring
+C. Reverse Engineering
+D. Market Analysis
+E. Performance Evaluation
+ANSWER: C   
+
+Which stage of the Reference Model focuses on improving internal structure?
+A. Forward Engineering
+B. Reverse Engineering
+C. Code Restructuring
+D. Feasibility Study
+E. Requirement Analysis
+ANSWER: C   
+
+What does Forward Engineering represent in the re-engineering model?
+A. Understanding the code
+B. Improving internal structure
+C. Rebuilding the system
+D. Analyzing data types
+E. De-compiling binaries
+ANSWER: C   
+
+What is the focus of "Reengineering Economics"?
+A. Marketing strategies for software
+B. Cost-benefit analysis of re-engineering vs. replacing
+C. The history of computer hardware
+D. Employee salary structures
+E. Legal patents for software
+ANSWER: B   
+
+In Reengineering Economics, what is the goal when improving legacy systems?
+A. Maximize cost and risk
+B. Minimize value and performance
+C. Maximize value while minimizing cost and risk
+D. Avoid any changes to the system
+E. Spend the entire IT budget immediately
+ANSWER: C   
+
+When should an organization decide to "Replace" a system instead of re-engineering it?
+A. When the system works but is poorly structured
+B. When maintenance costs are slightly high
+C. When the system fails to meet business needs
+D. When the technology is useful but the code is old
+E. When there is minor documentation missing
+ANSWER: C   
+
+If a legacy system has "Extremely poor code quality," what is the recommended decision?
+A. Re-engineer
+B. Replace
+C. Restructure
+D. De-compile
+E. Document
+ANSWER: B   
+
+What is the recommended decision for a system with "Obsolete technology but useful logic"?
+A. Replace
+B. Re-engineer
+C. Ignore
+D. Delete
+E. Disassemble
+ANSWER: B   
+
+How is "Reverse Engineering" defined in software engineering?
+A. Creating new requirements for a future system
+B. Analyzing an existing system to identify components and relationships
+C. Writing code for a new application
+D. Selling software to competitors
+E. Deleting all legacy documentation
+ANSWER: B   
+
+Reverse engineering represents the system at a:
+A. Lower level of abstraction
+B. Higher level of abstraction
+C. Physical level only
+D. Machine code level only
+E. Binary level only
+ANSWER: B   
+
+Which technique examines source code without executing it?
+A. Dynamic Analysis
+B. Static Analysis
+C. User Testing
+D. Beta Testing
+E. Performance Evaluation
+ANSWER: B   
+
+Static analysis helps a developer understand which of the following?
+A. Runtime behavior
+B. Control structures and dependencies
+C. Memory usage during execution
+D. Real-time user interactions
+E. Hard drive physical sectors
+ANSWER: B   
+
+What do static analysis tools typically generate?
+A. User manuals
+B. Marketing charts
+C. Call graphs and dependency graphs
+D. Executable binary files
+E. SQL databases
+ANSWER: C   
+
+Which analysis technique is performed during system execution?
+A. Static Analysis
+B. Dynamic Analysis
+C. Code Restructuring
+D. Feasibility Study
+E. Requirement Elicitation
+ANSWER: B   
+
+What does Dynamic Analysis track?
+A. Variable names in source code
+B. Comments in the documentation
+C. Runtime behavior and memory usage
+D. The date the code was written
+E. The original developer's name
+ANSWER: C   
+
+Which technique focuses specifically on understanding the logic and algorithms of modules?
+A. Data Structure Recovery
+B. Program Understanding
+C. Control Flow Analysis
+D. Data Flow Analysis
+E. Performance Tuning
+ANSWER: B   
+
+What is often used to support the "Program Understanding" technique?
+A. Hardware upgrades
+B. Visualization tools
+C. Deleting the database
+D. Changing the compiler
+E. Marketing surveys
+ANSWER: B   
+
+Which technique identifies database schemas and file structures in legacy systems?
+A. Static Analysis
+B. Control Flow Analysis
+C. Data Structure Recovery
+D. Forward Engineering
+E. Code Restructuring
+ANSWER: C   
+
+When is Data Structure Recovery most useful?
+A. When documentation is perfect
+B. When the system is new
+C. When legacy documentation is missing
+D. During the marketing phase
+E. When hiring new staff
+ANSWER: C   
+
+Which technique uses Flowcharts and Control Flow Graphs (CFG)?
+A. Data Flow Analysis
+B. Control Flow Analysis
+C. Data Structure Extraction
+D. User Experience Design
+E. Market Analysis
+ANSWER: B   
+
+Control Flow Analysis helps detect:
+A. Database keys
+B. Memory leaks
+C. Loops, conditions, and branching logic
+D. Variable data types
+E. Physical server locations
+ANSWER: C   
+
+What is the primary focus of Data Flow Analysis?
+A. Analyzing user satisfaction
+B. Tracking how data moves through the system
+C. Rebuilding the UI
+D. De-compiling machine code
+E. Designing marketing plans
+ANSWER: B   
+
+What does Data Flow Analysis identify?
+A. Developer salaries
+B. Input/output relationships and variable usage
+C. Operating system versions
+D. Hardware serial numbers
+E. Security encryption keys
+ANSWER: B   
+
+In which area is reverse engineering widely used?
+A. Creating new startups
+B. Security analysis and legacy maintenance
+C. Designing office layouts
+D. Writing financial reports
+E. Managing human resources
+ANSWER: B   
+
+Reverse engineering transforms low-level code into:
+A. Binary files
+B. More complex code
+C. Understandable and structured knowledge
+D. Raw machine instructions
+E. Marketing slogans
+ANSWER: C   
+
+What is the relationship between De-compilation and Reverse Engineering?
+A. They are exactly the same.
+B. De-compilation is a specific technique within reverse engineering.
+C. Reverse engineering is a technique within de-compilation.
+D. They are unrelated concepts.
+E. De-compilation is only for hardware.
+ANSWER: B   
+
+Reverse engineering is considered a:
+A. Broad process
+B. Specific technique
+C. Programming language
+D. Hardware component
+E. User interface style
+ANSWER: A   
+
+Which of the following is NOT a technique used in reverse engineering?
+A. De-compilation
+B. Disassembly
+C. Debugging
+D. Marketing analysis
+E. Code analysis
+ANSWER: D   
+
+De-compilation is specifically used to convert machine code or bytecode into:
+A. Assembly language
+B. Binary zeros and ones
+C. High-level source code
+D. Requirement documents
+E. Design blueprints
+ANSWER: C   
+
+What is a typical "Input" for the de-compilation process?
+A. Source code in Java
+B. Compiled code (e.g., .exe, .class)
+C. High-level requirements
+D. A project plan
+E. User feedback
+ANSWER: B   
+
+What is a characteristic of code recovered through de-compilation?
+A. It is identical to the original source code.
+B. It includes all original comments.
+C. It is often harder to read and may miss variable names.
+D. It is perfectly structured.
+E. It is written in plain English.
+ANSWER: C   
+
+Using a tool to convert a Java .class file back into Java code is an example of:
+A. Forward engineering
+B. De-compilation
+C. Market research
+D. Project management
+E. Requirements gathering
+ANSWER: B   
+
+Which aspect refers to the "Scope" of De-compilation?
+A. Broad process
+B. Specific technique
+C. System documentation
+D. Design insights
+E. Security analysis
+ANSWER: B   
+
+What is the primary "Purpose" of De-compilation?
+A. To understand the whole system
+B. To recover source code
+C. To create marketing brochures
+D. To upgrade hardware
+E. To manage a team
+ANSWER: B   
+
+Which "Usage" is associated with Reverse Engineering but NOT strictly De-compilation?
+A. Code recovery
+B. Security analysis, maintenance, and migration
+C. Single-file translation
+D. Bytecode conversion
+E. Binary reading
+ANSWER: B   
+
+In the car analogy, "Investigating a car to understand how it works" represents:
+A. De-compilation
+B. Reverse Engineering
+C. Forward Engineering
+D. Manufacturing
+E. Driving
+ANSWER: B   
+
+In the car analogy, "Taking apart the engine to reconstruct its blueprint" represents:
+A. Reverse Engineering
+B. De-compilation
+C. Project planning
+D. Sales
+E. Car washing
+ANSWER: B   
+
+Data Reverse Engineering is the process of analyzing an existing database to discover its:
+A. Marketing strategy
+B. Structure, relationships, and constraints
+C. User passwords
+D. Physical server weight
+E. Project budget
+ANSWER: B   
+
+What is the main goal of Data Reverse Engineering?
+A. To delete old data
+B. To reconstruct a high-level data model (e.g., ER diagrams)
+C. To increase data redundancy
+D. To ignore business rules
+E. To move data to paper records
+ANSWER: B   
+
+Which of the following is an objective of Data Reverse Engineering?
+A. Recovering business rules embedded in data
+B. Reducing the number of database tables
+C. Deleting primary keys
+D. Creating high-level marketing goals
+E. Training new HR staff
+ANSWER: A   
+
+What does ERD stand for in the context of data modeling?
+A. Error Recovery Document
+B. Entity Relationship Diagram
+C. Essential Resource Data
+D. External Requirement Design
+E. Entry Registration Detail
+ANSWER: B   
+
+Data Structure Conceptualization focuses on creating which view of data?
+A. Physical view
+B. Technical implementation view
+C. High-level (abstract) view
+D. Binary view
+E. Machine code view
+ANSWER: C   
+
+Data Structure Conceptualization focuses on "what" data exists without worrying about:
+A. Logical organization
+B. Technical implementation
+C. Real-world scenarios
+D. Entity relationships
+E. The system name
+ANSWER: B   
+
+What is one purpose of Data Structure Conceptualization?
+A. To define data types
+B. To understand what data is needed
+C. To pick a specific database technology
+D. To define storage paths on a disk
+E. To write SQL scripts
+ANSWER: B   
+
+Which of the following is an "Entity" in a school system conceptualization?
+A. Name
+B. Student
+C. ID Number
+D. Data Type
+E. SQL Table
+ANSWER: B   
+
+Which of the following is an "Attribute" in a school system blueprint?
+A. Teacher
+B. Student
+C. Name or ID
+D. Teaching
+E. Enrolling
+ANSWER: C   
+
+In a school system model, "Teaching" and "Enrolling" represent:
+A. Entities
+B. Attributes
+C. Relationships
+D. Data Types
+E. Storage details
+ANSWER: C   
+
+Which of these is NOT a concern of Data Structure Conceptualization?
+A. Entities
+B. Attributes
+C. Data types and storage details
+D. Logical organization
+E. Real-world scenarios
+ANSWER: C   
+
+Data Structure Extraction is the process of retrieving:
+A. Abstract ideas
+B. The actual, physical structure of data
+C. Future requirements
+D. Marketing feedback
+E. User satisfaction levels
+ANSWER: B   
+
+What is the focus of Data Structure Extraction?
+A. High-level entity modeling
+B. Discovering tables, fields, data types, and indexes
+C. Identifying business goals for the next year
+D. Designing a new user interface
+E. Deleting legacy files
+ANSWER: B   
+
+Which of the following does Data Structure Extraction help identify?
+A. User emotions
+B. Primary and foreign keys
+C. Marketing budgets
+D. Office location
+E. Company hierarchy
+ANSWER: B   
+
+What is a key idea behind Data Structure Extraction?
+A. It answers "what entities exist?"
+B. It deals with real, existing physical data structures.
+C. It focuses on abstract logic only.
+D. It avoids looking at databases.
+E. It is the final step in re-engineering.
+ANSWER: B   
+
+What is the relationship between Extraction and Conceptualization?
+A. Conceptualization is the first step.
+B. Extraction is the first step.
+C. They are the same thing.
+D. They are unrelated.
+E. Extraction happens after re-testing.
+ANSWER: B   
+
+Software re-engineering is essential when systems are:
+A. Perfectly documented
+B. Brand new
+C. Legacy systems with outdated structures
+D. Built on modern cloud technology
+E. Used by only one person
+ANSWER: C   
+
+What is the "Output" of De-compilation?
+A. ER Diagrams
+B. Approximate high-level code
+C. User manuals
+D. Hardware specs
+E. Marketing plans
+ANSWER: B   
+
+What is the "Output" of Reverse Engineering?
+A. Only a .class file
+B. Design insights and documentation
+C. A compiled .exe file
+D. A marketing survey
+E. A hardware motherboard
+ANSWER: B   
+
+Which technique helps understand "Control structures" and "Dependencies"?
+A. Dynamic Analysis
+B. Static Analysis
+C. Forward Engineering
+D. Market research
+E. User training
+ANSWER: B   
+
+"Runtime behavior" is a focus of:
+A. Static Analysis
+B. Dynamic Analysis
+C. Data Structure Extraction
+D. Requirement Ambiguity
+E. Conceptualization
+ANSWER: B   
+
+Identifying "Modules" and "Algorithms" is part of:
+A. Data Flow Analysis
+B. Program Understanding
+C. Disassembly
+D. Regression testing
+E. Performance tuning
+ANSWER: B   
+
+Which analysis detects "Loops and Branching Logic"?
+A. Data Flow Analysis
+B. Control Flow Analysis
+C. Static Analysis only
+D. Documentation review
+E. UI testing
+ANSWER: B   
+
+What tracks the dependencies between modules via data movement?
+A. Control Flow Analysis
+B. Data Flow Analysis
+C. Dynamic Analysis only
+D. Disassembly
+E. Forward engineering
+ANSWER: B   
+
+In Reengineering Economics, what is a "Situation" that leads to a "Reengineer" decision?
+A. System fails business needs
+B. Technology is completely outdated
+C. System works but is poorly structured
+D. Extremely poor code quality
+E. The system is no longer needed
+ANSWER: C   
+
+What is a decision criteria to "Replace" a system?
+A. High maintenance cost
+B. System fails to meet business needs
+C. Obsolete technology but useful logic
+D. Useful logic in old code
+E. Minor documentation errors
+ANSWER: B   
+
+Which stage of the Reference Model rebuilds the system?
+A. Reverse Engineering
+B. Code Restructuring
+C. Forward Engineering
+D. Feasibility Study
+E. Extraction
+ANSWER: C   
+
+Which technique uses "Debugging" as one of its methods?
+A. Forward engineering
+B. Reverse engineering
+C. Market research
+D. Project scheduling
+E. Resource management
+ANSWER: B   
+
+Data reverse engineering is especially useful when:
+A. The original developers are present
+B. Documentation is missing or outdated
+C. The system is new
+D. The database is empty
+E. There are no business rules
+ANSWER: B   
+
+"Tables" and "Files" are discovered during:
+A. Data Structure Conceptualization
+B. Data Structure Extraction
+C. Code Restructuring
+D. Static Analysis
+E. Performance Evaluation
+ANSWER: B   
+
+"Approximate source code" is the result of:
+A. Forward engineering
+B. De-compilation
+C. Design to code
+D. User interface design
+E. Manual coding
+ANSWER: B   
+
+Software re-engineering helps improve system:
+A. Age
+B. Maintainability and reliability
+C. Physical weight
+D. Electricity consumption
+E. Color scheme
+ANSWER: B   
+
+Which issue describes the risk of cyber attacks on legacy systems?
+A. Data Quality
+B. Performance Degradation
+C. Security Vulnerabilities
+D. Architecture Degradation
+E. Requirement Ambiguity
+ANSWER: C   
+
+In the Reference Model, "Understanding the code" is:
+A. Forward engineering
+B. Reverse engineering
+C. Restructuring
+D. Implementation
+E. Testing
+ANSWER: B   
+
+Which technique focuses on "Memory Usage"?
+A. Static Analysis
+B. Dynamic Analysis
+C. Control Flow Analysis
+D. Data Structure Recovery
+E. Disassembly
+ANSWER: B   
+
+Which of the following is a key objective of Data Reverse Engineering?
+A. Identifying primary and foreign keys
+B. Reducing the number of users
+C. Deleting the source code
+D. Moving servers to a new city
+E. Designing a new company logo
+ANSWER: A   
+
+Data Structure Extraction answers the question:
+A. "What entities should exist in the future?"
+B. "How is data stored and organized physically?"
+C. "What is the company's marketing plan?"
+D. "Who is the lead developer?"
+E. "How much does the software cost?"
+ANSWER: B   
+
+Reverse Engineering helps in "System Migration" by:
+A. Deleting the old system
+B. Transforming low-level code into structured knowledge
+C. Increasing system errors
+D. Slowing down the move
+E. Using outdated hardware
+ANSWER: B   
+
+What is the impact of "Performance Degradation"?
+A. Better user experience
+B. Poor user experience
+C. No impact
+D. Faster response times
+E. Reduced resource usage
+ANSWER: B   
+
+What is a "Key Point" of De-compilation?
+A. It produces code identical to the original.
+B. It is a broad process.
+C. The recovered code may miss comments and variable names.
+D. It only works on documentation.
+E. It is used for marketing.
+ANSWER: C
+
+What is software reengineering? A. Developing software from scratch B. Improving and modifying existing software C. Manufacturing hardware devices D. Designing only user interfaces E. Creating network cables ANSWER: B
+What is the main objective of software reengineering? A. Increase maintenance cost B. Improve software quality and maintainability C. Eliminate users D. Replace all hardware E. Reduce documentation ANSWER: B
+A legacy system is: A. A brand-new application B. A temporary prototype C. An outdated but still useful system D. A cloud-native application E. A hardware device ANSWER: C
+Reverse engineering is used to: A. Destroy software B. Recover design information from software C. Create viruses D. Replace databases E. Format storage devices ANSWER: B
+Forward engineering means: A. Recovering requirements from code B. Developing software from specifications C. Deleting software modules D. Compressing source files E. Replacing operating systems ANSWER: B
+Which maintenance type fixes bugs? A. Adaptive maintenance B. Perfective maintenance C. Corrective maintenance D. Preventive maintenance E. Evolutionary maintenance ANSWER: C
+Adaptive maintenance is performed to: A. Correct defects B. Improve performance only C. Adapt software to a changed environment D. Remove users E. Replace source code completely ANSWER: C
+Perfective maintenance focuses on: A. Enhancing software performance and features B. Removing all modules C. Replacing programmers D. Encrypting files E. Installing hardware ANSWER: A
+Preventive maintenance aims to: A. Prevent future problems B. Create new bugs C. Delete old records D. Increase complexity E. Remove documentation ANSWER: A
+Which factor contributes to software aging? A. Controlled modifications B. Frequent unmanaged changes C. Clear documentation D. Modular design E. Refactoring ANSWER: B
+Legacy systems are difficult to replace because: A. They are always cheap B. They contain valuable business logic C. They are unused D. They need no maintenance E. They are open source ANSWER: B
+Which language is commonly associated with legacy systems? A. Kotlin B. Rust C. COBOL D. Swift E. Dart ANSWER: C
+Program comprehension means: A. Understanding software behavior and structure B. Designing hardware C. Creating viruses D. Encrypting databases E. Formatting disks ANSWER: A
+Which activity helps understand legacy systems? A. Reverse engineering B. Hardware testing C. Cable installation D. Manufacturing E. Database deletion ANSWER: A
+Which of the following is a challenge in software evolution? A. Poor documentation B. Complex dependencies C. Obsolete technologies D. Lack of expertise E. All of the above ANSWER: E
+Static analysis examines software: A. During execution B. Without execution C. After deletion D. Through hardware testing E. During manufacturing ANSWER: B
+Dynamic analysis requires: A. No execution B. Program execution C. Hardware replacement D. Disk formatting E. Database removal ANSWER: B
+Code restructuring improves: A. Maintainability B. Readability C. Internal quality D. Structure E. All of the above ANSWER: E
+Refactoring is: A. Rewriting software completely B. Improving code structure without changing behavior C. Deleting all modules D. Replacing hardware E. Encrypting applications ANSWER: B
+Which of the following is a code smell? A. Duplicate code B. Proper documentation C. High cohesion D. Encapsulation E. Abstraction ANSWER: A
+Spaghetti code refers to: A. Structured programming B. Tangled and poorly organized code C. Modular design D. Database normalization E. Hardware optimization ANSWER: B
+High cohesion is generally: A. Undesirable B. Preferred C. Impossible D. Expensive only E. Hardware-dependent ANSWER: B
+Low coupling between modules is: A. Preferred B. Avoided C. Irrelevant D. Dangerous E. Mandatory to avoid ANSWER: A
+Which metric measures code complexity? A. Halstead metric B. Cyclomatic complexity C. Fan-in metric D. Fan-out metric E. LOC only ANSWER: B
+Cyclomatic complexity is related to: A. Number of classes B. Number of independent paths C. Number of users D. Number of processors E. Database tables ANSWER: B
+Dead code is: A. Executed frequently B. Never executed C. Hardware-dependent D. Automatically optimized E. Encrypted code ANSWER: B
+Data restructuring focuses on: A. Improving data organization B. Removing all records C. Increasing redundancy D. Deleting databases E. Hardware replacement ANSWER: A
+Database normalization helps reduce: A. Redundancy B. Security C. Performance D. Modularity E. Scalability ANSWER: A
+Which normal form removes partial dependency? A. 1NF B. 2NF C. 3NF D. BCNF E. 5NF ANSWER: B
+Which normal form removes transitive dependency? A. 1NF B. 2NF C. 3NF D. 4NF E. 5NF ANSWER: C
+Re-documentation involves: A. Updating software documentation B. Removing manuals C. Hardware maintenance D. Replacing operating systems E. Deleting comments ANSWER: A
+CASE tools are used for: A. Software development support B. Hardware assembly C. Network installation D. Manufacturing processes E. Data deletion ANSWER: A
+Regression testing is important after: A. Refactoring B. Reengineering C. Maintenance D. Bug fixing E. All of the above ANSWER: E
+Which maintenance type adds new features? A. Corrective B. Adaptive C. Perfective D. Preventive E. Emergency ANSWER: C
+Software evolution refers to: A. Gradual software modification over time B. Hardware manufacturing C. Replacing programmers D. Deleting applications E. Data encryption ANSWER: A
+Design recovery extracts: A. Source code only B. High-level abstractions from code C. Hardware architecture D. Disk partitions E. IP addresses ANSWER: B
+Which factor increases maintenance difficulty? A. Modular design B. Poor documentation C. High cohesion D. Reusability E. Encapsulation ANSWER: B
+Software reengineering is cheaper than: A. Refactoring B. Total redevelopment in many cases C. Testing D. Maintenance E. Documentation ANSWER: B
+Which activity improves software readability? A. Refactoring B. Obfuscation C. Compression D. Encryption E. Formatting disks ANSWER: A
+Encapsulation is a principle of: A. Object-oriented programming B. Networking C. Hardware engineering D. Database normalization E. Manufacturing ANSWER: A
+Inheritance promotes: A. Code reuse B. Data loss C. Hardware optimization D. Network latency E. Database redundancy ANSWER: A
+Polymorphism allows: A. Multiple forms of methods B. Multiple processors only C. Hardware virtualization D. Disk formatting E. Database partitioning ANSWER: A
+LOC stands for: A. Level of coding B. Lines of code C. Logic of computation D. List of classes E. Length of compiler ANSWER: B
+Which maintenance activity modifies software for new OS support? A. Corrective B. Adaptive C. Perfective D. Preventive E. Emergency ANSWER: B
+Which technique divides a program into smaller modules? A. Modularization B. Compression C. Encryption D. Replication E. Virtualization ANSWER: A
+A highly coupled system is usually: A. Easier to maintain B. Harder to maintain C. More secure only D. Less complex E. Hardware-independent ANSWER: B
+Software architecture describes: A. High-level system structure B. Only database tables C. Hardware circuits D. Network cables E. Printer settings ANSWER: A
+Reusability helps: A. Reduce development effort B. Increase redundancy C. Eliminate testing D. Remove documentation E. Increase maintenance cost ANSWER: A
+Unit testing focuses on: A. Entire system B. Individual components C. Hardware only D. Databases only E. Networks only ANSWER: B
+SRS stands for: A. Software Requirement Specification B. System Resource Setup C. Source Recovery Standard D. Software Recovery Scheme E. Structured Requirement Setup ANSWER: A
+Which UML diagram shows class relationships? A. Use case diagram B. Sequence diagram C. Class diagram D. Activity diagram E. State diagram ANSWER: C
+Which process transforms code into higher abstraction? A. Reverse engineering B. Forward engineering C. Compilation D. Execution E. Compression ANSWER: A
+Reliability refers to: A. Consistent correct operation B. Hardware manufacturing C. Database normalization D. Disk compression E. Modularization ANSWER: A
+Which metric measures module interdependence? A. Coupling B. Cohesion C. LOC D. Complexity only E. Productivity ANSWER: A
+Which metric measures internal module strength? A. Cohesion B. Coupling C. LOC D. Fan-out E. Fan-in ANSWER: A
+Which testing verifies user requirements? A. Unit testing B. Integration testing C. Acceptance testing D. Regression testing E. Smoke testing ANSWER: C
+Git is an example of: A. Version control system B. Database C. Operating system D. Compiler E. Text editor ANSWER: A
+DRY stands for: A. Don't Repeat Yourself B. Dynamic Runtime Yield C. Data Recovery Yield D. Distributed Resource Yard E. Direct Routing Yard ANSWER: A
+Technical debt refers to: A. Future cost caused by poor design choices B. Financial loan for software C. Hardware maintenance cost D. Database licensing E. Cloud subscription fees ANSWER: A
+Which software quality factor relates to user friendliness? A. Usability B. Reliability C. Maintainability D. Portability E. Scalability ANSWER: A
+Which process identifies software dependencies? A. Impact analysis B. Formatting C. Compression D. Encryption E. Replication ANSWER: A
+Which principle reduces duplicate code? A. DRY principle B. FIFO principle C. LIFO principle D. OSI principle E. TCP principle ANSWER: A
+Which architecture separates presentation and business logic? A. Layered architecture B. Monolithic architecture only C. Pipeline architecture D. Hardware architecture E. Star topology ANSWER: A
+Microservices architecture promotes: A. Independent deployable services B. Tight coupling C. Single large codebase D. No testing E. Hardware dependence ANSWER: A
+Which principle hides implementation details? A. Abstraction B. Duplication C. Hard coding D. Redundancy E. Replication ANSWER: A
+Which process checks software quality standards? A. Software audit B. Data deletion C. Formatting D. Compression E. Replication ANSWER: A
+Which concept refers to ease of modifying software? A. Maintainability B. Reliability C. Availability D. Efficiency E. Portability ANSWER: A
+Which technique removes unnecessary complexity? A. Simplification B. Duplication C. Hard coding D. Obfuscation E. Encryption ANSWER: A
+Which language strongly supports OOP? A. Java B. Assembly only C. HTML D. SQL E. CSS ANSWER: A
+Which metric indicates testing difficulty? A. Cyclomatic complexity B. LOC only C. Fan-in D. Fan-out E. Availability ANSWER: A
+Higher cyclomatic complexity generally means: A. More testing paths B. Less complexity C. Better readability always D. Smaller code size E. Lower maintenance cost ANSWER: A
+Which software attribute measures speed and resource use? A. Efficiency B. Maintainability C. Reliability D. Portability E. Usability ANSWER: A
+Which activity updates outdated interfaces? A. Interface modernization B. Data compression C. Disk partitioning D. Network routing E. Replication ANSWER: A
+Which process converts procedural code into OO code? A. Object-oriented reengineering B. Encryption C. Compression D. Virtualization E. Formatting ANSWER: A
+Which process ensures software consistency after changes? A. Regression testing B. Compilation C. Compression D. Encryption E. Beautification ANSWER: A
+Which software quality factor measures adaptability? A. Flexibility B. Coupling C. Complexity D. Redundancy E. Encapsulation ANSWER: A
+Which process extracts entities and relationships? A. Data modeling B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which diagram shows deployment structure? A. Deployment diagram B. Activity diagram C. ER diagram D. DFD E. Pie chart ANSWER: A
+Which process reduces technical debt? A. Refactoring B. Duplication C. Hard coding D. Obfuscation E. Random coding ANSWER: A
+Which quality factor measures expansion capability? A. Scalability B. Reliability C. Maintainability D. Portability E. Availability ANSWER: A
+Which process updates software for cloud platforms? A. Cloud migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which concept hides complexity from users? A. Abstraction B. Duplication C. Replication D. Hard coding E. Redundancy ANSWER: A
+Which process identifies duplicate modules? A. Code analysis B. Compression C. Encryption D. Replication E. Formatting ANSWER: A
+Which process modernizes obsolete technologies? A. Technology migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which process identifies hidden dependencies? A. Dependency analysis B. Beautification C. Compression D. Encryption E. Replication ANSWER: A
+Which activity simplifies nested logic? A. Refactoring B. Duplication C. Hard coding D. Obfuscation E. Compression ANSWER: A
+Which process modernizes outdated software architecture? A. Architectural reengineering B. Compression C. Encryption D. Replication E. Formatting ANSWER: A
+Which practice reduces risk in modernization? A. Incremental migration B. Big bang replacement C. Random coding D. Duplication E. Hard coding ANSWER: A
+Which process ensures compatibility with new platforms? A. Porting B. Compression C. Formatting D. Replication E. Encryption ANSWER: A
+Which software attribute supports reuse in other systems? A. Reusability B. Reliability C. Availability D. Scalability E. Performance ANSWER: A
+Which process identifies software defects automatically? A. Automated testing B. Compression C. Encryption D. Replication E. Formatting ANSWER: A
+Docker is commonly used for: A. Containerization B. Database normalization C. Hardware assembly D. File encryption E. Spreadsheet editing ANSWER: A
+Which process converts legacy databases to modern DBMS? A. Database migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which quality attribute measures response time? A. Performance B. Maintainability C. Portability D. Reliability E. Reusability ANSWER: A
+Which process identifies bottlenecks? A. Performance analysis B. Compression C. Encryption D. Formatting E. Replication ANSWER: A
+Which practice encourages small manageable changes? A. Incremental reengineering B. Big bang replacement C. Random coding D. Hard coding E. Duplication ANSWER: A
+Which process identifies outdated dependencies? A. Dependency auditing B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which testing confirms bug fixes? A. Regression testing B. Smoke testing C. Alpha testing D. Beta testing E. Acceptance testing ANSWER: A
+Which concept improves software adaptability? A. Flexibility B. Redundancy C. Tight coupling D. Hard coding E. Duplication ANSWER: A
+Which activity is essential after software modification? A. Testing and validation B. Hardware disposal C. Network shutdown D. Disk formatting E. Data deletion ANSWER: A
+What is the purpose of software maintenance? A. To destroy software B. To keep software operational and updated C. To replace all users D. To avoid testing E. To eliminate databases ANSWER: B
+Which maintenance type focuses on adapting to new environments? A. Corrective B. Preventive C. Perfective D. Adaptive E. Emergency ANSWER: D
+Which activity improves code readability? A. Refactoring B. Obfuscation C. Duplication D. Compression E. Encryption ANSWER: A
+Reverse engineering helps recover: A. Source code structure B. Hardware drivers only C. Printer settings D. User passwords E. Network topology only ANSWER: A
+Which process transforms design into code? A. Reverse engineering B. Forward engineering C. Refactoring D. Debugging E. Profiling ANSWER: B
+Which metric measures software size? A. LOC B. Coupling C. Cohesion D. Cyclomatic complexity E. Fan-in ANSWER: A
+What does high coupling indicate? A. Independent modules B. Strong interdependency among modules C. Better maintainability always D. Reduced testing needs E. Higher abstraction ANSWER: B
+Which concept improves module independence? A. Tight coupling B. Loose coupling C. Duplication D. Obfuscation E. Redundancy ANSWER: B
+Which software quality attribute measures ease of use? A. Portability B. Reliability C. Usability D. Scalability E. Availability ANSWER: C
+Which testing verifies interactions among modules? A. Unit testing B. Integration testing C. Acceptance testing D. Smoke testing E. Beta testing ANSWER: B
+Which process identifies unreachable code? A. Static analysis B. Dynamic analysis C. Compilation D. Linking E. Deployment ANSWER: A
+Which software model follows sequential phases? A. Spiral model B. Agile model C. Waterfall model D. Incremental model E. RAD model ANSWER: C
+Which UML diagram represents system functionality? A. Class diagram B. Sequence diagram C. Use case diagram D. Activity diagram E. Deployment diagram ANSWER: C
+Which diagram shows workflow processes? A. Activity diagram B. ER diagram C. Class diagram D. Pie chart E. State chart ANSWER: A
+Which activity restructures database schemas? A. Data restructuring B. Code beautification C. Compression D. Encryption E. Replication ANSWER: A
+Which maintenance type improves performance? A. Perfective maintenance B. Corrective maintenance C. Adaptive maintenance D. Emergency maintenance E. Preventive maintenance ANSWER: A
+Which principle avoids repeated logic? A. DRY principle B. FIFO principle C. KISS principle D. OSI principle E. TCP principle ANSWER: A
+What is a code smell? A. Good coding practice B. Indicator of possible design issues C. Hardware issue D. Security certificate E. Compiler optimization ANSWER: B
+Spaghetti code is usually: A. Easy to maintain B. Highly modular C. Difficult to understand D. Object-oriented E. Hardware optimized ANSWER: C
+Which software attribute measures reliability over time? A. Availability B. Maintainability C. Reliability D. Portability E. Flexibility ANSWER: C
+Which process identifies software bottlenecks? A. Performance analysis B. Encryption C. Compression D. Formatting E. Replication ANSWER: A
+Which concept groups related functionalities together? A. Cohesion B. Coupling C. Duplication D. Redundancy E. Obfuscation ANSWER: A
+Which process modernizes old user interfaces? A. Interface reengineering B. Compression C. Encryption D. Formatting E. Replication ANSWER: A
+Which process converts old systems to cloud platforms? A. Cloud migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which architecture style uses small independent services? A. Monolithic architecture B. Microservices architecture C. Pipeline architecture D. Layered architecture E. Client-server only ANSWER: B
+Which process manages software versions? A. Configuration management B. Refactoring C. Compression D. Encryption E. Replication ANSWER: A
+Git is mainly used for: A. Software testing B. Version control C. Database design D. Network monitoring E. Hardware repair ANSWER: B
+Which testing verifies the complete system? A. Unit testing B. Integration testing C. System testing D. Smoke testing E. White-box testing ANSWER: C
+Which software quality factor measures modification ease? A. Maintainability B. Performance C. Reliability D. Security E. Availability ANSWER: A
+Which activity removes duplicate code? A. Refactoring B. Obfuscation C. Formatting D. Encryption E. Compression ANSWER: A
+Which metric counts independent execution paths? A. LOC B. Cyclomatic complexity C. Coupling D. Cohesion E. Function points ANSWER: B
+Which analysis requires program execution? A. Static analysis B. Dynamic analysis C. Structural analysis D. Syntax analysis E. Semantic analysis ANSWER: B
+Which process recovers high-level architecture? A. Architectural recovery B. Compilation C. Compression D. Encryption E. Replication ANSWER: A
+Which maintenance type prevents future failures? A. Corrective B. Perfective C. Preventive D. Adaptive E. Emergency ANSWER: C
+Which concept hides implementation details? A. Abstraction B. Duplication C. Hard coding D. Replication E. Redundancy ANSWER: A
+Which process improves naming conventions? A. Code restructuring B. Encryption C. Formatting disks D. Compression E. Replication ANSWER: A
+Which diagram models database entities? A. ER diagram B. Activity diagram C. Sequence diagram D. State diagram E. Use case diagram ANSWER: A
+Which process updates outdated libraries? A. Dependency upgrade B. Compression C. Replication D. Formatting E. Encryption ANSWER: A
+Which software artifact defines requirements? A. SRS document B. Test report C. Build file D. Source file E. Deployment log ANSWER: A
+Which process improves software portability? A. Platform migration B. Duplication C. Hard coding D. Encryption E. Compression ANSWER: A
+Which concept supports reuse of existing code? A. Inheritance B. Duplication C. Hard coding D. Replication E. Nesting ANSWER: A
+Which process simplifies deployment? A. Containerization B. Duplication C. Formatting D. Encryption E. Compression ANSWER: A
+Docker is associated with: A. Database normalization B. Containerization C. Hardware maintenance D. Encryption E. Refactoring ANSWER: B
+Which process identifies maintainability issues? A. Metrics analysis B. Compression C. Replication D. Formatting E. Encryption ANSWER: A
+Which process ensures modified code still works? A. Regression testing B. Smoke testing C. Acceptance testing D. Beta testing E. Alpha testing ANSWER: A
+Which architecture separates software into layers? A. Layered architecture B. Monolithic architecture C. Peer-to-peer architecture D. Pipe-and-filter architecture E. Event-driven architecture ANSWER: A
+Which activity modernizes legacy databases? A. Database migration B. Compression C. Replication D. Encryption E. Formatting ANSWER: A
+Which process analyzes runtime efficiency? A. Profiling B. Compilation C. Encryption D. Compression E. Refactoring ANSWER: A
+Which software quality factor measures uptime? A. Availability B. Reliability C. Maintainability D. Usability E. Flexibility ANSWER: A
+Which process reduces software complexity? A. Refactoring B. Duplication C. Obfuscation D. Hard coding E. Replication ANSWER: A
+Which maintenance activity changes software due to legal regulations? A. Adaptive maintenance B. Corrective maintenance C. Perfective maintenance D. Preventive maintenance E. Emergency maintenance ANSWER: A
+Which process identifies affected components after modification? A. Impact analysis B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which software metric measures delivered functionality? A. Function points B. Coupling C. Cohesion D. Fan-in E. Fan-out ANSWER: A
+Which testing verifies user expectations? A. Acceptance testing B. Unit testing C. Integration testing D. Smoke testing E. Mutation testing ANSWER: A
+Which activity removes obsolete modules? A. Code cleanup B. Compression C. Replication D. Encryption E. Formatting ANSWER: A
+Which concept improves software scalability? A. Modular design B. Tight coupling C. Duplication D. Hard coding E. Random coding ANSWER: A
+Which process converts procedural systems into OOP systems? A. OO reengineering B. Compression C. Replication D. Formatting E. Encryption ANSWER: A
+Which software quality factor measures response speed? A. Performance B. Reliability C. Availability D. Usability E. Maintainability ANSWER: A
+Which process detects hidden security flaws? A. Vulnerability assessment B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which activity documents recovered design information? A. Re-documentation B. Compression C. Replication D. Formatting E. Encryption ANSWER: A
+Which process identifies dead code? A. Static analysis B. Dynamic analysis C. Smoke testing D. Integration testing E. Acceptance testing ANSWER: A
+Which process converts old APIs into modern APIs? A. API migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which process groups related code into modules? A. Modularization B. Duplication C. Encryption D. Compression E. Replication ANSWER: A
+Which software quality factor measures easy learning? A. Usability B. Reliability C. Availability D. Scalability E. Maintainability ANSWER: A
+Which process ensures change traceability? A. Configuration management B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which practice reduces modernization risk? A. Incremental migration B. Big bang replacement C. Random coding D. Duplication E. Hard coding ANSWER: A
+Which concept supports independent deployment? A. Microservices B. Monolithic systems C. Tight coupling D. Redundancy E. Duplication ANSWER: A
+Which process identifies architecture violations? A. Architecture analysis B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which maintenance type fixes operational failures? A. Corrective maintenance B. Perfective maintenance C. Adaptive maintenance D. Preventive maintenance E. Evolutionary maintenance ANSWER: A
+Which process modernizes outdated frameworks? A. Framework migration B. Compression C. Replication D. Formatting E. Encryption ANSWER: A
+Which concept supports hiding unnecessary details? A. Encapsulation B. Duplication C. Hard coding D. Redundancy E. Compression ANSWER: A
+Which process verifies software quality standards? A. Software audit B. Compression C. Replication D. Formatting E. Encryption ANSWER: A
+Which process updates documentation after changes? A. Re-documentation B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which process analyzes source code structure? A. Code analysis B. Compression C. Encryption D. Replication E. Formatting ANSWER: A
+Which software quality factor measures adaptability to new environments? A. Portability B. Reliability C. Availability D. Maintainability E. Security ANSWER: A
+Which process improves software flexibility? A. Refactoring B. Hard coding C. Duplication D. Compression E. Encryption ANSWER: A
+Which process identifies performance bottlenecks? A. Profiling B. Formatting C. Compression D. Replication E. Encryption ANSWER: A
+Which process transforms legacy systems gradually? A. Incremental reengineering B. Big bang replacement C. Compression D. Encryption E. Formatting ANSWER: A
+Which process improves maintainability without changing output? A. Refactoring B. Redevelopment C. Compression D. Encryption E. Replication ANSWER: A
+Which software quality factor measures correct functionality? A. Reliability B. Portability C. Scalability D. Flexibility E. Reusability ANSWER: A
+Which process identifies redundant dependencies? A. Dependency cleanup B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which process modernizes legacy architecture? A. Architectural reengineering B. Compression C. Formatting D. Replication E. Encryption ANSWER: A
+Which process identifies affected modules before modification? A. Impact analysis B. Compression C. Encryption D. Formatting E. Replication ANSWER: A
+Which concept improves readability and comprehension? A. Meaningful naming B. Deep nesting C. Hard coding D. Duplication E. Obfuscation ANSWER: A
+Which process converts software into reusable services? A. Service-oriented reengineering B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which testing validates integrated modules together? A. Integration testing B. Unit testing C. Acceptance testing D. Smoke testing E. Alpha testing ANSWER: A
+Which process modernizes outdated UI technology? A. UI migration B. Compression C. Formatting D. Replication E. Encryption ANSWER: A
+Which process measures software maintainability? A. Metrics analysis B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which process extracts business rules from legacy systems? A. Reverse engineering B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which process improves deployment consistency? A. Containerization B. Duplication C. Compression D. Encryption E. Formatting ANSWER: A
+Which process ensures software works on multiple platforms? A. Porting B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which activity removes excessive complexity? A. Simplification B. Duplication C. Hard coding D. Obfuscation E. Compression ANSWER: A
+Which process identifies software quality weaknesses? A. Quality assessment B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which concept allows multiple method implementations? A. Polymorphism B. Duplication C. Encapsulation D. Compression E. Replication ANSWER: A
+Which process updates obsolete operating system dependencies? A. Platform migration B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which software quality factor measures future growth capability? A. Scalability B. Reliability C. Availability D. Maintainability E. Security ANSWER: A
+Which process ensures modified software remains functional? A. Regression testing B. Unit testing C. Acceptance testing D. Smoke testing E. Alpha testing ANSWER: A
+Which process extracts architecture from source code? A. Architectural recovery B. Compilation C. Compression D. Encryption E. Replication ANSWER: A
+Which process identifies unnecessary software dependencies? A. Dependency analysis B. Compression C. Formatting D. Encryption E. Replication ANSWER: A
+Which activity is essential after reengineering? A. Validation and testing B. Hardware replacement C. Disk formatting D. Network shutdown E. Data deletion ANSWER: A
+
+Which of the following best explains why TechMod Corp should prioritize modularity when re-engineering their monolithic financial system into a component-based system?
+A. To ensure that all components are written in the same programming language
+B. To allow developers to modify the payment module without affecting the inventory module
+C. To increase the total lines of code within the system to meet complexity standards
+D. To prevent the use of external third-party libraries within the architecture
+E. To ensure that the user interface is locked to a specific operating system
+ANSWER: B
+
+How would you describe the relationship between encapsulation and information hiding within a re-engineered software component?
+A. Encapsulation exposes all internal variables to facilitate faster debugging by external teams
+B. It ensures that the internal implementation is hidden, allowing users to interact only with the interface
+C. It requires every component to be stored in a separate physical server for security
+D. It forces the component to share its logic with all other modules to reduce redundancy
+E. It eliminates the need for documentation by making the code self-explanatory to the compiler
+ANSWER: B
+
+Interpret the impact of "Loose Coupling" when TechMod Corp decides to replace its legacy database component with a modern cloud-based solution.
+A. Every other module in the system will require a complete rewrite of its internal logic
+B. The change remains localized because components have minimal dependencies on each other
+C. The system will become more rigid, preventing any future technological upgrades
+D. Coupling ensures that the database and the UI are merged into a single execution unit
+E. Loose coupling increases the execution speed of the central processing unit by 50%
+ANSWER: B
+
+Compare the "Evolution (Growth) Stage" of the software lifecycle with the "Servicing Stage" in terms of feature development.
+A. Evolution involves rapid feature addition based on feedback, while Servicing focuses on bug fixes and stability
+B. Servicing involves creating a brand new system, while Evolution focuses on retiring the old one
+C. Evolution avoids all structural changes, whereas Servicing involves complete architectural redesigns
+D. Both stages are identical and focus only on marketing the software to new users
+E. Servicing is the first stage of development, while Evolution is the final stage before retirement
+ANSWER: A
+
+Explain the purpose of "Well-Defined Interfaces" when integrating a new third-party authentication module into TechMod’s system.
+A. To hide the name of the developer who wrote the original authentication logic
+B. To specify the exact input parameters and data formats required for communication
+C. To ensure that the component can only run on a specific hardware model
+D. To prevent the component from ever being updated or modified in the future
+E. To merge the source code of the third-party module with the main system kernel
+ANSWER: B
+
+Which statement best summarizes the goal of the "Phase-Out Stage" in the Staged Model of Software?
+A. To add as many new features as possible to attract investors
+B. To manage the transition of the software toward retirement or complete replacement
+C. To rewrite the entire system in a new language while maintaining all current users
+D. To increase the marketing budget to prevent users from leaving the platform
+E. To fix every minor bug to achieve a zero-defect status before the system is deleted
+ANSWER: B
+
+In the context of software re-engineering, infer why ISO/IEC 14764 is significant for TechMod’s maintenance workflow.
+A. It provides a legal framework to sue original developers for poor code quality
+B. It defines structured activities for modification, migration, and retirement of legacy systems
+C. It mandates that all software must be re-engineered every two years regardless of performance
+D. It focuses purely on the initial development of software before it is released to the public
+E. It eliminates the need for software configuration management tools like Git
+ANSWER: B
+
+Contrast "Adaptive Maintenance" with "Perfective Maintenance" as defined in software maintenance standards.
+A. Adaptive maintenance fixes bugs, while Perfective maintenance migrates the system to new hardware
+B. Adaptive reacts to environment changes, while Perfective improves performance or maintainability
+C. Perfective is done only by the original authors, while Adaptive is done by third parties
+D. Adaptive maintenance is illegal under ISO standards, while Perfective is mandatory
+E. Both terms describe the process of deleting the software and starting from scratch
+ANSWER: B
+
+Explain how Software Configuration Management (SCM) helps TechMod Corp manage "Regression Errors" during re-engineering.
+A. SCM automatically writes the code to fix the bugs without human intervention
+B. It allows developers to identify which specific change caused a failure and roll back to a baseline
+C. SCM prevents developers from ever making changes to the source code files
+D. It increases the complexity of the system so that bugs are harder for hackers to find
+E. It generates a user manual that explains to the customer why the error exists
+ANSWER: B
+
+Which of the following best exemplifies the "Reusability" property of a Component-Based System?
+A. Using the same login component across both the mobile app and the web application
+B. Printing the source code on recycled paper to save environmental resources
+C. Rewriting the same logic five times in different modules to ensure redundancy
+D. Deleting a module after it has been used once to save storage space
+E. Forcing users to download a new component every time they log into the system
+ANSWER: A
+
+Summarize the primary benefit of following IEEE 1219 standards during a system migration.
+A. It guarantees that the software will never crash again
+B. It ensures that changes are systematic, documented, and quality-driven
+C. It allows developers to skip the testing phase to save project costs
+D. It requires the software to be compatible with every computer ever made
+E. It focuses on the aesthetic design of the user interface rather than functionality
+ANSWER: B
+
+Infer the likely outcome if TechMod Corp performs a major code restructuring without using an SCM tool like Git.
+A. The software will automatically become more modular and easier to read
+B. Developers may overwrite each other's work, leading to deployment confusion and lost changes
+C. The system performance will double because there is no overhead from version tracking
+D. The documentation will automatically update itself based on the code changes
+E. The hardware will become immune to any software-related failures
+ANSWER: B
+
+How does the "Servicing Stage" differ from the "Initial Development Stage" in the Staged Model?
+A. Initial Development focuses on first stable releases, while Servicing avoids major structural changes
+B. Servicing is where the most investment occurs, while Initial Development is low cost
+C. Initial Development focuses on bug fixes, while Servicing focuses on rapid feature addition
+D. Servicing is performed by users, while Initial Development is performed by robots
+E. There is no difference; both stages follow the exact same development procedures
+ANSWER: A
+
+Describe the role of "Encapsulation" in promoting system security during re-engineering.
+A. It encrypts the entire hard drive where the component is stored
+B. It hides implementation details, ensuring that external modules only access data through safe interfaces
+C. It requires users to enter a password every time a function is called within the code
+D. It prevents the code from being read by any compiler or interpreter
+E. It allows any part of the system to modify any variable to ensure maximum flexibility
+ANSWER: B
+
+Interpret the meaning of a "Baseline" in Software Configuration Management for a re-engineering project.
+A. The minimum number of lines of code required for a project to be successful
+B. A stable, documented version of the system that serves as a starting point for further changes
+C. The bottom layer of the database where deleted records are stored
+D. The lowest salary level for a software engineer on the re-engineering team
+E. A line of code that contains a critical syntax error that must be fixed
+ANSWER: B
+
+Compare the "Evolution" stage of software to a "Car Model" growth period as described in the staged model.
+A. Both involve releasing improved versions based on customer feedback and technological changes
+B. Both involve discontinuing the product immediately after the first version is sold
+C. Both focus on making the product smaller and less functional over time
+D. Both require the product to be completely rebuilt from scratch every month
+E. Neither involves any changes to the original design once it is released
+ANSWER: A
+
+Explain why "Impact Analysis" is a critical step in the ISO/IEC 14764 maintenance standard.
+A. To determine how much the re-engineering project will impact the company's stock price
+B. To evaluate how a proposed change will affect other parts of the existing legacy system
+C. To measure the physical impact of the server hardware on the environment
+D. To calculate the number of keystrokes a developer makes during a workday
+E. To force the system to crash so that developers can find the weak points
+ANSWER: B
+
+Which of the following best describes "Modularity" in a Component-Based System?
+A. The system is a single, unbreakable block of code that handles everything
+B. The system is divided into independent units where changes in one have minimal impact on others
+C. The system requires every user to have a unique version of the software
+D. Every function in the system must be stored in a different physical building
+E. The system can only be modified by the person who originally wrote the code
+ANSWER: B
+
+Summarize why "Configuration Control" is necessary when multiple developers are restructuring a legacy database.
+A. To ensure that only the fastest typist is allowed to save changes to the database
+B. To prevent unauthorized or conflicting changes that could compromise system integrity
+C. To make sure the database uses the maximum amount of server memory available
+D. To allow developers to work without ever talking to each other or sharing code
+E. To hide the database structure from the quality assurance team
+ANSWER: B
+
+Infer the purpose of the "Initial Development" stage in a closed-source staged model.
+A. To plan the retirement of a product before it is even built
+B. To deliver the first stable commercial release with major features implemented
+C. To fix bugs in a product that has been on the market for ten years
+D. To reduce the number of features in a product to make it easier to sell
+E. To move the software from a private server to a public cloud immediately
+ANSWER: B
+
+How does "Information Hiding" contribute to the "Loose Coupling" of software components?
+A. It makes the code so complex that no other component can understand how to link to it
+B. By hiding internal logic, components interact only via interfaces, reducing inter-dependencies
+C. It allows components to share their private memory space with any other module
+D. It prevents the system from being able to track which component is currently running
+E. It forces every component to depend on a single, central "Master" module
+ANSWER: B
+
+Contrast a "Monolithic System" with a "Component-Based System" regarding maintainability.
+A. Monolithic systems are easier to maintain because all code is in one place
+B. Component-based systems are easier to maintain because modules can be updated independently
+C. Monolithic systems are more modern and use better technology than component-based systems
+D. Component-based systems are more difficult to maintain because they have too many files
+E. There is no difference in maintainability between the two architectural styles
+ANSWER: B
+
+Explain the role of "Version Tracking" in SCM during a technology upgrade.
+A. It counts how many versions of the software have been sold to customers
+B. It maintains a history of changes, allowing developers to see what was modified and by whom
+C. It ensures that the software version number always ends in a lucky digit
+D. It prevents the software from being installed on older versions of Windows
+E. It automatically deletes older versions of the code to save disk space
+ANSWER: B
+
+Interpret the "Servicing Stage" in terms of "Innovation."
+A. This is the stage of maximum innovation where the most creative features are added
+B. Innovation is reduced, and the focus shifts to reliability, bug fixes, and security patches
+C. Innovation is illegal during this stage according to international standards
+D. Innovation is handled by the marketing department rather than the engineering team
+E. Innovation in this stage focuses on making the software more expensive for users
+ANSWER: B
+
+Which statement best describes the "Reusability" of a payment component in an e-commerce system?
+A. The component is deleted after every transaction to ensure security
+B. The same component logic can be used for credit cards, PayPal, and bank transfers via interfaces
+C. Every single transaction requires a developer to manually rewrite the component
+D. The component only works for one specific customer and cannot be used by others
+E. The component is shared with competitors to help them improve their systems
+ANSWER: B
+
+Describe why "Legacy Systems" are the primary target for software re-engineering.
+A. Because they are new and have no bugs yet
+B. Because they are often complex, outdated, and difficult to maintain but still provide value
+C. Because they are the only systems that can run on modern cloud platforms
+D. Because they were designed to be replaced every six months by the manufacturer
+E. Because they have perfect documentation that is easy for anyone to read
+ANSWER: B
+
+Explain the significance of "Traceability" in maintenance standards.
+A. It allows users to trace the physical location of the software's servers
+B. It ensures that every change can be linked back to a specific requirement or problem report
+C. It helps the software track the mouse movements of the end user
+D. It requires the software to draw a map of its internal logic on the screen
+E. It is a process used to trace the genealogy of the software developers
+ANSWER: B
+
+Infer the risk of "Architecture Degradation" if TechMod Corp continues to add features during the "Servicing Stage."
+A. The system will become faster and more efficient with every new feature
+B. The architecture may become unstable, making future upgrades nearly impossible
+C. The software will automatically convert itself into a component-based system
+D. The original developers will be forced to return and fix the system for free
+E. The system will become so simple that it no longer requires any maintenance
+ANSWER: B
+
+How would you summarize the "Evolution" stage's goal in the software lifecycle?
+A. To keep the software relevant by adapting to customer feedback and market demands
+B. To make the software so complex that competitors cannot copy it
+C. To reduce the user base to a small, manageable group of experts
+D. To stop all development and focus only on selling the current version
+E. To change the name of the software every time a new bug is fixed
+ANSWER: A
+
+Contrast "Corrective Maintenance" with "Preventive Maintenance."
+A. Corrective fixes existing bugs, while Preventive identifies and fixes potential future issues
+B. Corrective is done before the software is released, while Preventive is done after retirement
+C. Preventive maintenance is only for hardware, while Corrective is only for software
+D. Corrective maintenance is always free, while Preventive maintenance is very expensive
+E. Both terms are different names for the process of installing software updates
+ANSWER: A
+
+Explain the importance of "Audit and Compliance" in SCM.
+A. It ensures that the software is following tax laws in every country
+B. It provides a record of changes to ensure the project meets quality and regulatory standards
+C. It counts the number of lines of code to make sure the developers are working hard
+D. It ensures that the software does not contain any images that are copyrighted
+E. It is a social event where developers meet to discuss the project's history
+ANSWER: B
+
+Interpret the "Servicing" stage of a car as an analogy for software maintenance.
+A. It is like buying a brand new car every time the oil needs changing
+B. It is like performing minor updates (oil changes, tire rotations) to keep the car running reliably
+C. It is like painting the car a new color to make it go faster on the highway
+D. It is like taking the engine out and replacing it with a completely different model
+E. It is like leaving the car in the garage and never driving it again
+ANSWER: B
+
+What is the best explanation for "Interoperability" in component-based systems?
+A. The ability of a component to run without any electricity
+B. The ability of different components to communicate and work together via defined interfaces
+C. The requirement that all components must be made by the same company
+D. The process of making a component invisible to the user interface
+E. The ability of the software to operate even when the computer is turned off
+ANSWER: B
+
+Summarize the "Modularity" property using the example of an e-commerce system.
+A. The system is one big file that contains the code for payments, inventory, and orders
+B. The system has separate units for payment and inventory so a crash in one doesn't stop the other
+C. The system requires the user to buy a different computer for every part of the website
+D. The payment unit can only be accessed by the inventory unit on Tuesdays
+E. The order management unit is the only part of the system that contains any code
+ANSWER: B
+
+Infer the benefit of "Managed Migration Versions" in SCM during a re-engineering project.
+A. It allows the company to charge users for every single update they receive
+B. It provides a safe way to move from the old system to the new one in controlled steps
+C. It ensures that the migration happens as fast as possible without any testing
+D. It prevents the old system from ever being turned off during the migration
+E. It automatically deletes the user's data once the new system is installed
+ANSWER: B
+
+Explain why "Customer-driven feature updates" are characteristic of the "Evolution" stage.
+A. Because customers are the ones who write the code during this stage
+B. Because the software grows and improves based on how people actually use it in the market
+C. Because customers are required to pay for every update they suggest
+D. Because the evolution stage is the only time customers are allowed to see the software
+E. Because it is the only stage where the software has a user interface
+ANSWER: B
+
+Describe the relationship between "IEEE 1219" and "ISO/IEC 14764."
+A. They are two different names for the exact same document
+B. They are both international standards that provide frameworks for software maintenance
+C. IEEE 1219 is for hardware, while ISO 14764 is for software
+D. One is used for building cars, and the other is used for building airplanes
+E. They are competing standards, and using both at the same time will crash the system
+ANSWER: B
+
+Contrast "Loose Coupling" with "Strong Coupling."
+A. Loose coupling is for small systems, while strong coupling is for large enterprise systems
+B. Loose coupling reduces dependencies between modules, while strong coupling makes them reliant on each other
+C. Strong coupling is always better because it makes the system run faster
+D. Loose coupling is only used in mobile apps, while strong coupling is for web apps
+E. There is no technical difference; they are just different marketing terms
+ANSWER: B
+
+Explain the purpose of "Problem and Modification Analysis" in the maintenance process.
+A. To find out which developer is responsible for a bug so they can be fired
+B. To study a reported issue and plan the best way to implement a change without breaking the system
+C. To convince the customer that the problem they reported is actually a new feature
+D. To calculate the physical weight of the code changes on the hard drive
+E. To prevent the quality assurance team from testing the software
+ANSWER: B
+
+Interpret the impact of "Reusability" on "Development Time."
+A. It increases development time because writing reusable code is too difficult
+B. It reduces development time because developers can use existing, tested components
+C. It has no impact because every project requires completely new code anyway
+D. It makes development time unpredictable because components might not work together
+E. It doubles the development time because every component must be written in two languages
+ANSWER: B
+
+Summarize the "Initial Stage" of the software lifecycle.
+A. The stage where the software is retired and replaced by a newer model
+B. The stage where major features are implemented to create the first stable version
+C. The stage where the software is sold to a competitor to avoid maintenance
+D. The stage where the software is only a series of drawings on a whiteboard
+E. The stage where the software is translated into different languages for global release
+ANSWER: B
+
+Infer the role of "Encapsulation" in "Information Hiding."
+A. Encapsulation is the process of putting code in a capsule and burying it in the ground
+B. It is the mechanism that implements information hiding by bundling data and methods together
+C. It is a way of making the code run slower to ensure that the user can read it
+D. It prevents the developer from seeing their own code after it has been compiled
+E. It is a marketing term used to describe software that comes in a box
+ANSWER: B
+
+How does SCM facilitate "Team Collaboration" in a re-engineering project?
+A. It forces all team members to sit in the same room and share one computer
+B. It manages concurrent changes, allowing multiple developers to work on the same system safely
+C. It sends an email to every developer every time a single line of code is changed
+D. It creates a leaderboard that shows which developer has written the most code
+E. It prevents team members from talking to each other to avoid distractions
+ANSWER: B
+
+Explain why "System Integrity" might be compromised without maintenance standards.
+A. Because the system will become too honest and tell the users its secrets
+B. Because changes might be made haphazardly, leading to crashes, security gaps, and data loss
+C. Because the system will only work on computers that are made of high-quality materials
+D. Because the software will refuse to run unless it is updated by a certified professional
+E. Because the documentation will become so accurate that it becomes difficult to read
+ANSWER: B
+
+Describe the "Growth Stage" of software in terms of "User Base."
+A. The user base stays exactly the same as it was on the first day
+B. The user base expands as the software evolves to meet more market demands
+C. The user base shrinks because the software becomes too complex for normal people
+D. The user base is deleted every time a new version of the software is released
+E. The software is only used by the developers during the growth stage
+ANSWER: B
+
+Interpret the goal of "System Retirement" in the maintenance lifecycle.
+A. To give the software a vacation after it has worked hard for many years
+B. To safely shut down a system and migrate its data to a newer, better platform
+C. To delete the system so that no one can ever see the source code again
+D. To stop paying the developers who built the original system
+E. To move the software to a retirement home for old programs
+ANSWER: B
+
+Contrast "Module" with "System" in the context of modularity.
+A. A module is a small, independent part, while the system is the complete collection of modules
+B. A system is always smaller and simpler than a single module
+C. A module is for hardware, while a system is for software
+D. There is no difference; they are just different words for a computer program
+E. A system is a module that has been retired and is no longer being used
+ANSWER: A
+
+Explain the benefit of "Standardization" in component-based systems.
+A. It makes the software look exactly like every other program on the market
+B. It encourages the use of common interfaces and protocols, making it easier to swap components
+C. It requires every developer to wear a standard uniform while they are coding
+D. It ensures that the software can only be used on a standard television set
+E. It prevents any creative or original ideas from being included in the software
+ANSWER: B
+
+Summarize why "Risk Reduction" is an important outcome of SCM.
+A. It ensures that the software is never used for dangerous activities like skydiving
+B. It provides tools like rollbacks and change tracking to prevent permanent system damage
+C. It makes the software so boring that no one will want to hack into it
+D. It requires the software to be tested by a team of professional risk managers
+E. It eliminates the need for the company to buy insurance for its servers
+ANSWER: B
+
+Infer the meaning of "Mature and Stable" in the "Servicing Stage."
+A. The software has grown old and is starting to forget how to work
+B. The software is reliable, has few bugs, and does not need major new features
+C. The software is only used by people who are mature and stable adults
+D. The software has stopped running and is waiting to be deleted
+E. The software is kept in a stable environment where the temperature never changes
+ANSWER: B
+
+How does "Documentation" support the maintenance process?
+A. It provides a history of the system, making it easier for new developers to understand and modify it
+B. It makes the software file size larger, which is a sign of high quality
+C. It replaces the source code so that the computer doesn't have to run any logic
+D. It is used to advertise the software to potential customers in magazines
+E. It is a secret code that only the original author of the software can read
+ANSWER: A
+
+Explain the role of "Rollback" in a re-engineering environment.
+A. It is a way for developers to roll their chairs back from their desks to take a break
+B. It allows the system to be restored to a previous working version if a new change fails
+C. It is a function that makes the screen text roll from the bottom to the top
+D. It is a process where the software is sold back to the company that originally made it
+E. It automatically deletes the last ten lines of code that were written by a developer
+ANSWER: B
+
+Interpret "Controlled Evolution" as a characteristic of a closed-source staged model.
+A. The software evolves randomly based on whatever the developers feel like doing that day
+B. Changes and releases are planned and managed by the organization in a predictable way
+C. The software is only allowed to evolve during the summer months
+D. The evolution of the software is controlled by a government agency
+E. The software stops evolving once it is installed on a user's computer
+ANSWER: B
+
+Describe the benefit of "Modular" design in an e-commerce "Payment Component."
+A. It allows the website to accept payments in multiple currencies at the same time
+B. It means the payment logic is separate, so if it needs a security update, the rest of the site stays up
+C. It ensures that the payment component is the only part of the website that uses a database
+D. It makes the payment process take longer to ensure that the user has time to think
+E. It forces the user to download a new module every time they buy something
+ANSWER: B
+
+Contrast "Adaptive" maintenance with "Corrective" maintenance in a real-world scenario.
+A. Corrective is fixing a crash, while Adaptive is making the software work on a new version of Android
+B. Adaptive is fixing a bug, while Corrective is adding a new feature that the user requested
+C. Corrective is only done on Mondays, while Adaptive is done on any day of the week
+D. Both terms describe the same process of making the software run faster
+E. Adaptive maintenance is for users, while Corrective maintenance is for developers
+ANSWER: A
+
+Explain why "Loose Coupling" is desirable in cloud-based re-engineering.
+A. It allows the system to use a very loose and flexible cloud that doesn't have any rules
+B. It makes it easier to scale or replace individual services without breaking the entire cloud platform
+C. It ensures that the cloud servers are not physically connected to each other
+D. It prevents the cloud from ever being full of too much data
+E. It is a requirement of the cloud provider to make the software more expensive
+ANSWER: B
+
+Summarize the impact of "Incomplete Documentation" on a re-engineering project.
+A. It makes the project go faster because developers don't have to spend time reading
+B. It leads to misinterpretation of system logic and increases the risk of introducing errors
+C. It is a sign that the original developers were very smart and didn't need notes
+D. It reduces the cost of the project because there are fewer pages to print
+E. It has no impact because modern compilers can read the developer's mind
+ANSWER: B
+
+Infer the purpose of "Bug Fixes" and "Security Patches" during the "Servicing Stage."
+A. To add exciting new features that will attract millions of new users
+B. To maintain the reliability and safety of the existing system as it ages
+C. To make the software harder to use so that people will buy the new version
+D. To change the color of the icons on the user's screen
+E. To delete the user's personal information to save database space
+ANSWER: B
+
+How does "Encapsulation" relate to "Modularity"?
+A. They are the same thing; both mean the system is divided into parts
+B. Encapsulation helps create modularity by keeping a module's internal data private and protected
+C. Modularity is for software, while encapsulation is only for hardware components
+D. Encapsulation makes modularity impossible because it hides all the code
+E. Modularity is a type of encapsulation that is used only in database design
+ANSWER: B
+
+Explain the importance of "Traceability" when a bug is found in a re-engineered system.
+A. It allows the developer to trace the path of the bug through the physical wiring of the computer
+B. It helps identify which specific change or requirement led to the bug's introduction
+C. It ensures that the bug is traced onto a piece of paper for the manager to see
+D. It is a way of tracing the user's IP address so they can be thanked for finding the bug
+E. It prevents the bug from ever being fixed by locking the source code
+ANSWER: B
+
+Interpret the "Phase-Out" stage in terms of "Migration Planning."
+A. This is when the company plans how to migrate the old system's data and users to a new platform
+B. This is when the company plans how to move its offices to a new city
+C. This is when the company plans how to migrate its employees to a different department
+D. This is when the company plans how to move its servers to a colder room
+E. This is when the software plans how to migrate itself to the user's trash bin
+ANSWER: A
+
+Describe why "Controlled Change Management" is a benefit of SCM.
+A. it ensures that the developers are always under the control of the project manager
+B. It ensures that every change is reviewed, documented, and approved to maintain system quality
+C. It makes sure that the software only changes when the moon is full
+D. It prevents the software from ever changing, even if there is a critical bug
+E. It is a way of managing the loose change that is left over in the project budget
+ANSWER: B
+
+Contrast "Component" with "Object" in software design.
+A. A component is a larger, deployable unit of functionality, while an object is a basic building block in code
+B. An object is a physical item like a mouse, while a component is a software program
+C. A component is only used in web design, while an object is only used in mobile apps
+D. There is no difference; "component" is just a more modern word for "object"
+E. An object is a component that has been retired and is no longer working
+ANSWER: A
+
+Explain the role of "Version Control" in "Risk Reduction."
+A. It counts the number of risks in the project and displays them on a chart
+B. It allows the team to recover previous versions of the code if a new version is catastrophic
+C. It prevents the software from being installed on computers that are at risk of failing
+D. It requires the developers to wear safety helmets while they are writing code
+E. It automatically deletes any code that is considered to be "risky" by the compiler
+ANSWER: B
+
+Summarize the "Modularity" property using a "LEGO blocks" analogy.
+A. A system is like a single LEGO block that cannot be changed or added to
+B. A system is built from independent LEGO blocks that can be easily rearranged or replaced
+C. A system is like a LEGO set that is missing half of the pieces
+D. A system is only modular if it is made of real LEGO blocks, not software
+E. Modularity means that the software can only be used by children who play with LEGOs
+ANSWER: B
+
+Infer why "Major structural changes are avoided" during the "Servicing Stage."
+A. Because the developers are too tired to make any more big changes
+B. To maintain the stability of the system and avoid introducing massive new risks to current users
+C. Because the software has reached its maximum size and cannot hold any more code
+D. Because the international standards for servicing state that structural changes are illegal
+E. To save money on electricity by not running the compiler for long periods
+ANSWER: B
+
+How does "Loose Coupling" improve the "Scalability" of a system?
+A. It allows the system to scale by adding more people to the development team
+B. It allows individual modules to be scaled independently across different servers as needed
+C. It ensures that the software can only be used on very large computer screens
+D. It prevents the system from scaling too much and becoming too expensive
+E. It is a technique used to make the font size of the software larger
+ANSWER: B
+
+Explain the concept of a "Configuration Item" (CI) in SCM.
+A. Any part of the project (code, doc, test) that is placed under version control
+B. A specific item in the developer's office, such as a desk or a lamp
+C. The list of people who are allowed to configure the software's settings
+D. The amount of money that is spent on configuring the servers
+E. A line of code that is used to configure the color of the user interface
+ANSWER: A
+
+Interpret the importance of "User-driven feature updates" for software "Evolution."
+A. It ensures that the software stays useful and competitive by solving real problems for its users
+B. It makes the users feel like they are part of the development team so they don't complain
+C. It is a way for the company to trick users into doing the work for them
+D. It is a requirement of the software license to include at least one update from a user
+E. It ensures that the software becomes more difficult to use over time
+ANSWER: A
+
+Describe why "System Migration" is often part of the "Phase-Out" stage.
+A. Because the software wants to migrate to a warmer climate before it retires
+B. Because it is the final step in moving users to a newer technology before the old system is retired
+C. Because the phase-out stage is the only time the software is allowed to move to a new server
+D. Because the migration is a way of rewarding the software for many years of hard work
+E. Because the software is forced to migrate by the government during the phase-out stage
+ANSWER: B
+
+Contrast "Baseline" with "Draft" in documentation.
+A. A baseline is a finalized and approved version, while a draft is a work in progress
+B. A baseline is for code, while a draft is only for email messages
+C. A draft is always better and more accurate than a baseline
+D. There is no difference; they are just different words for a Word document
+E. A baseline is a draft that has been translated into a different language
+ANSWER: A
+
+Explain how "Encapsulation" promotes "Information Hiding" in a payment module.
+A. It hides the user's credit card number from the database so it cannot be stolen
+B. It hides the complex math used to calculate taxes, showing only the "ProcessPayment" function
+C. It prevents the developer from knowing how the payment module works
+D. It requires the payment module to be kept in a safe at the company's headquarters
+E. It makes the payment module invisible to everyone except the bank
+ANSWER: B
+
+Summarize the benefit of "Modular" architecture for "Third-Party Integration."
+A. It makes it harder for third parties to integrate because the system is in too many pieces
+B. It allows third-party components to be plugged into the system via standard interfaces easily
+C. It requires the third party to rewrite their entire software to match the system's architecture
+D. It ensures that only one third-party component can be used at a time
+E. It is a way of hiding the system's architecture from the third-party company
+ANSWER: B
+
+Infer the reason for "Reduced Innovation" in the "Servicing Stage."
+A. The company has run out of money to pay for new ideas
+B. The product is mature and the focus is on maintaining reliability for the current user base
+C. Innovation is no longer possible because all the good ideas have already been used
+D. The servicing stage is the time when the creative team is on vacation
+E. The software has become so smart that it can innovate for itself without humans
+ANSWER: B
+
+How does "SCM" help in "Rollback" during a failed deployment?
+A. It rolls the server back to the physical location where it was originally built
+B. It allows the team to quickly redeploy the last known stable version from the repository
+C. It sends an apology letter to all the users who were affected by the failure
+D. It automatically fixes the error that caused the deployment to fail
+E. It shuts down the server so that no more errors can occur
+ANSWER: B
+
+Explain the concept of "Adaptive Maintenance" in the context of a "Windows Update."
+A. Fixing a bug that was caused by the Windows update
+B. Modifying the software so it continues to function correctly on the new version of Windows
+C. Deleting the software because the Windows update made it obsolete
+D. Adding a new feature that uses the latest technology in the Windows update
+E. Paying Microsoft a fee to allow the software to run on the new version of Windows
+ANSWER: B
+
+Interpret the "Component-Based" property of "Interoperability."
+A. The ability of the software to run on different types of paper
+B. The ability of a component to function correctly with other components via agreed standards
+C. The requirement that all components must be written by the same person
+D. The process of making a component stop working when it is moved to a new system
+E. The ability of the software to communicate with the user via telepathy
+ANSWER: B
+
+Describe the role of "Configuration Control" in maintaining "Traceability."
+A. It records who changed what and why, creating a clear history that can be traced back
+B. It controls the configuration of the developer's keyboard to ensure they are typing correctly
+C. It makes sure that the software's configuration is always the same for every user
+D. It is a way of tracing the developer's footsteps in the office using security cameras
+E. It prevents the configuration from ever being changed by anyone at any time
+ANSWER: A
+
+Contrast "Initial Development" with "Evolution" in terms of "Activity Levels."
+A. Initial development is very quiet, while evolution is very busy and active
+B. Both are high-activity stages, but initial development is about creation while evolution is about growth
+C. Initial development is done by one person, while evolution is done by a huge team
+D. Activity levels are only measured during the initial development stage
+E. Evolution has no activity because the software is growing on its own
+ANSWER: B
+
+Explain the purpose of "IEEE 1219" in "Structured Maintenance."
+A. To provide a step-by-step process for analyzing, implementing, and reviewing changes
+B. To define the legal age at which a software developer is allowed to retire
+C. To make sure that the software is compatible with all IEEE-certified hardware
+D. To prevent the software from ever being modified by anyone who is not an engineer
+E. To provide a list of the 1,219 most common bugs in software history
+ANSWER: A
+
+Summarize the "Servicing Stage" of the software lifecycle in one sentence.
+A. The stage where the software is first built and sold to the public
+B. The stage where the software is stable and receives only bug fixes and security patches
+C. The stage where the software is retired and replaced by a completely new system
+D. The stage where the software grows rapidly and adds many new and exciting features
+E. The stage where the software is translated into every language in the world
+ANSWER: B
+
+Infer the risk of "Poor Code Quality" in a legacy system during re-engineering.
+A. It makes the re-engineering process much faster because the code is so simple
+B. It increases the likelihood of errors and makes it difficult for developers to understand the logic
+C. it ensures that the software will be more secure because hackers can't understand the code
+D. It reduces the cost of the project because poor quality code is cheaper to buy
+E. It has no effect because the re-engineering process will automatically fix all the code
+ANSWER: B
+
+How does "SCM" support "Audit and Compliance" for a government software project?
+A. By providing a full, unchangeable history of every modification for legal review
+B. By ensuring that the software is only used by people who work for the government
+C. By sending a copy of the source code to the government every day
+D. By making sure the software is written in the official language of the country
+E. By automatically paying the company's taxes through the version control system
+ANSWER: A
+
+Explain the benefit of "Modular" design for "Software Reuse."
+A. It allows the entire system to be reused as a single, giant block
+B. It allows individual, tested components to be taken and used in entirely different projects
+C. It ensures that the software can only be reused by the person who originally wrote it
+D. It makes reuse impossible because the components are too small to be useful
+E. It is a technique used to make the software look new every time it is used
+ANSWER: B
+
+Interpret the "Phase-Out" stage in terms of "Limited Support."
+A. The company provides support for only a limited number of people
+B. The company only fixes critical issues and stops adding features as the system is retired
+C. The company provides support only during the limited hours of 9 AM to 10 AM
+D. The support is provided by a limited number of robots
+E. The support is limited to people who can prove they have used the software for ten years
+ANSWER: B
+
+Describe the role of "Impact Analysis" in "Risk Management."
+A. It helps the team understand the potential negative effects of a change before it is made
+B. It measures the physical impact of a server falling over in the data center
+C. It is a way of managing the team's emotions after a major project failure
+D. It calculates the financial impact of the software on the global economy
+E. It is a technique used to force the software to crash so that it can be fixed
+ANSWER: A
+
+Contrast "Git" with "Azure DevOps" as mentioned in SCM tools.
+A. Git is a version control system, while Azure DevOps is a full platform that includes Git and other tools
+B. Git is for hardware, while Azure DevOps is only for software
+C. Azure DevOps is free, while Git is very expensive for a company to use
+D. Git is only for Linux, while Azure DevOps is only for Windows
+E. There is no difference; they are just two different names for the same program
+ANSWER: A
+
+Explain how "Standardization" reduces "Development Costs."
+A. It allows the company to buy standard, cheap computers for all its developers
+B. It reduces the time spent on design by using proven, common components and interfaces
+C. It forces the developers to work for a standard, low salary
+D. It makes the software so standard that it doesn't need to be tested
+E. It ensures that the software is sold at a standard, low price to all customers
+ANSWER: B
+
+Summarize the "Evolution" stage using a "Tree Growth" analogy.
+A. The software is like a tree that is planted and then never grows any bigger
+B. The software is like a tree that grows new branches (features) and becomes stronger over time
+C. The software is like a tree that is cut down as soon as it starts to grow
+D. The software is like a tree that is made of plastic and never changes
+E. The software is like a tree that only grows in the evolution stage of the forest
+ANSWER: B
+
+Infer why "Regression Testing" is mandatory after a "Code Restructuring."
+A. To make sure that the code restructuring didn't break any existing functionality
+B. To make the code run in a regressive way, which is faster than progressive
+C. To test the software on older computers that are in a state of regression
+D. To ensure that the developers have not regressed to a lower level of skill
+E. To delete any code that was written during a period of regression
+ANSWER: A
+
+How does "Encapsulation" help a "Payment Component" handle "Communication Protocols"?
+A. It ensures that the component can only communicate using one specific protocol
+B. It hides the protocol details inside the component, exposing only a simple interface to the rest of the site
+C. It requires the protocol to be encrypted in a capsule before it can be sent
+D. It prevents the component from communicating with anything outside of its capsule
+E. It is a way of making the communication protocol run faster by wrapping it in code
+ANSWER: B
+
+Explain the concept of "System Retirement" in the "Phase-Out Stage."
+A. Giving the software a gold watch and a party for its many years of service
+B. The formal process of ending the software's life and ensuring its data is safely handled
+C. Deleting the software from every computer in the world at the same time
+D. Selling the software to a retirement home for use by senior citizens
+E. Forcing the software to work for free after it has reached the age of retirement
+ANSWER: B
+
+Interpret "Organization-driven changes" as a characteristic of "Closed Source" software.
+A. The changes are made by a random organization that found the code on the internet
+B. The changes are planned and implemented by the company that owns and controls the software
+C. The changes are only allowed to happen if they are organized into a list
+D. The software is only changed when the organization moves to a new building
+E. The changes are driven by the organization's desire to stop making software
+ANSWER: B
+
+Describe the "Servicing Stage" in terms of "Resource Investment."
+A. This is the stage where the company invests the most money and people
+B. Resource investment is lower, focusing on maintenance rather than new development
+C. The company stops investing any resources at all during the servicing stage
+D. All investment is moved from the engineering team to the sales team
+E. The company spends its entire budget on buying new servers during this stage
+ANSWER: B
+
+Contrast "Baseline" with "Version" in SCM.
+A. A baseline is a specific, stable version used as a reference, while a version is any iteration of a file
+B. A version is for the whole system, while a baseline is only for a single line of code
+C. There is no difference; they are just two different words for the same thing
+D. A version is a baseline that has been rejected by the quality assurance team
+E. A baseline is a version that is written in a different programming language
+ANSWER: A
+
+Explain why "Interoperability" is crucial for "Component-Based" systems.
+A. It ensures that every component can be used on every computer in the world
+B. It allows components from different sources to work together through shared interfaces
+C. It makes the components so complex that they can only be used by experts
+D. It prevents the components from ever being separated from each other
+E. It is a way of making the components look like they are working when they are not
+ANSWER: B
+
+Summarize the benefit of "SCM" for "Risk Management."
+A. It ensures that the software is never used for risky projects like space travel
+B. It provides a safety net by tracking all changes and allowing for quick recovery from errors
+C. It makes the software so safe that it doesn't need a firewall or anti-virus
+D. It requires the developers to take a risk management class every week
+E. It automatically deletes any code that might be a risk to the project's schedule
+ANSWER: B
+
+Infer the role of "Problem and Modification Analysis" in "System Integrity."
+A. It ensures that every change is carefully thought out so that the system doesn't become a mess
+B. It identifies the person who caused a problem so they can be removed from the project
+C. It makes the system look more honest by documenting all of its problems
+D. It is a way of analyzing the system until it stops working entirely
+E. It is a technique used to hide the system's problems from the user
+ANSWER: A
+
+How does "Modularity" support "Parallel Development"?
+A. It allows multiple developers to work on different, independent modules at the same time
+B. It forces all developers to work on the exact same line of code simultaneously
+C. It ensures that the developers are working in parallel lines in the office
+D. It makes development slower because developers have to wait for each other's modules
+E. It is a technique used to make the software run in parallel on two different CPUs
+ANSWER: A
+
+Explain why "Phase-Out" is a necessary part of the "Software Lifecycle."
+A. Because the developers get bored with the software and want to move on
+B. Because technology and business needs change, making old systems obsolete and too expensive to keep
+C. Because it is a legal requirement to delete software after it has been used for ten years
+D. To make sure that the company can sell a new version of the software every year
+E. To prevent the software from becoming too smart and taking over the computer
+ANSWER: B
+
+GlobalMart is upgrading its 15-year-old monolithic inventory system to a cloud-native, component-based architecture. Apply the principle of loose coupling to determine how they should integrate a new third-party shipping service.
+A. Hard-code the third-party API calls directly into the core inventory logic.
+B. Implement an interface-based adapter to mediate between the system and the service.
+C. Merge the shipping service's source code into the main inventory database.
+D. Use a single global variable to share data between the inventory and shipping modules.
+E. Disable all security protocols to speed up the data transfer between systems.
+ANSWER: B
+
+A developer at GlobalMart needs to fix a critical bug in the legacy payment module while other teams are restructuring the database. How should they use SCM branching to manage this?
+A. Work directly on the main production branch to save time.
+B. Create a dedicated bug-fix branch to isolate the change from the ongoing restructuring.
+C. Wait for the database restructuring to finish before starting the bug fix.
+D. Delete the existing payment module and rewrite it in the database branch.
+E. Share their local files via email with the database team for manual merging.
+ANSWER: B
+
+GlobalMart’s system is experiencing "Architecture Degradation" due to years of unplanned patches. Illustrate the best change-resistant strategy to prevent this in the new system.
+A. Allow every developer to modify any part of the system architecture as needed.
+B. Implement strict encapsulation to hide internal logic behind stable interfaces.
+C. Remove all documentation to allow for faster, undocumented code changes.
+D. Use a monolithic structure so that all code is in a single, visible file.
+E. Avoid using any design patterns to keep the code as simple as possible.
+ANSWER: B
+
+Apply the ISO/IEC 14764 standard to GlobalMart's plan to move its inventory data to the cloud. What is the first step in the "Migration" process?
+A. Shut down the old system immediately to prevent data changes.
+B. Develop a migration plan including requirement analysis and tool selection.
+C. Delete the legacy database once the first 10% of data is moved.
+D. Tell users the system will be unavailable for one month without notice.
+E. Start writing the cloud code without analyzing the legacy data structure.
+ANSWER: B
+
+GlobalMart discovers that a recent update caused the checkout process to fail for 20% of users. Use SCM "Rollback" techniques to solve this issue effectively.
+A. Manually edit the production code until the errors stop appearing.
+B. Revert the production environment to the last stable baseline recorded in Git.
+C. Ask the affected users to re-install their web browsers.
+D. Wait for the next scheduled update in three months to fix the issue.
+E. Delete the checkout module and ask users to call the store to pay.
+ANSWER: B
+
+To support "Controlled Evolution," GlobalMart wants to ensure that adding a "Loyalty Points" feature does not break existing sales reports. Which technique should they implement?
+A. Static analysis of the user interface only.
+B. Regression testing against a documented baseline after the new feature is added.
+C. Manual code review of the sales report logic without running the system.
+D. Increasing the server's RAM to handle the extra complexity.
+E. Changing the sales report format to match the loyalty points data.
+ANSWER: B
+
+GlobalMart is in the "Servicing Stage" of its legacy POS software. Use the staged model guidelines to determine the appropriate action for a request for a "Major Virtual Reality Shopping" feature.
+A. Implement the feature immediately to stay ahead of competitors.
+B. Reject the feature as it exceeds the scope of the servicing stage and suggest a new project.
+C. Add the feature but do not test it to save maintenance resources.
+D. Rewrite the entire POS system to include the VR feature as a patch.
+E. Outsource the VR feature to a team that doesn't have access to the source code.
+ANSWER: B
+
+A change request is submitted to modify the tax calculation logic in GlobalMart’s system. Apply "Impact Analysis" to decide if the change should proceed.
+A. Approve the change immediately because tax laws are important.
+B. Identify all modules that call the tax function and evaluate potential side effects.
+C. Only check the tax module itself and ignore its connections to the checkout module.
+D. Ask the developer who wrote the tax code 10 years ago for their opinion.
+E. Implement the change in production and wait for user complaints to see the impact.
+ANSWER: B
+
+GlobalMart wants to ensure that their re-engineered components are "Replaceable." Implement this design property for their database access layer.
+A. Hard-code SQL queries for a specific database brand into every UI component.
+B. Use a Data Access Object (DAO) pattern with a well-defined interface.
+C. Store all database credentials in a plain text file on the developer's desktop.
+D. Make the database layer dependent on the specific version of the operating system.
+E. Encrypt the database layer so that no other component can communicate with it.
+ANSWER: B
+
+Demonstrate how Lehman’s "Law of Increasing Complexity" should be handled during the evolution of GlobalMart’s inventory system.
+A. Add as many features as possible without ever cleaning up the old code.
+B. Schedule regular "Perfective Maintenance" phases to refactor and simplify the code.
+C. Ignore the complexity until the system stops working entirely.
+D. Fire developers who suggest that the system is becoming too complex.
+E. Use more complex programming languages to match the system's complexity.
+ANSWER: B
+
+GlobalMart’s legacy system has "Inconsistent Data Formats." Apply a data re-engineering strategy to prepare for migration to a modern SQL database.
+A. Copy the data exactly as it is and fix errors manually in the new database later.
+B. Use a data cleansing tool to standardize formats before the extraction process.
+C. Delete any data that does not fit the new format to save storage space.
+D. Change the new database schema to allow for every possible inconsistent format.
+E. Use a manual spreadsheet to track the data instead of a database.
+ANSWER: B
+
+Show how "Configuration Audit" should be used when GlobalMart hires a third-party team to restructure their shipping module.
+A. Trust the third party completely and do not check their work.
+B. Verify that the delivered code matches the approved change requests and standards.
+C. Only check if the code runs on the lead developer's laptop.
+D. Pay the third party based on the number of lines of code they wrote.
+E. Ask the third party to write their own audit report and sign it.
+ANSWER: B
+
+GlobalMart is transitioning a system to the "Phase-out Stage." Apply the appropriate maintenance strategy for this stage.
+A. Hire 50 new developers to add revolutionary features.
+B. Focus on migration planning and providing only critical security patches.
+C. Stop all support immediately and turn off the servers without warning.
+D. Re-brand the system as a new product to increase sales during the decline.
+E. Move the source code to an open-source repository and walk away.
+ANSWER: B
+
+Apply the concept of "Information Hiding" to GlobalMart's new inventory component.
+A. Ensure that the inventory levels are visible to every other module in the system.
+B. Hide the internal list structure and only provide "GetCount" and "UpdateLevel" methods.
+C. Make the source code of the component available on the company's public website.
+D. Use global variables so that any developer can change the inventory data directly.
+E. Hide the documentation so that only the original author can understand the component.
+ANSWER: B
+
+Solve a conflict where two developers at GlobalMart modified the same "Discount" function at the same time using SCM.
+A. Use a version control merge tool to resolve conflicts and create a unified version.
+B. Delete both developers' work and ask them to start over from the beginning.
+C. Keep the version that was saved last and discard the other version.
+D. Create two different versions of the software and let the users choose which one to use.
+E. Ask the project manager to flip a coin to decide which version to keep.
+ANSWER: A
+
+GlobalMart wants to reduce the risk of "Regression Errors" during a technology upgrade. Illustrate the most effective strategy.
+A. Upgrade the hardware and the software at the same time without testing.
+B. Use an SCM tool to create a baseline and run automated regression tests after each change.
+C. Only test the parts of the system that are used by the CEO.
+D. Tell the developers to be very careful not to make any mistakes.
+E. Delete all old test cases and write new ones from scratch after the upgrade.
+ANSWER: B
+
+Implement a "Change Control Board" (CCB) process for a request to change the GlobalMart employee login screen.
+A. Allow the UI designer to make the change whenever they feel inspired.
+B. Require the request to be documented, analyzed for impact, and approved by the CCB.
+C. Let the employees vote on the login screen design on social media.
+D. Change the login screen every day to keep the system feeling "fresh."
+E. Ignore the request because the login screen is not a functional part of the system.
+ANSWER: B
+
+Use the "Servicing Stage" characteristics to justify why GlobalMart should NOT perform a major database schema redesign on a 20-year-old HR system.
+A. Because the database is too old to be redesigned.
+B. Because the focus is on reliability and stability, not risky structural changes.
+C. Because the original database designer has retired.
+D. Because the company wants to spend the budget on a new marketing campaign.
+E. Because the HR system is going to be deleted tomorrow anyway.
+ANSWER: B
+
+Apply "Perfective Maintenance" to GlobalMart’s reporting module which is currently slow but accurate.
+A. Fix a bug that causes the report to show the wrong date.
+B. Refactor the SQL queries to improve the execution speed of the reports.
+C. Update the reports to work on the latest version of the Chrome browser.
+D. Add a new type of report for "Summer Sales" that wasn't there before.
+E. Delete the reporting module and use a manual paper-based system.
+ANSWER: B
+
+Demonstrate how "Encapsulation" supports the maintenance of GlobalMart’s "Price Calculation" component.
+A. By allowing the component to access the private data of the "Customer" component.
+B. By ensuring that changes to the internal math logic do not require changes in the UI components.
+C. By making the component run in a virtual machine that is disconnected from the network.
+D. By encrypting the pricing data so that even the database cannot read it.
+E. By requiring the price calculation to be done manually by a manager.
+ANSWER: B
+
+GlobalMart needs to move from an on-premise server to Azure. Apply the "Migration and Retirement" phase of ISO/IEC 14764.
+A. Keep both systems running forever to ensure that no data is lost.
+B. Plan the migration, execute it in stages, and formally retire the old system after validation.
+C. Turn off the old server and hope that the new cloud system works immediately.
+D. Only move the data that was created in the last 24 hours.
+E. Ask the users to manually copy their data from the old system to the new one.
+ANSWER: B
+
+Show how "Version Tracking" would help GlobalMart identify when a specific security vulnerability was introduced.
+A. By looking at the physical date on the server's hard drive.
+B. By reviewing the SCM commit history to see which change modified the vulnerable code.
+C. By asking every developer if they remember writing a bug last month.
+D. By checking the system's electricity usage over the last year.
+E. By running a virus scan on the project manager's computer.
+ANSWER: B
+
+GlobalMart wants to implement a "Change-Resistant" strategy for their external API integrations. Which approach should they use?
+A. Use a "Wrapper" or "Facade" pattern to isolate external API changes from the internal system.
+B. Connect the internal system directly to the external API's internal database.
+C. Write the internal system in the same language as the external API to ensure compatibility.
+D. Require the external API company to never change their code again.
+E. Disable the API and use manual data entry to avoid any changes.
+ANSWER: A
+
+Apply Lehman’s "Law of Continuing Change" to justify GlobalMart’s decision to update their mobile app every month.
+A. Because the developers need to stay busy to justify their salaries.
+B. Because the app must adapt to changing user needs and OS updates or it will become useless.
+C. Because the law requires all apps to be updated at least 12 times a year.
+D. Because frequent updates prevent the app from taking up too much memory.
+E. Because users like to see the "Update" button in the app store.
+ANSWER: B
+
+Implement "Corrective Maintenance" on GlobalMart’s "Search" feature which currently crashes when a user enters a special character.
+A. Add a new feature that allows users to search by voice.
+B. Modify the code to handle special characters and prevent the system crash.
+C. Change the background color of the search page to make it look better.
+D. Update the search engine to work on the latest version of Linux.
+E. Tell users not to use special characters in the search box.
+ANSWER: B
+
+Use "Traceability" to support a change request for GlobalMart’s "Discount Module."
+A. Trace the change request back to the original business requirement and forward to the affected code and tests.
+B. Trace the physical location of the developer who is working on the discount module.
+C. Trace the history of the discount module's name since the company was founded.
+D. Trace the amount of money the company has saved by using the discount module.
+E. Trace the electricity consumption of the discount module during peak hours.
+ANSWER: A
+
+GlobalMart is using "IBM Rational ClearCase" for SCM. Illustrate a scenario where "Build Auditing" is applied.
+A. Checking the office for any unauthorized hardware before a build.
+B. Automatically recording which versions of which files were used to create a specific executable.
+C. Counting the number of errors the compiler finds and charging the developer a fee.
+D. Ensuring that the developer is sitting at their desk during the entire build process.
+E. Verifying that the build server is using a licensed version of the operating system.
+ANSWER: B
+
+Apply the "Staged Model" to explain why GlobalMart's "Initial Development" team should not be the same as the "Servicing" team.
+A. Because the servicing team is not as smart as the initial development team.
+B. Because the skills needed for rapid feature creation differ from those needed for long-term stability and bug fixing.
+C. Because the company wants to save money by hiring cheaper developers for servicing.
+D. Because the initial development team is required to go on vacation after the first release.
+E. Because the servicing stage is handled by the marketing department.
+ANSWER: B
+
+Demonstrate the use of "Adaptive Maintenance" for GlobalMart’s "Tax System" when a new VAT law is passed.
+A. Fix a bug that was causing the tax system to crash on Sundays.
+B. Update the tax calculation logic to comply with the new government regulations.
+C. Improve the performance of the tax system so it can process 1,000 transactions per second.
+D. Add a new user interface for the tax system that works on tablets.
+E. Delete the tax system and use a flat-rate tax for every product.
+ANSWER: B
+
+GlobalMart’s architecture is "Monolithic." Use re-engineering techniques to solve the problem of "High Deployment Risk."
+A. Deploy the entire 10GB monolith every time a single word is changed on the website.
+B. Refactor the monolith into independent microservices or components that can be deployed separately.
+C. Only deploy the system at midnight when no one is using it.
+D. Require five different managers to sign a paper before every deployment.
+E. Stop making any changes to the system to avoid the risk of deployment.
+ANSWER: B
+
+Apply the "Baseline" concept to GlobalMart's "Version 2.0" release.
+A. The baseline is the lowest level of performance the system is allowed to have.
+B. The baseline is a frozen set of code and documentation that represents the official state of Version 2.0.
+C. The baseline is the list of developers who worked on Version 2.0.
+D. The baseline is the total cost of developing Version 2.0.
+E. The baseline is the first line of code written for Version 2.0.
+ANSWER: B
+
+Show how "Component Reusability" should be applied when GlobalMart builds a new "Customer Loyalty" app.
+A. Write all new code for the loyalty app to ensure it is modern.
+B. Integrate the existing, tested "Authentication" and "Notification" components into the new app.
+C. Copy the source code of the old app and change the name of the project.
+D. Ask the developers to write the same functions in a different language to prove their skill.
+E. Use the loyalty app to replace the main shopping app entirely.
+ANSWER: B
+
+Implement a "Change Resistance" strategy for GlobalMart's legacy database schema that cannot be changed without breaking 50 other apps.
+A. Change the database schema anyway and deal with the 50 broken apps later.
+B. Create a "Database View" or "API Layer" that provides the new data format while keeping the old tables for legacy apps.
+C. Delete the 50 legacy apps and replace them with one new app.
+D. Manually update the data in the database using a text editor every day.
+E. Ask the database company to fix the schema for free.
+ANSWER: B
+
+Use "Static Analysis" to evaluate the quality of a new module before it is integrated into GlobalMart's core system.
+A. Run the module on a server and see if it crashes.
+B. Use a tool to check the source code for complexity, style violations, and potential logic errors without running it.
+C. Ask a user to try the module and see if they like the interface.
+D. Compare the module's file size to the size of other modules in the system.
+E. Print the source code and look at it from a distance to see if it looks organized.
+ANSWER: B
+
+Apply the "Preventive Maintenance" strategy to GlobalMart's "Session Management" system.
+A. Fix a bug that was logging users out randomly.
+B. Update the system to use a more secure encryption algorithm before any hack occurs.
+C. Add a new feature that shows the user's profile picture during the session.
+D. Move the session management to a new server because the old one is dusty.
+E. Delete the sessions after 5 minutes to save memory on the server.
+ANSWER: B
+
+Demonstrate how "SCM Version Control" prevents "Lost Updates" in GlobalMart’s collaborative environment.
+A. By only allowing one person to work on the entire project at a time.
+B. By merging changes and alerting developers if they try to overwrite a newer version of a file.
+C. By making the source code "read-only" for everyone except the lead developer.
+D. By saving a new copy of every file with the developer's name at the end.
+E. By requiring developers to write their code on paper before typing it into the computer.
+ANSWER: B
+
+GlobalMart's "Inventory Component" has "Strong Coupling" with the "Pricing Component." Illustrate how to fix this for better maintainability.
+A. Merge both components into one giant "InventoryAndPricing" component.
+B. Introduce an event-based system or an interface so they communicate without knowing each other's internal details.
+C. Delete the pricing component and let the inventory component handle prices.
+D. Make the pricing component a sub-folder of the inventory component.
+E. Require the inventory component to use the same database tables as the pricing component.
+ANSWER: B
+
+Apply "IEEE 1219" to GlobalMart’s maintenance process. What should follow the "Implementation" phase?
+A. The "Retirement" phase.
+B. The "Review and Acceptance" phase, including testing and user approval.
+C. The "Initial Development" phase.
+D. The "Marketing and Sales" phase.
+E. The "Developer Vacation" phase.
+ANSWER: B
+
+Show how "Impact Analysis" would be used if GlobalMart decides to change the "Customer ID" from an integer to a string.
+A. Change it in the database and see which programs stop working the next day.
+B. Search the entire codebase and database schemas to find all references to "CustomerID" and assess the work needed.
+C. Only change it in the UI and leave the database as an integer.
+D. Tell the customers that their IDs have changed and they need to sign up again.
+E. Ask the database administrator to change the ID type while the system is running.
+ANSWER: B
+
+Implement "Configuration Control" for GlobalMart’s "Production Environment" settings.
+A. Allow any IT staff member to change the server settings whenever they want.
+B. Use a "Configuration Management" tool to track and approve all changes to environment variables.
+C. Write the settings on a sticky note and put it on the side of the server.
+D. Hard-code the production settings into the application's source code.
+E. Use the same settings for "Testing" and "Production" to avoid any confusion.
+ANSWER: B
+
+GlobalMart is moving to the "Evolution Stage" for its new "Grocery Delivery" app. Use the staged model to predict the team's main activity.
+A. Fixing 1,000 bugs that were found in the first week.
+B. Adding new features like "Real-time Tracking" and "Subscription Models" based on user feedback.
+C. Planning the retirement of the app because grocery delivery is no longer popular.
+D. Rewriting the app in a different language to make it faster.
+E. Deleting the app's documentation to make it easier to change.
+ANSWER: B
+
+Apply the "Encapsulation" principle to GlobalMart's "Credit Card Processing" module.
+A. Ensure that the module exposes the raw encryption keys to the checkout module.
+B. Hide the encryption logic and only provide a "ProcessPayment" method that returns success or failure.
+C. Allow the "Order History" module to modify the credit card data directly in memory.
+D. Store the credit card numbers in a public global variable for easy access.
+E. Make the module's source code visible to every user who visits the website.
+ANSWER: B
+
+Demonstrate the benefit of "Modular" design when GlobalMart's "Notification Component" crashes.
+A. The entire website goes down and no one can buy anything.
+B. Only the notifications stop working, while users can still browse and buy products.
+C. The website automatically switches to a backup notification system made by a different company.
+D. The website's background color changes to red to warn the users.
+E. The "Inventory" component also crashes because it is waiting for a notification.
+ANSWER: B
+
+GlobalMart wants to "Modernize" its legacy system without a "Big Bang" replacement. Apply the best strategy.
+A. Replace the entire system on a single weekend and hope for the best.
+B. Use "Incremental Re-engineering" to replace one module at a time using "Strangler Fig" pattern.
+C. Stop all business for a year while the new system is being built.
+D. Ask the developers to work 24 hours a day until the new system is finished.
+E. Hire a new company to build a different system that has nothing to do with the old one.
+ANSWER: B
+
+Use "Dynamic Analysis" to solve a "Memory Leak" problem in GlobalMart’s "Data Sync" service.
+A. Read the source code carefully to find where the memory is not being released.
+B. Run the service with a profiler tool to observe memory usage in real-time and identify the growing objects.
+C. Increase the server's virtual memory until the service stops crashing.
+D. Restart the service every hour to clear the leaked memory.
+E. Delete the parts of the code that use the most memory.
+ANSWER: B
+
+Apply the "Reusability" design property to GlobalMart’s "Address Validation" logic.
+A. Write the address validation code separately for the web, mobile, and shipping modules.
+B. Create a single "AddressService" component that all other modules call via an API.
+C. Use a third-party address validator and pay for it every time it is called.
+D. Ask the users to validate their own addresses using a map.
+E. Only validate addresses for customers who spend more than $100.
+ANSWER: B
+
+GlobalMart’s "Legacy Code" is "Difficult to Understand." Implement a "Program Understanding" strategy for a new developer.
+A. Tell the developer to read all 1 million lines of code in the first week.
+B. Provide the developer with visualization tools, call graphs, and high-level architectural diagrams.
+C. Ask the developer to rewrite the entire system because the old code is too hard.
+D. Give the developer a list of variable names and their meanings on a piece of paper.
+E. Tell the developer to just start changing things and see what happens.
+ANSWER: B
+
+Show how "Loose Coupling" would help GlobalMart if they decide to switch from "Azure" to "AWS."
+A. They would have to rewrite every single line of code in the system.
+B. Only the "Infrastructure Adaptation" layer would need to change, leaving the business logic untouched.
+C. The system would automatically move itself to AWS because it is loosely coupled.
+D. They would need to hire a completely different team of developers.
+E. AWS would have to change its platform to match GlobalMart's code.
+ANSWER: B
+
+Apply "SCM Baselines" to GlobalMart's "Sprint 5" development cycle.
+A. The baseline is the amount of coffee the developers drink during the sprint.
+B. The baseline is the approved state of the code at the end of Sprint 5, used as the start for Sprint 6.
+C. The baseline is the total number of hours worked by the team in Sprint 5.
+D. The baseline is the first bug found during the Sprint 5 testing phase.
+E. The baseline is the lowest temperature in the server room during the sprint.
+ANSWER: B
+
+Implement a "Change Request" process for an "Urgent Security Patch" at GlobalMart.
+A. Bypass all change control and apply the patch to production immediately.
+B. Use an "Emergency Change" procedure that allows for rapid approval followed by retrospective documentation.
+C. Wait for the next monthly Change Control Board meeting to discuss the patch.
+D. Tell the hackers that the system is being patched and they should stop.
+E. Turn off the entire system until the patch is approved by the CEO.
+ANSWER: B
+
+Demonstrate the use of "Encapsulation" in protecting GlobalMart’s "User Password" storage.
+A. Allowing the "Login" screen to read the raw password from the database.
+B. Hiding the hashing and salting logic inside a "Security" component that only returns "Match" or "No Match."
+C. Storing the passwords in a global variable so they can be easily checked.
+D. Encrypting the passwords with a key that is stored in the same database table.
+E. Printing the passwords in the system logs to help with debugging.
+ANSWER: B
+
+GlobalMart is in the "Initial Development" stage of a new "AI Chatbot." Apply the staged model to define the focus.
+A. Fixing minor spelling errors in the chatbot's responses.
+B. Implementing the core Natural Language Processing features and the first stable UI.
+C. Planning the retirement of the chatbot in favor of a human support team.
+D. Adding a "Sarcasm" feature that was requested by a single user.
+E. Reducing the chatbot's performance to save money on cloud costs.
+ANSWER: B
+
+Use "Regression Testing" to validate a "Database Restructuring" at GlobalMart.
+A. Test only the new database tables and ignore the old ones.
+B. Run the entire suite of existing functional tests to ensure that the data changes didn't break old features.
+C. Ask the database administrator to look at the tables and see if they "look right."
+D. Delete all old data and see if the new database can hold new data.
+E. Only test the system on a Friday afternoon.
+ANSWER: B
+
+Apply "Reverse Engineering" to a GlobalMart legacy module with "No Source Code" (only a .class file).
+A. Use a de-compiler to recover the high-level Java code for analysis and modification.
+B. Delete the .class file and ask a developer to write a new one from memory.
+C. Try to read the binary zeros and ones to understand the module's logic.
+D. Use a hammer to break the hard drive and see if the source code is inside.
+E. Guess what the module does based on its file name.
+ANSWER: A
+
+Show how "Modularity" helps GlobalMart manage "Team Collaboration."
+A. Every developer works on the same file at the same time.
+B. Different teams can work on the "Payment," "Inventory," and "Search" modules independently.
+C. The team leads are the only ones allowed to write any code.
+D. All teams must use the same programming language and the same computer.
+E. Teams are not allowed to talk to each other to avoid "Module Contamination."
+ANSWER: B
+
+Implement "Configuration Item" (CI) tracking for GlobalMart’s "Requirement Document."
+A. Treat the document as a CI and put it under version control in the SCM system.
+B. Keep the document on the project manager's personal laptop and email it when needed.
+C. Print the document and put it in a physical filing cabinet.
+D. Change the document whenever anyone has a new idea without telling the team.
+E. Delete the document after the code is written to save space.
+ANSWER: A
+
+Use the "Law of Continuing Quality" to explain why GlobalMart's system performance drops after 5 years of maintenance.
+A. Because the hardware is getting older and slower.
+B. Because the system's internal structure has declined due to "Entropy" and needs refactoring.
+C. Because the users are entering more data than they used to.
+D. Because the software is "Tired" of running for so long.
+E. Because the company stopped paying for the "High Quality" license.
+ANSWER: B
+
+Apply "Component-Based Design" to solve the problem of "High Development Cost" at GlobalMart.
+A. Hire more developers to write code faster.
+B. Use a library of pre-built, tested UI and data components instead of building everything from scratch.
+C. Reduce the developers' salaries to lower the total cost.
+D. Stop testing the software to save time and money.
+E. Build the software in a country where the electricity is cheaper.
+ANSWER: B
+
+Demonstrate how "Information Hiding" protects GlobalMart’s "Business Rules" for calculating discounts.
+A. By putting the rules in a PDF file and sending it to all employees.
+B. By encapsulating the discount logic in a private class that only exposes a "CalculateTotal" method.
+C. By writing the rules in a secret language that only the CEO understands.
+D. By making the rules a part of the user's "Terms and Conditions" on the website.
+E. By deleting the rules after they have been programmed into the system.
+ANSWER: B
+
+GlobalMart's system has "Data Quality Issues." Apply a re-engineering technique to handle "Redundant Data."
+A. Keep the redundant data as a backup in case the primary data is lost.
+B. Use "Data Normalization" to restructure the database and eliminate duplicate information.
+C. Increase the database size so that the redundant data doesn't matter.
+D. Delete the database and start a new one with no data at all.
+E. Tell the users to stop entering the same information twice.
+ANSWER: B
+
+Show how "SCM" would be used if GlobalMart's website is "Hacked" and the homepage is changed.
+A. Use SCM to identify the unauthorized change and roll back to the last authorized baseline.
+B. Change the homepage back manually and hope the hacker doesn't notice.
+C. Delete the entire website and build a new one from scratch.
+D. Close the company and move to a different country.
+E. Ask the hacker how they changed the homepage and hire them as a consultant.
+ANSWER: A
+
+Apply the "ISO/IEC 14764" "Problem and Modification Analysis" step to a user report that "The cart is slow."
+A. Tell the user that the cart is not slow and they should buy a faster computer.
+B. Analyze the performance, identify the bottleneck (e.g., a slow database query), and plan a fix.
+C. Add a "Loading" animation to the cart to make it look faster.
+D. Delete the cart and ask users to buy products one at a time.
+E. Ignore the report until 100 more users complain about the same thing.
+ANSWER: B
+
+Implement "Well-Defined Interfaces" for GlobalMart’s "Payment Gateway" to ensure "Interoperability."
+A. Create a specific interface for every different credit card company.
+B. Create a single, standard "IPayment" interface that any gateway (PayPal, Stripe) must implement.
+C. Hard-code the connection to PayPal directly into the "BuyNow" button.
+D. Ask the users to choose which payment gateway they want to use by typing its URL.
+E. Use a different programming language for each payment gateway.
+ANSWER: B
+
+Use "Traceability" to ensure that GlobalMart’s "New Tax Law" requirement was actually implemented.
+A. Check the code to see if there is a comment that says "Tax Law Fixed."
+B. Use a traceability matrix to link the legal requirement to the specific code modules and test cases.
+C. Ask the developer if they remember fixing the tax law last Tuesday.
+D. See if the company's total tax bill has gone down.
+E. Check the system's "About" screen to see if it mentions the tax law.
+ANSWER: B
+
+Apply the "Staged Model" to justify why GlobalMart's "Phase-out" system should not receive a "Security Upgrade."
+A. Because the system is no longer used by anyone.
+B. Because the cost and risk of the upgrade are too high for a system that will be retired soon.
+C. Because the security upgrade would make the system too fast.
+D. Because the company doesn't care about security during the phase-out stage.
+E. Because the phase-out stage is managed by a different company.
+ANSWER: B
+
+Demonstrate how "Encapsulation" helps GlobalMart's "Inventory" team update their database from "Oracle" to "PostgreSQL."
+A. By allowing the team to change the SQL queries inside the "DataLayer" without changing the UI code.
+B. By requiring the UI team to learn how to write PostgreSQL queries.
+C. By making the "Oracle" database look like a "PostgreSQL" database.
+D. By encrypting the database so that no one knows which brand it is.
+E. By moving the database to a PostgreSQL server and hoping the Oracle code still works.
+ANSWER: A
+
+GlobalMart’s "Legacy System" has "Architecture Degradation." Apply a "Restructuring" strategy.
+A. Add more code to the existing system to fix the degradation.
+B. Reorganize the internal code structure to match a modern "Layered" or "Microservices" architecture.
+C. Buy a bigger server to hide the architecture problems.
+D. Change the names of the files to make the architecture look more modern.
+E. Delete the architecture and write the code in a single 1-million-line file.
+ANSWER: B
+
+Show how "SCM Versioning" would help GlobalMart manage a "Multi-country" release (e.g., US vs UK versions).
+A. Create two different companies to manage the two different versions.
+B. Use SCM branching or configuration flags to maintain localized versions from a single codebase.
+C. Copy the entire project and translate the words in the UK version.
+D. Only release the US version and tell the UK users to use a VPN.
+E. Change the code for the US version, then change it back for the UK version every day.
+ANSWER: B
+
+Apply the "Law of Increasing Complexity" to explain why GlobalMart's re-engineering project is "Behind Schedule."
+A. Because the developers are lazy and don't want to work.
+B. Because as the system evolved, the internal dependencies became so complex that every change takes longer.
+C. Because the project manager is using a very complex calendar.
+D. Because the software is trying to protect itself from being re-engineered.
+E. Because the company is using a very complex programming language.
+ANSWER: B
+
+Implement "Perfective Maintenance" on GlobalMart’s "Search Algorithm" to improve user satisfaction.
+A. Fix a bug that was preventing the search from showing any results.
+B. Update the algorithm to show the most relevant products first, improving the user experience.
+C. Change the color of the search button to "GlobalMart Blue."
+D. Move the search bar to the bottom of the page.
+E. Delete the search history of all users to save database space.
+ANSWER: B
+
+Use "Static Analysis" to detect "Dead Code" in a GlobalMart legacy module.
+A. Run the module and see which parts of the code are never executed.
+B. Use a tool to analyze the source code and find functions that are never called by any other part of the system.
+C. Ask the original developer which parts of the code they didn't finish.
+D. Delete half of the code and see if the system still runs.
+E. Look for code that is written in an old, "dead" programming language.
+ANSWER: B
+
+Apply "Component Interoperability" to GlobalMart's "Printer Module" which needs to work with 50 different printers.
+A. Write a different version of the module for every printer brand.
+B. Use a "Standard Printer Interface" (like a driver model) that all printer components must follow.
+C. Only support one brand of printer and tell the stores to buy that brand.
+D. Ask the printer companies to change their hardware to match GlobalMart's software.
+E. Use a physical cable to connect every printer to the main server.
+ANSWER: B
+
+Show how "Impact Analysis" would be used when GlobalMart decides to delete the "Fax Number" field from the database.
+A. Delete it and see who complains about their fax machine not working.
+B. Identify all reports, UI forms, and external APIs that use the "FaxNumber" field before deleting it.
+C. Only check the "Customer" table and ignore the "Order" table.
+D. Ask the CEO if they still use a fax machine.
+E. Change the name of the field to "OldFaxNumber" and leave it in the database.
+ANSWER: B
+
+Implement "Configuration Control" for GlobalMart's "Third-Party Libraries."
+A. Allow developers to download and use any library they find on the internet.
+B. Maintain an approved list of libraries and versions in the SCM system to ensure security and compatibility.
+C. Delete all third-party libraries and write everything from scratch.
+D. Use the oldest version of every library to ensure that it is "Stable."
+E. Hide the third-party libraries in a folder that no one can find.
+ANSWER: B
+
+Use the "Servicing Stage" to justify why GlobalMart is "Not Adding" a social media feed to its 15-year-old payroll system.
+A. Because social media is not allowed at work.
+B. Because the system is in the servicing stage, where the focus is on stability and critical fixes, not new features.
+C. Because the payroll system is not connected to the internet.
+D. Because the employees don't want to see their social media feed while they are looking at their paychecks.
+E. Because the company wants to build a new social media app instead.
+ANSWER: B
+
+Apply the "Encapsulation" property to GlobalMart’s "Inventory Update" process.
+A. Allow the "Sales" module to directly change the "QuantityOnHand" variable in the inventory database.
+B. Require the "Sales" module to call an "UpdateInventory" method that checks for validity and security.
+C. Send a paper memo to the inventory department every time a sale is made.
+D. Use a global variable called "GlobalInventoryCount" that every module can access.
+E. Encapsulate the inventory data in a password-protected zip file.
+ANSWER: B
+
+Demonstrate how "SCM Baselines" protect GlobalMart during a "Failed Migration" to a new cloud provider.
+A. By allowing the team to quickly revert the configuration and code to the last known stable baseline on the old server.
+B. By providing a list of people to blame for the failed migration.
+C. By showing the company how much money they lost during the downtime.
+D. By creating a new baseline that includes all the errors from the failed migration.
+E. By making the old server work faster to compensate for the failure.
+ANSWER: A
+
+GlobalMart’s system has "Requirement Ambiguity." Apply a change-management strategy to solve this.
+A. Ask the developers to guess what the users want and start coding.
+B. Use a "Formal Change Request" process that requires clear documentation and stakeholder approval of requirements.
+C. Ignore the ambiguity and wait for the users to complain after the system is released.
+D. Change the requirements every day until everyone is happy.
+E. Delete the requirements and use the "Agile" method of having no plan at all.
+ANSWER: B
+
+Show how "Version Tracking" would help GlobalMart "Audit" who approved a change to the "CEO's Salary" in the payroll system.
+A. By looking at the signature on a paper document in the CEO's office.
+B. By reviewing the SCM metadata and pull request history to see the author and the approver of the change.
+C. By asking the payroll manager who they think might have changed the salary.
+D. By checking the CEO's bank account to see when the salary increased.
+E. By running a search for the word "Salary" in the source code.
+ANSWER: B
+
+Apply the "Reusability" principle to GlobalMart's "Error Logging" module.
+A. Write a new error logger for every module in the system to ensure they are customized.
+B. Create a "Global Logger Component" that provides a standard way for all modules to record errors.
+C. Ignore all errors to save time and make the system look perfect.
+D. Send every error as an email to the lead developer's personal phone.
+E. Print all errors on a physical printer in the IT department.
+ANSWER: B
+
+Implement "Software Configuration Management" (SCM) for GlobalMart’s "User Manuals."
+A. Keep the manuals in a Google Doc that anyone with the link can edit.
+B. Put the manuals in the SCM system along with the source code so they are versioned together.
+C. Only write the manuals after the software is finished and never change them.
+D. Ask the users to write their own manuals on a wiki page.
+E. Delete the manuals and use "Tooltips" in the software instead.
+ANSWER: B
+
+Use "Dynamic Analysis" to verify the "Performance" of GlobalMart's new "Checkout" module under heavy load.
+A. Read the checkout code to see if there are any slow loops.
+B. Run "Load Testing" tools to simulate 10,000 concurrent users and monitor response times and server health.
+C. Ask 10,000 employees to log in at the same time and see what happens.
+D. Assume the module is fast because it was written in a modern programming language.
+E. Wait until Black Friday to see if the system crashes.
+ANSWER: B
+
+Apply "Loose Coupling" to GlobalMart's "Currency Conversion" feature.
+A. Hard-code the exchange rates directly into the pricing logic.
+B. Use an external "Currency API" through a standard interface, allowing the API provider to be changed easily.
+C. Only support US Dollars to avoid the need for currency conversion.
+D. Store the exchange rates in a global variable that is updated manually once a year.
+E. Ask the bank to send a fax with the exchange rates every morning.
+ANSWER: B
+
+Demonstrate the use of "Corrective Maintenance" on GlobalMart’s "Barcode Scanner" which stops working after 100 scans.
+A. Buy a new barcode scanner for every store.
+B. Identify the "Memory Leak" or "Buffer Overflow" in the scanner's driver code and fix it.
+C. Tell the employees to restart the scanner after every 99 scans.
+D. Add a new feature that allows the scanner to read QR codes as well.
+E. Move the barcode scanner to a different USB port on the computer.
+ANSWER: B
+
+GlobalMart's "Legacy System" is "Not Scalable." Use re-engineering techniques to solve this.
+A. Buy the biggest server in the world and move the system to it.
+B. Refactor the monolithic bottleneck into "Load-Balanced" components or microservices.
+C. Tell the users that they are not allowed to use the system at the same time.
+D. Reduce the number of products in the inventory to make the system faster.
+E. Change the system's name to "SuperScalableMart" to improve its reputation.
+ANSWER: B
+
+Apply "SCM Branching" for GlobalMart's "Holiday Sale" promotion.
+A. Modify the production code with the sale prices one week before the sale.
+B. Create a "Holiday-Sale" branch to develop and test the promotion features independently of the main code.
+C. Ask all developers to stop working on other features until the holiday sale is over.
+D. Use a different website for the holiday sale and link to it from the main page.
+E. Write the holiday sale code in a different programming language.
+ANSWER: B
+
+Show how "Impact Analysis" helps GlobalMart manage "Risk" during a major UI redesign.
+A. It tells the team how much the users will hate the new design.
+B. It identifies which backend APIs and data structures will need to change to support the new UI.
+C. It calculates the physical impact of the new UI on the user's eyes.
+D. It ensures that the new UI is compatible with every mobile phone in the world.
+E. It allows the team to skip the testing phase if the impact is "Low."
+ANSWER: B
+
+Implement "Version Tracking" for GlobalMart’s "Database Schema" changes.
+A. Use "Migration Scripts" (like Flyway or Liquibase) that are stored in the SCM system to track and apply changes.
+B. Ask the database administrator to keep a list of changes in a notebook.
+C. Change the database schema manually and don't tell anyone.
+D. Use a "Schema Comparison" tool to find out what changed after the system crashes.
+E. Delete the old database schema every time a new one is created.
+ANSWER: A
+
+Use the "Law of Continuing Change" to explain why GlobalMart's 30-year-old mainframe system is "Still Being Updated."
+A. Because the company has a contract with the mainframe manufacturer.
+B. Because if the system stops evolving to match the business's current needs, it will become useless.
+C. Because the mainframe is so powerful that it can never be replaced.
+D. Because the developers who built the mainframe are still working there.
+E. Because the government requires all mainframes to be updated once a year.
+ANSWER: B
+
+Apply "Perfective Maintenance" to GlobalMart's "Mobile App" login screen.
+A. Fix a bug that was preventing users from logging in with a capital letter in their email.
+B. Implement "Biometric Login" (FaceID/Fingerprint) to make the login process faster and more secure for users.
+C. Update the app to work on the latest version of iOS.
+D. Change the "Login" button text to "Sign In."
+E. Delete the login screen and let everyone access the app for free.
+ANSWER: B
+
+Demonstrate how "Encapsulation" helps GlobalMart's "Tax Module" handle "International Sales."
+A. By exposing the specific tax laws of every country to the "Checkout" module.
+B. By hiding the complex international tax logic and only providing a "CalculateTax(CountryCode, Amount)" method.
+C. By requiring the customer to calculate their own tax based on their country.
+D. By using a different tax module for every different country.
+E. By only selling products in countries that have the same tax laws as the US.
+ANSWER: B
+
+GlobalMart’s "Component-Based System" has a "Security Vulnerability" in the "Login Component." Implement a fix.
+A. Rewrite the entire system from scratch to ensure it is secure.
+B. Replace the "Login Component" with a newer, secure version without changing the rest of the system.
+C. Tell the users to change their passwords every hour.
+D. Disable the login feature until a fix is found.
+E. Hide the vulnerability by changing the name of the "Login" folder.
+ANSWER: B
+
+Show how "SCM baselines" would be used if GlobalMart's "Version 3.0" is found to be "Slower" than "Version 2.0."
+A. Compare the performance metrics of Version 3.0 against the Version 2.0 baseline to identify where the slowdown occurred.
+B. Delete Version 3.0 and tell the users to go back to using Version 2.0.
+C. Fire the developers who worked on Version 3.0.
+D. Add more hardware to the Version 3.0 server until it is faster than Version 2.0.
+E. Change the version number of 3.0 back to 2.0 so the users don't notice.
+ANSWER: A
+
+Apply "Adaptive Maintenance" to GlobalMart’s "Payment System" when "Apple Pay" becomes a popular payment method.
+A. Fix a bug in the "Credit Card" processing logic.
+B. Modify the system to integrate Apple Pay as a new payment option for customers.
+C. Improve the speed of the "PayPal" integration.
+D. Delete the "Cash on Delivery" option because no one uses it anymore.
+E. Change the "Payment" page's background color to match Apple's brand.
+ANSWER: B
+
+Implement "Configuration Item" tracking for GlobalMart’s "Test Data."
+A. Treat the test data as a CI and store it in the SCM system to ensure tests are repeatable.
+B. Use random data every time a test is run to keep the system "On its toes."
+C. Ask the developers to use their own personal data for testing.
+D. Delete the test data after the tests are finished to save disk space.
+E. Use a physical printout of the test data and enter it manually for every test.
+ANSWER: A
+
+Use "Impact Analysis" to justify why GlobalMart's "Change Request #402" was "Rejected."
+A. Because the project manager didn't like the person who submitted the request.
+B. Because the analysis showed that the change would break 10 critical modules and cost $50,000 to fix.
+C. Because the change request was written in a font that was too small to read.
+D. Because the change request was submitted on a Friday afternoon.
+E. Because the system is already "Perfect" and doesn't need any changes.
+ANSWER: B
+
+Apply the "Phase-out" stage guidelines to GlobalMart's "Windows XP" based store kiosks.
+A. Upgrade the kiosks to Windows 11 immediately.
+B. Plan the migration of the kiosk software to a modern web-based platform and stop adding features to the XP version.
+C. Paint the kiosks a new color to make them look more modern.
+D. Hire 10 new Windows XP experts to maintain the kiosks for the next 20 years.
+E. Turn off the kiosks and tell the customers to use their phones instead.
+ANSWER: B
+
+Demonstrate how "Traceability" helps GlobalMart's "QA Team" verify that all "Bug Fixes" were tested.
+A. By asking the developers which bugs they fixed today.
+B. By using a "Traceability Matrix" to link every bug report to a specific fix in the code and a corresponding test case.
+C. By checking the system's "Error Log" and seeing if it is empty.
+D. By running the system and waiting for it to crash.
+E. By counting the number of lines of code that were changed during the bug fix.
+ANSWER: B
+
+GlobalMart's "Data Reverse Engineering" project is "Recovering Business Rules." Implement a strategy for this.
+A. Ask the oldest employee in the company how the system works.
+B. Analyze the stored procedures, triggers, and data constraints in the legacy database to extract the logic.
+C. Read the "User Manual" from 1995 to find the business rules.
+D. Guess the business rules based on the names of the database tables.
+E. Delete the database and write new business rules from scratch.
+ANSWER: B
+
+Apply "SCM Release Management" to GlobalMart's "2024 Black Friday" update.
+A. Release the update to all stores at the same time on Black Friday morning.
+B. Use a "Staged Release" or "Canary Deployment" to test the update in a few stores before a full rollout.
+C. Wait until the Monday after Black Friday to release the update.
+D. Only release the update to stores that are having a big sale.
+E. Ask the store managers to install the update themselves using a USB drive.
+ANSWER: B

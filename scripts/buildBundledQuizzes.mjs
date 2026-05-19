@@ -1,21 +1,20 @@
 /**
- * Build bundled quiz JSON from assets DOCX. Run: node scripts/buildBundledQuizzes.mjs
+ * Build bundled quiz JSON from assets question bank.
+ * Run: npm run build:quizzes
  */
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, readdir, unlink } from "node:fs/promises";
 import { join } from "node:path";
-import mammoth from "mammoth";
+
 const ROOT = join(import.meta.dirname, "..");
-const DOCX = join(
-  ROOT,
-  "assets",
-  "FInal Exam-Question Bank (CLO3, CLO4) SC.docx"
-);
+const SOURCE_FILE = "SRE MCQs Bank (1).txt";
+const SOURCE_PATH = join(ROOT, "assets", SOURCE_FILE);
 const OUT_DIR = join(ROOT, "data", "quizzes");
 const CATALOG_PATH = join(ROOT, "data", "catalog.json");
 const CHUNK_SIZE = 50;
+const QUIZ_ID_PREFIX = "sre-bank-set-";
 
 const BLOCK_RE = /([\s\S]*?)\n\s*ANSWER:\s*([A-E])\s*(?:\n|$)/gi;
-const OPTION_PREFIX_RE = /^\s*([A-E])\s*[\.\):\-]\s+(.+)$/i;
+const OPTION_LINE_RE = /^\s*([A-E])\s*[\.\):\-]\s+(.+)$/i;
 const SECTION_HEADER_RE =
   /^-{2,}.*CLO\d.*-{2,}$|^\s*CLO\s*\d+\s*[-:]*\s*$/i;
 
@@ -29,12 +28,10 @@ function isSectionHeader(text) {
   return false;
 }
 
-function parseOptionSegment(segment) {
-  const line = segment.replace(/\n/g, " ").replace(/\s+/g, " ").trim();
-  if (!line) return null;
-  const prefixed = line.match(OPTION_PREFIX_RE);
-  if (prefixed) return { id: prefixed[1].toUpperCase(), text: prefixed[2].trim() };
-  return null;
+function parseOptionLine(line) {
+  const m = line.trim().match(OPTION_LINE_RE);
+  if (!m) return null;
+  return { id: m[1].toUpperCase(), text: m[2].trim() };
 }
 
 function assignSequentialIds(options) {
@@ -45,7 +42,37 @@ function assignSequentialIds(options) {
   }));
 }
 
-function parseBlock(body, answerLetter) {
+/** SRE-style: one line per option, single newlines between lines. */
+function parseBlockByLines(body, answerLetter) {
+  const lines = body
+    .split("\n")
+    .map((l) => l.trim())
+    .filter((l) => l.length > 0 && !isSectionHeader(l));
+
+  if (lines.length < 3) return null;
+
+  const questionLines = [];
+  const options = [];
+
+  for (const line of lines) {
+    const opt = parseOptionLine(line);
+    if (opt) {
+      options.push(opt);
+    } else if (options.length === 0) {
+      questionLines.push(line);
+    } else {
+      options[options.length - 1].text += ` ${line}`;
+    }
+  }
+
+  const questionText = questionLines.join(" ").replace(/\s+/g, " ").trim();
+  if (!questionText || questionText.length < 10 || options.length < 2) return null;
+
+  return finalizeQuestion(questionText, options, answerLetter);
+}
+
+/** CLO / exam DOCX style: blank-line-separated paragraphs. */
+function parseBlockByParagraphs(body, answerLetter) {
   const segments = body
     .split(/\n\s*\n/)
     .map((s) => s.trim())
@@ -60,12 +87,10 @@ function parseBlock(body, answerLetter) {
   const plain = [];
 
   for (const seg of segments.slice(1)) {
-    const opt = parseOptionSegment(seg);
+    const line = seg.replace(/\n/g, " ").replace(/\s+/g, " ").trim();
+    const opt = parseOptionLine(line);
     if (opt) prefixed.push(opt);
-    else {
-      const text = seg.replace(/\n/g, " ").replace(/\s+/g, " ").trim();
-      if (text) plain.push({ text });
-    }
+    else if (line) plain.push({ text: line });
   }
 
   let options;
@@ -80,10 +105,14 @@ function parseBlock(body, answerLetter) {
     options = [...byId.values()].sort((a, b) => a.id.localeCompare(b.id));
   }
 
+  if (options.length < 2) return null;
+  return finalizeQuestion(questionText, options, answerLetter);
+}
+
+function finalizeQuestion(questionText, options, answerLetter) {
   const byId = new Map();
   for (const o of options) byId.set(o.id, o);
   options = [...byId.values()].sort((a, b) => a.id.localeCompare(b.id));
-  if (options.length < 2) return null;
 
   const correct = answerLetter.toUpperCase();
   let correctOptionId = correct;
@@ -96,7 +125,14 @@ function parseBlock(body, answerLetter) {
   return { text: questionText, options, correctOptionId };
 }
 
-function parseExamBank(raw) {
+function parseBlock(body, answerLetter) {
+  return (
+    parseBlockByLines(body, answerLetter) ??
+    parseBlockByParagraphs(body, answerLetter)
+  );
+}
+
+function parseQuestionBank(raw) {
   const normalized = raw.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
   const questions = [];
   const re = new RegExp(BLOCK_RE.source, "gi");
@@ -114,22 +150,33 @@ function chunk(arr, size) {
   return out;
 }
 
-const buf = await readFile(DOCX);
-const { value } = await mammoth.extractRawText({ buffer: buf });
-const parsed = parseExamBank(value);
+async function removeOldQuizzes() {
+  const files = await readdir(OUT_DIR).catch(() => []);
+  for (const f of files) {
+    if (f.endsWith(".json") && !f.startsWith(QUIZ_ID_PREFIX)) {
+      await unlink(join(OUT_DIR, f));
+      console.log(`  Removed old quiz file: ${f}`);
+    }
+  }
+}
 
-console.log(`Parsed ${parsed.length} questions from DOCX`);
+const raw = await readFile(SOURCE_PATH, "utf-8");
+const parsed = parseQuestionBank(raw);
 
-if (parsed.length < 50) {
-  console.error("Too few questions parsed — check format.");
+console.log(`Parsed ${parsed.length} questions from ${SOURCE_FILE}`);
+
+if (parsed.length < 10) {
+  console.error("Too few questions parsed — check file format.");
   process.exit(1);
 }
 
 await mkdir(OUT_DIR, { recursive: true });
+await removeOldQuizzes();
 
 const sets = chunk(parsed, CHUNK_SIZE);
 const catalog = {
-  source: "Final Exam-Question Bank (CLO3, CLO4) SC",
+  source: "SRE MCQs Bank",
+  sourceFile: SOURCE_FILE,
   totalQuestions: parsed.length,
   chunkSize: CHUNK_SIZE,
   quizzes: [],
@@ -137,7 +184,7 @@ const catalog = {
 
 for (let i = 0; i < sets.length; i++) {
   const setNum = String(i + 1).padStart(2, "0");
-  const id = `exam-bank-set-${setNum}`;
+  const id = `${QUIZ_ID_PREFIX}${setNum}`;
   const questions = sets[i].map((q, qi) => ({
     id: `${id}-q${String(qi + 1).padStart(3, "0")}`,
     text: q.text,
@@ -147,12 +194,12 @@ for (let i = 0; i < sets.length; i++) {
 
   const quiz = {
     id,
-    title: `Final Exam Bank — Quiz ${i + 1} (${questions.length} MCQs)`,
+    title: `SRE MCQs — Quiz ${i + 1} (${questions.length} questions)`,
     questions,
     createdAt: new Date().toISOString(),
     bundled: true,
     setIndex: i + 1,
-    sourceFile: "FInal Exam-Question Bank (CLO3, CLO4) SC.docx",
+    sourceFile: SOURCE_FILE,
   };
 
   await writeFile(

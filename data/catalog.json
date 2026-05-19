@@ -1,49 +1,44 @@
 {
-  "source": "Final Exam-Question Bank (CLO3, CLO4) SC",
-  "totalQuestions": 348,
+  "source": "SRE MCQs Bank",
+  "sourceFile": "SRE MCQs Bank (1).txt",
+  "totalQuestions": 300,
   "chunkSize": 50,
   "quizzes": [
     {
-      "id": "exam-bank-set-01",
-      "title": "Final Exam Bank — Quiz 1 (50 MCQs)",
+      "id": "sre-bank-set-01",
+      "title": "SRE MCQs — Quiz 1 (50 questions)",
       "questionCount": 50,
       "setIndex": 1
     },
     {
-      "id": "exam-bank-set-02",
-      "title": "Final Exam Bank — Quiz 2 (50 MCQs)",
+      "id": "sre-bank-set-02",
+      "title": "SRE MCQs — Quiz 2 (50 questions)",
       "questionCount": 50,
       "setIndex": 2
     },
     {
-      "id": "exam-bank-set-03",
-      "title": "Final Exam Bank — Quiz 3 (50 MCQs)",
+      "id": "sre-bank-set-03",
+      "title": "SRE MCQs — Quiz 3 (50 questions)",
       "questionCount": 50,
       "setIndex": 3
     },
     {
-      "id": "exam-bank-set-04",
-      "title": "Final Exam Bank — Quiz 4 (50 MCQs)",
+      "id": "sre-bank-set-04",
+      "title": "SRE MCQs — Quiz 4 (50 questions)",
       "questionCount": 50,
       "setIndex": 4
     },
     {
-      "id": "exam-bank-set-05",
-      "title": "Final Exam Bank — Quiz 5 (50 MCQs)",
+      "id": "sre-bank-set-05",
+      "title": "SRE MCQs — Quiz 5 (50 questions)",
       "questionCount": 50,
       "setIndex": 5
     },
     {
-      "id": "exam-bank-set-06",
-      "title": "Final Exam Bank — Quiz 6 (50 MCQs)",
+      "id": "sre-bank-set-06",
+      "title": "SRE MCQs — Quiz 6 (50 questions)",
       "questionCount": 50,
       "setIndex": 6
-    },
-    {
-      "id": "exam-bank-set-07",
-      "title": "Final Exam Bank — Quiz 7 (48 MCQs)",
-      "questionCount": 48,
-      "setIndex": 7
     }
   ]
 }

@@ -19,7 +19,13 @@ npm install
 npm run dev
 ```
 
-Then visit [http://localhost:3000](http://localhost:3000), drop in `public/sample-questions.txt`, and try the quiz.
+Then visit [http://localhost:3000](http://localhost:3000). The home page lists **6 ready-made SRE MCQ quizzes** (50 questions each, 300 total from `assets/SRE MCQs Bank (1).txt`). You can also upload your own file.
+
+To rebuild bundled quizzes after editing the bank file:
+
+```bash
+npm run build:quizzes
+```
 
 ## Project structure
 

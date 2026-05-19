@@ -77,7 +77,7 @@ export default function HomePage() {
           </h2>
           <ol className="mt-4 space-y-3 text-sm text-muted">
             {[
-              "Pick a ready-made quiz from the Final Exam Bank (348 MCQs, 7 sets).",
+              "Pick a ready-made SRE MCQs quiz from the question bank on this page.",
               "Or upload your own DOCX, PDF, or TXT — we parse answers automatically.",
               "Answer one question at a time; see the correct answer after each Next.",
               "Review your score and retake any set to improve.",

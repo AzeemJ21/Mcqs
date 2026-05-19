@@ -32,7 +32,7 @@ export async function getBundledCatalog(): Promise<BundledCatalog | null> {
 }
 
 export function isBundledQuizId(id: string): boolean {
-  return id.startsWith("exam-bank-set-");
+  return id.startsWith("sre-bank-set-");
 }
 
 export async function getBundledQuiz(id: string): Promise<Quiz | null> {

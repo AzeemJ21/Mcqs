@@ -1,0 +1,1360 @@
+{
+  "id": "sre-bank-set-04",
+  "title": "SRE MCQs — Quiz 4 (50 questions)",
+  "questions": [
+    {
+      "id": "sre-bank-set-04-q001",
+      "text": "How does \"Documentation\" support the maintenance process?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides a history of the system, making it easier for new developers to understand and modify it"
+        },
+        {
+          "id": "B",
+          "text": "It makes the software file size larger, which is a sign of high quality"
+        },
+        {
+          "id": "C",
+          "text": "It replaces the source code so that the computer doesn't have to run any logic"
+        },
+        {
+          "id": "D",
+          "text": "It is used to advertise the software to potential customers in magazines"
+        },
+        {
+          "id": "E",
+          "text": "It is a secret code that only the original author of the software can read"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q002",
+      "text": "Explain the role of \"Rollback\" in a re-engineering environment.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a way for developers to roll their chairs back from their desks to take a break"
+        },
+        {
+          "id": "B",
+          "text": "It allows the system to be restored to a previous working version if a new change fails"
+        },
+        {
+          "id": "C",
+          "text": "It is a function that makes the screen text roll from the bottom to the top"
+        },
+        {
+          "id": "D",
+          "text": "It is a process where the software is sold back to the company that originally made it"
+        },
+        {
+          "id": "E",
+          "text": "It automatically deletes the last ten lines of code that were written by a developer"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q003",
+      "text": "Interpret \"Controlled Evolution\" as a characteristic of a closed-source staged model.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The software evolves randomly based on whatever the developers feel like doing that day"
+        },
+        {
+          "id": "B",
+          "text": "Changes and releases are planned and managed by the organization in a predictable way"
+        },
+        {
+          "id": "C",
+          "text": "The software is only allowed to evolve during the summer months"
+        },
+        {
+          "id": "D",
+          "text": "The evolution of the software is controlled by a government agency"
+        },
+        {
+          "id": "E",
+          "text": "The software stops evolving once it is installed on a user's computer"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q004",
+      "text": "Describe the benefit of \"Modular\" design in an e-commerce \"Payment Component.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows the website to accept payments in multiple currencies at the same time"
+        },
+        {
+          "id": "B",
+          "text": "It means the payment logic is separate, so if it needs a security update, the rest of the site stays up"
+        },
+        {
+          "id": "C",
+          "text": "It ensures that the payment component is the only part of the website that uses a database"
+        },
+        {
+          "id": "D",
+          "text": "It makes the payment process take longer to ensure that the user has time to think"
+        },
+        {
+          "id": "E",
+          "text": "It forces the user to download a new module every time they buy something"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q005",
+      "text": "Contrast \"Adaptive\" maintenance with \"Corrective\" maintenance in a real-world scenario.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Corrective is fixing a crash, while Adaptive is making the software work on a new version of Android"
+        },
+        {
+          "id": "B",
+          "text": "Adaptive is fixing a bug, while Corrective is adding a new feature that the user requested"
+        },
+        {
+          "id": "C",
+          "text": "Corrective is only done on Mondays, while Adaptive is done on any day of the week"
+        },
+        {
+          "id": "D",
+          "text": "Both terms describe the same process of making the software run faster"
+        },
+        {
+          "id": "E",
+          "text": "Adaptive maintenance is for users, while Corrective maintenance is for developers"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q006",
+      "text": "Explain why \"Loose Coupling\" is desirable in cloud-based re-engineering.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows the system to use a very loose and flexible cloud that doesn't have any rules"
+        },
+        {
+          "id": "B",
+          "text": "It makes it easier to scale or replace individual services without breaking the entire cloud platform"
+        },
+        {
+          "id": "C",
+          "text": "It ensures that the cloud servers are not physically connected to each other"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the cloud from ever being full of too much data"
+        },
+        {
+          "id": "E",
+          "text": "It is a requirement of the cloud provider to make the software more expensive"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q007",
+      "text": "Summarize the impact of \"Incomplete Documentation\" on a re-engineering project.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the project go faster because developers don't have to spend time reading"
+        },
+        {
+          "id": "B",
+          "text": "It leads to misinterpretation of system logic and increases the risk of introducing errors"
+        },
+        {
+          "id": "C",
+          "text": "It is a sign that the original developers were very smart and didn't need notes"
+        },
+        {
+          "id": "D",
+          "text": "It reduces the cost of the project because there are fewer pages to print"
+        },
+        {
+          "id": "E",
+          "text": "It has no impact because modern compilers can read the developer's mind"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q008",
+      "text": "Infer the purpose of \"Bug Fixes\" and \"Security Patches\" during the \"Servicing Stage.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "To add exciting new features that will attract millions of new users"
+        },
+        {
+          "id": "B",
+          "text": "To maintain the reliability and safety of the existing system as it ages"
+        },
+        {
+          "id": "C",
+          "text": "To make the software harder to use so that people will buy the new version"
+        },
+        {
+          "id": "D",
+          "text": "To change the color of the icons on the user's screen"
+        },
+        {
+          "id": "E",
+          "text": "To delete the user's personal information to save database space"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q009",
+      "text": "How does \"Encapsulation\" relate to \"Modularity\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are the same thing; both mean the system is divided into parts"
+        },
+        {
+          "id": "B",
+          "text": "Encapsulation helps create modularity by keeping a module's internal data private and protected"
+        },
+        {
+          "id": "C",
+          "text": "Modularity is for software, while encapsulation is only for hardware components"
+        },
+        {
+          "id": "D",
+          "text": "Encapsulation makes modularity impossible because it hides all the code"
+        },
+        {
+          "id": "E",
+          "text": "Modularity is a type of encapsulation that is used only in database design"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q010",
+      "text": "Explain the importance of \"Traceability\" when a bug is found in a re-engineered system.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows the developer to trace the path of the bug through the physical wiring of the computer"
+        },
+        {
+          "id": "B",
+          "text": "It helps identify which specific change or requirement led to the bug's introduction"
+        },
+        {
+          "id": "C",
+          "text": "It ensures that the bug is traced onto a piece of paper for the manager to see"
+        },
+        {
+          "id": "D",
+          "text": "It is a way of tracing the user's IP address so they can be thanked for finding the bug"
+        },
+        {
+          "id": "E",
+          "text": "It prevents the bug from ever being fixed by locking the source code"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q011",
+      "text": "Interpret the \"Phase-Out\" stage in terms of \"Migration Planning.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "This is when the company plans how to migrate the old system's data and users to a new platform"
+        },
+        {
+          "id": "B",
+          "text": "This is when the company plans how to move its offices to a new city"
+        },
+        {
+          "id": "C",
+          "text": "This is when the company plans how to migrate its employees to a different department"
+        },
+        {
+          "id": "D",
+          "text": "This is when the company plans how to move its servers to a colder room"
+        },
+        {
+          "id": "E",
+          "text": "This is when the software plans how to migrate itself to the user's trash bin"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q012",
+      "text": "Describe why \"Controlled Change Management\" is a benefit of SCM.",
+      "options": [
+        {
+          "id": "A",
+          "text": "it ensures that the developers are always under the control of the project manager"
+        },
+        {
+          "id": "B",
+          "text": "It ensures that every change is reviewed, documented, and approved to maintain system quality"
+        },
+        {
+          "id": "C",
+          "text": "It makes sure that the software only changes when the moon is full"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the software from ever changing, even if there is a critical bug"
+        },
+        {
+          "id": "E",
+          "text": "It is a way of managing the loose change that is left over in the project budget"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q013",
+      "text": "Contrast \"Component\" with \"Object\" in software design.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A component is a larger, deployable unit of functionality, while an object is a basic building block in code"
+        },
+        {
+          "id": "B",
+          "text": "An object is a physical item like a mouse, while a component is a software program"
+        },
+        {
+          "id": "C",
+          "text": "A component is only used in web design, while an object is only used in mobile apps"
+        },
+        {
+          "id": "D",
+          "text": "There is no difference; \"component\" is just a more modern word for \"object\""
+        },
+        {
+          "id": "E",
+          "text": "An object is a component that has been retired and is no longer working"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q014",
+      "text": "Explain the role of \"Version Control\" in \"Risk Reduction.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It counts the number of risks in the project and displays them on a chart"
+        },
+        {
+          "id": "B",
+          "text": "It allows the team to recover previous versions of the code if a new version is catastrophic"
+        },
+        {
+          "id": "C",
+          "text": "It prevents the software from being installed on computers that are at risk of failing"
+        },
+        {
+          "id": "D",
+          "text": "It requires the developers to wear safety helmets while they are writing code"
+        },
+        {
+          "id": "E",
+          "text": "It automatically deletes any code that is considered to be \"risky\" by the compiler"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q015",
+      "text": "Summarize the \"Modularity\" property using a \"LEGO blocks\" analogy.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A system is like a single LEGO block that cannot be changed or added to"
+        },
+        {
+          "id": "B",
+          "text": "A system is built from independent LEGO blocks that can be easily rearranged or replaced"
+        },
+        {
+          "id": "C",
+          "text": "A system is like a LEGO set that is missing half of the pieces"
+        },
+        {
+          "id": "D",
+          "text": "A system is only modular if it is made of real LEGO blocks, not software"
+        },
+        {
+          "id": "E",
+          "text": "Modularity means that the software can only be used by children who play with LEGOs"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q016",
+      "text": "Infer why \"Major structural changes are avoided\" during the \"Servicing Stage.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the developers are too tired to make any more big changes"
+        },
+        {
+          "id": "B",
+          "text": "To maintain the stability of the system and avoid introducing massive new risks to current users"
+        },
+        {
+          "id": "C",
+          "text": "Because the software has reached its maximum size and cannot hold any more code"
+        },
+        {
+          "id": "D",
+          "text": "Because the international standards for servicing state that structural changes are illegal"
+        },
+        {
+          "id": "E",
+          "text": "To save money on electricity by not running the compiler for long periods"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q017",
+      "text": "How does \"Loose Coupling\" improve the \"Scalability\" of a system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows the system to scale by adding more people to the development team"
+        },
+        {
+          "id": "B",
+          "text": "It allows individual modules to be scaled independently across different servers as needed"
+        },
+        {
+          "id": "C",
+          "text": "It ensures that the software can only be used on very large computer screens"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the system from scaling too much and becoming too expensive"
+        },
+        {
+          "id": "E",
+          "text": "It is a technique used to make the font size of the software larger"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q018",
+      "text": "Explain the concept of a \"Configuration Item\" (CI) in SCM.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Any part of the project (code, doc, test) that is placed under version control"
+        },
+        {
+          "id": "B",
+          "text": "A specific item in the developer's office, such as a desk or a lamp"
+        },
+        {
+          "id": "C",
+          "text": "The list of people who are allowed to configure the software's settings"
+        },
+        {
+          "id": "D",
+          "text": "The amount of money that is spent on configuring the servers"
+        },
+        {
+          "id": "E",
+          "text": "A line of code that is used to configure the color of the user interface"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q019",
+      "text": "Interpret the importance of \"User-driven feature updates\" for software \"Evolution.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that the software stays useful and competitive by solving real problems for its users"
+        },
+        {
+          "id": "B",
+          "text": "It makes the users feel like they are part of the development team so they don't complain"
+        },
+        {
+          "id": "C",
+          "text": "It is a way for the company to trick users into doing the work for them"
+        },
+        {
+          "id": "D",
+          "text": "It is a requirement of the software license to include at least one update from a user"
+        },
+        {
+          "id": "E",
+          "text": "It ensures that the software becomes more difficult to use over time"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q020",
+      "text": "Describe why \"System Migration\" is often part of the \"Phase-Out\" stage.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the software wants to migrate to a warmer climate before it retires"
+        },
+        {
+          "id": "B",
+          "text": "Because it is the final step in moving users to a newer technology before the old system is retired"
+        },
+        {
+          "id": "C",
+          "text": "Because the phase-out stage is the only time the software is allowed to move to a new server"
+        },
+        {
+          "id": "D",
+          "text": "Because the migration is a way of rewarding the software for many years of hard work"
+        },
+        {
+          "id": "E",
+          "text": "Because the software is forced to migrate by the government during the phase-out stage"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q021",
+      "text": "Contrast \"Baseline\" with \"Draft\" in documentation.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A baseline is a finalized and approved version, while a draft is a work in progress"
+        },
+        {
+          "id": "B",
+          "text": "A baseline is for code, while a draft is only for email messages"
+        },
+        {
+          "id": "C",
+          "text": "A draft is always better and more accurate than a baseline"
+        },
+        {
+          "id": "D",
+          "text": "There is no difference; they are just different words for a Word document"
+        },
+        {
+          "id": "E",
+          "text": "A baseline is a draft that has been translated into a different language"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q022",
+      "text": "Explain how \"Encapsulation\" promotes \"Information Hiding\" in a payment module.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It hides the user's credit card number from the database so it cannot be stolen"
+        },
+        {
+          "id": "B",
+          "text": "It hides the complex math used to calculate taxes, showing only the \"ProcessPayment\" function"
+        },
+        {
+          "id": "C",
+          "text": "It prevents the developer from knowing how the payment module works"
+        },
+        {
+          "id": "D",
+          "text": "It requires the payment module to be kept in a safe at the company's headquarters"
+        },
+        {
+          "id": "E",
+          "text": "It makes the payment module invisible to everyone except the bank"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q023",
+      "text": "Summarize the benefit of \"Modular\" architecture for \"Third-Party Integration.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes it harder for third parties to integrate because the system is in too many pieces"
+        },
+        {
+          "id": "B",
+          "text": "It allows third-party components to be plugged into the system via standard interfaces easily"
+        },
+        {
+          "id": "C",
+          "text": "It requires the third party to rewrite their entire software to match the system's architecture"
+        },
+        {
+          "id": "D",
+          "text": "It ensures that only one third-party component can be used at a time"
+        },
+        {
+          "id": "E",
+          "text": "It is a way of hiding the system's architecture from the third-party company"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q024",
+      "text": "Infer the reason for \"Reduced Innovation\" in the \"Servicing Stage.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The company has run out of money to pay for new ideas"
+        },
+        {
+          "id": "B",
+          "text": "The product is mature and the focus is on maintaining reliability for the current user base"
+        },
+        {
+          "id": "C",
+          "text": "Innovation is no longer possible because all the good ideas have already been used"
+        },
+        {
+          "id": "D",
+          "text": "The servicing stage is the time when the creative team is on vacation"
+        },
+        {
+          "id": "E",
+          "text": "The software has become so smart that it can innovate for itself without humans"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q025",
+      "text": "How does \"SCM\" help in \"Rollback\" during a failed deployment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It rolls the server back to the physical location where it was originally built"
+        },
+        {
+          "id": "B",
+          "text": "It allows the team to quickly redeploy the last known stable version from the repository"
+        },
+        {
+          "id": "C",
+          "text": "It sends an apology letter to all the users who were affected by the failure"
+        },
+        {
+          "id": "D",
+          "text": "It automatically fixes the error that caused the deployment to fail"
+        },
+        {
+          "id": "E",
+          "text": "It shuts down the server so that no more errors can occur"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q026",
+      "text": "Explain the concept of \"Adaptive Maintenance\" in the context of a \"Windows Update.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fixing a bug that was caused by the Windows update"
+        },
+        {
+          "id": "B",
+          "text": "Modifying the software so it continues to function correctly on the new version of Windows"
+        },
+        {
+          "id": "C",
+          "text": "Deleting the software because the Windows update made it obsolete"
+        },
+        {
+          "id": "D",
+          "text": "Adding a new feature that uses the latest technology in the Windows update"
+        },
+        {
+          "id": "E",
+          "text": "Paying Microsoft a fee to allow the software to run on the new version of Windows"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q027",
+      "text": "Interpret the \"Component-Based\" property of \"Interoperability.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ability of the software to run on different types of paper"
+        },
+        {
+          "id": "B",
+          "text": "The ability of a component to function correctly with other components via agreed standards"
+        },
+        {
+          "id": "C",
+          "text": "The requirement that all components must be written by the same person"
+        },
+        {
+          "id": "D",
+          "text": "The process of making a component stop working when it is moved to a new system"
+        },
+        {
+          "id": "E",
+          "text": "The ability of the software to communicate with the user via telepathy"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q028",
+      "text": "Describe the role of \"Configuration Control\" in maintaining \"Traceability.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It records who changed what and why, creating a clear history that can be traced back"
+        },
+        {
+          "id": "B",
+          "text": "It controls the configuration of the developer's keyboard to ensure they are typing correctly"
+        },
+        {
+          "id": "C",
+          "text": "It makes sure that the software's configuration is always the same for every user"
+        },
+        {
+          "id": "D",
+          "text": "It is a way of tracing the developer's footsteps in the office using security cameras"
+        },
+        {
+          "id": "E",
+          "text": "It prevents the configuration from ever being changed by anyone at any time"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q029",
+      "text": "Contrast \"Initial Development\" with \"Evolution\" in terms of \"Activity Levels.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Initial development is very quiet, while evolution is very busy and active"
+        },
+        {
+          "id": "B",
+          "text": "Both are high-activity stages, but initial development is about creation while evolution is about growth"
+        },
+        {
+          "id": "C",
+          "text": "Initial development is done by one person, while evolution is done by a huge team"
+        },
+        {
+          "id": "D",
+          "text": "Activity levels are only measured during the initial development stage"
+        },
+        {
+          "id": "E",
+          "text": "Evolution has no activity because the software is growing on its own"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q030",
+      "text": "Explain the purpose of \"IEEE 1219\" in \"Structured Maintenance.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "To provide a step-by-step process for analyzing, implementing, and reviewing changes"
+        },
+        {
+          "id": "B",
+          "text": "To define the legal age at which a software developer is allowed to retire"
+        },
+        {
+          "id": "C",
+          "text": "To make sure that the software is compatible with all IEEE-certified hardware"
+        },
+        {
+          "id": "D",
+          "text": "To prevent the software from ever being modified by anyone who is not an engineer"
+        },
+        {
+          "id": "E",
+          "text": "To provide a list of the 1,219 most common bugs in software history"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q031",
+      "text": "Summarize the \"Servicing Stage\" of the software lifecycle in one sentence.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The stage where the software is first built and sold to the public"
+        },
+        {
+          "id": "B",
+          "text": "The stage where the software is stable and receives only bug fixes and security patches"
+        },
+        {
+          "id": "C",
+          "text": "The stage where the software is retired and replaced by a completely new system"
+        },
+        {
+          "id": "D",
+          "text": "The stage where the software grows rapidly and adds many new and exciting features"
+        },
+        {
+          "id": "E",
+          "text": "The stage where the software is translated into every language in the world"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q032",
+      "text": "Infer the risk of \"Poor Code Quality\" in a legacy system during re-engineering.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the re-engineering process much faster because the code is so simple"
+        },
+        {
+          "id": "B",
+          "text": "It increases the likelihood of errors and makes it difficult for developers to understand the logic"
+        },
+        {
+          "id": "C",
+          "text": "it ensures that the software will be more secure because hackers can't understand the code"
+        },
+        {
+          "id": "D",
+          "text": "It reduces the cost of the project because poor quality code is cheaper to buy"
+        },
+        {
+          "id": "E",
+          "text": "It has no effect because the re-engineering process will automatically fix all the code"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q033",
+      "text": "How does \"SCM\" support \"Audit and Compliance\" for a government software project?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By providing a full, unchangeable history of every modification for legal review"
+        },
+        {
+          "id": "B",
+          "text": "By ensuring that the software is only used by people who work for the government"
+        },
+        {
+          "id": "C",
+          "text": "By sending a copy of the source code to the government every day"
+        },
+        {
+          "id": "D",
+          "text": "By making sure the software is written in the official language of the country"
+        },
+        {
+          "id": "E",
+          "text": "By automatically paying the company's taxes through the version control system"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q034",
+      "text": "Explain the benefit of \"Modular\" design for \"Software Reuse.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows the entire system to be reused as a single, giant block"
+        },
+        {
+          "id": "B",
+          "text": "It allows individual, tested components to be taken and used in entirely different projects"
+        },
+        {
+          "id": "C",
+          "text": "It ensures that the software can only be reused by the person who originally wrote it"
+        },
+        {
+          "id": "D",
+          "text": "It makes reuse impossible because the components are too small to be useful"
+        },
+        {
+          "id": "E",
+          "text": "It is a technique used to make the software look new every time it is used"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q035",
+      "text": "Interpret the \"Phase-Out\" stage in terms of \"Limited Support.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The company provides support for only a limited number of people"
+        },
+        {
+          "id": "B",
+          "text": "The company only fixes critical issues and stops adding features as the system is retired"
+        },
+        {
+          "id": "C",
+          "text": "The company provides support only during the limited hours of 9 AM to 10 AM"
+        },
+        {
+          "id": "D",
+          "text": "The support is provided by a limited number of robots"
+        },
+        {
+          "id": "E",
+          "text": "The support is limited to people who can prove they have used the software for ten years"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q036",
+      "text": "Describe the role of \"Impact Analysis\" in \"Risk Management.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps the team understand the potential negative effects of a change before it is made"
+        },
+        {
+          "id": "B",
+          "text": "It measures the physical impact of a server falling over in the data center"
+        },
+        {
+          "id": "C",
+          "text": "It is a way of managing the team's emotions after a major project failure"
+        },
+        {
+          "id": "D",
+          "text": "It calculates the financial impact of the software on the global economy"
+        },
+        {
+          "id": "E",
+          "text": "It is a technique used to force the software to crash so that it can be fixed"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q037",
+      "text": "Contrast \"Git\" with \"Azure DevOps\" as mentioned in SCM tools.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Git is a version control system, while Azure DevOps is a full platform that includes Git and other tools"
+        },
+        {
+          "id": "B",
+          "text": "Git is for hardware, while Azure DevOps is only for software"
+        },
+        {
+          "id": "C",
+          "text": "Azure DevOps is free, while Git is very expensive for a company to use"
+        },
+        {
+          "id": "D",
+          "text": "Git is only for Linux, while Azure DevOps is only for Windows"
+        },
+        {
+          "id": "E",
+          "text": "There is no difference; they are just two different names for the same program"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q038",
+      "text": "Explain how \"Standardization\" reduces \"Development Costs.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows the company to buy standard, cheap computers for all its developers"
+        },
+        {
+          "id": "B",
+          "text": "It reduces the time spent on design by using proven, common components and interfaces"
+        },
+        {
+          "id": "C",
+          "text": "It forces the developers to work for a standard, low salary"
+        },
+        {
+          "id": "D",
+          "text": "It makes the software so standard that it doesn't need to be tested"
+        },
+        {
+          "id": "E",
+          "text": "It ensures that the software is sold at a standard, low price to all customers"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q039",
+      "text": "Summarize the \"Evolution\" stage using a \"Tree Growth\" analogy.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The software is like a tree that is planted and then never grows any bigger"
+        },
+        {
+          "id": "B",
+          "text": "The software is like a tree that grows new branches (features) and becomes stronger over time"
+        },
+        {
+          "id": "C",
+          "text": "The software is like a tree that is cut down as soon as it starts to grow"
+        },
+        {
+          "id": "D",
+          "text": "The software is like a tree that is made of plastic and never changes"
+        },
+        {
+          "id": "E",
+          "text": "The software is like a tree that only grows in the evolution stage of the forest"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q040",
+      "text": "Infer why \"Regression Testing\" is mandatory after a \"Code Restructuring.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make sure that the code restructuring didn't break any existing functionality"
+        },
+        {
+          "id": "B",
+          "text": "To make the code run in a regressive way, which is faster than progressive"
+        },
+        {
+          "id": "C",
+          "text": "To test the software on older computers that are in a state of regression"
+        },
+        {
+          "id": "D",
+          "text": "To ensure that the developers have not regressed to a lower level of skill"
+        },
+        {
+          "id": "E",
+          "text": "To delete any code that was written during a period of regression"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q041",
+      "text": "How does \"Encapsulation\" help a \"Payment Component\" handle \"Communication Protocols\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that the component can only communicate using one specific protocol"
+        },
+        {
+          "id": "B",
+          "text": "It hides the protocol details inside the component, exposing only a simple interface to the rest of the site"
+        },
+        {
+          "id": "C",
+          "text": "It requires the protocol to be encrypted in a capsule before it can be sent"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the component from communicating with anything outside of its capsule"
+        },
+        {
+          "id": "E",
+          "text": "It is a way of making the communication protocol run faster by wrapping it in code"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q042",
+      "text": "Explain the concept of \"System Retirement\" in the \"Phase-Out Stage.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giving the software a gold watch and a party for its many years of service"
+        },
+        {
+          "id": "B",
+          "text": "The formal process of ending the software's life and ensuring its data is safely handled"
+        },
+        {
+          "id": "C",
+          "text": "Deleting the software from every computer in the world at the same time"
+        },
+        {
+          "id": "D",
+          "text": "Selling the software to a retirement home for use by senior citizens"
+        },
+        {
+          "id": "E",
+          "text": "Forcing the software to work for free after it has reached the age of retirement"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q043",
+      "text": "Interpret \"Organization-driven changes\" as a characteristic of \"Closed Source\" software.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The changes are made by a random organization that found the code on the internet"
+        },
+        {
+          "id": "B",
+          "text": "The changes are planned and implemented by the company that owns and controls the software"
+        },
+        {
+          "id": "C",
+          "text": "The changes are only allowed to happen if they are organized into a list"
+        },
+        {
+          "id": "D",
+          "text": "The software is only changed when the organization moves to a new building"
+        },
+        {
+          "id": "E",
+          "text": "The changes are driven by the organization's desire to stop making software"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q044",
+      "text": "Describe the \"Servicing Stage\" in terms of \"Resource Investment.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "This is the stage where the company invests the most money and people"
+        },
+        {
+          "id": "B",
+          "text": "Resource investment is lower, focusing on maintenance rather than new development"
+        },
+        {
+          "id": "C",
+          "text": "The company stops investing any resources at all during the servicing stage"
+        },
+        {
+          "id": "D",
+          "text": "All investment is moved from the engineering team to the sales team"
+        },
+        {
+          "id": "E",
+          "text": "The company spends its entire budget on buying new servers during this stage"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q045",
+      "text": "Contrast \"Baseline\" with \"Version\" in SCM.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A baseline is a specific, stable version used as a reference, while a version is any iteration of a file"
+        },
+        {
+          "id": "B",
+          "text": "A version is for the whole system, while a baseline is only for a single line of code"
+        },
+        {
+          "id": "C",
+          "text": "There is no difference; they are just two different words for the same thing"
+        },
+        {
+          "id": "D",
+          "text": "A version is a baseline that has been rejected by the quality assurance team"
+        },
+        {
+          "id": "E",
+          "text": "A baseline is a version that is written in a different programming language"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q046",
+      "text": "Explain why \"Interoperability\" is crucial for \"Component-Based\" systems.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that every component can be used on every computer in the world"
+        },
+        {
+          "id": "B",
+          "text": "It allows components from different sources to work together through shared interfaces"
+        },
+        {
+          "id": "C",
+          "text": "It makes the components so complex that they can only be used by experts"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the components from ever being separated from each other"
+        },
+        {
+          "id": "E",
+          "text": "It is a way of making the components look like they are working when they are not"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q047",
+      "text": "Summarize the benefit of \"SCM\" for \"Risk Management.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that the software is never used for risky projects like space travel"
+        },
+        {
+          "id": "B",
+          "text": "It provides a safety net by tracking all changes and allowing for quick recovery from errors"
+        },
+        {
+          "id": "C",
+          "text": "It makes the software so safe that it doesn't need a firewall or anti-virus"
+        },
+        {
+          "id": "D",
+          "text": "It requires the developers to take a risk management class every week"
+        },
+        {
+          "id": "E",
+          "text": "It automatically deletes any code that might be a risk to the project's schedule"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-04-q048",
+      "text": "Infer the role of \"Problem and Modification Analysis\" in \"System Integrity.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that every change is carefully thought out so that the system doesn't become a mess"
+        },
+        {
+          "id": "B",
+          "text": "It identifies the person who caused a problem so they can be removed from the project"
+        },
+        {
+          "id": "C",
+          "text": "It makes the system look more honest by documenting all of its problems"
+        },
+        {
+          "id": "D",
+          "text": "It is a way of analyzing the system until it stops working entirely"
+        },
+        {
+          "id": "E",
+          "text": "It is a technique used to hide the system's problems from the user"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q049",
+      "text": "How does \"Modularity\" support \"Parallel Development\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows multiple developers to work on different, independent modules at the same time"
+        },
+        {
+          "id": "B",
+          "text": "It forces all developers to work on the exact same line of code simultaneously"
+        },
+        {
+          "id": "C",
+          "text": "It ensures that the developers are working in parallel lines in the office"
+        },
+        {
+          "id": "D",
+          "text": "It makes development slower because developers have to wait for each other's modules"
+        },
+        {
+          "id": "E",
+          "text": "It is a technique used to make the software run in parallel on two different CPUs"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-04-q050",
+      "text": "Explain why \"Phase-Out\" is a necessary part of the \"Software Lifecycle.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the developers get bored with the software and want to move on"
+        },
+        {
+          "id": "B",
+          "text": "Because technology and business needs change, making old systems obsolete and too expensive to keep"
+        },
+        {
+          "id": "C",
+          "text": "Because it is a legal requirement to delete software after it has been used for ten years"
+        },
+        {
+          "id": "D",
+          "text": "To make sure that the company can sell a new version of the software every year"
+        },
+        {
+          "id": "E",
+          "text": "To prevent the software from becoming too smart and taking over the computer"
+        }
+      ],
+      "correctOptionId": "B"
+    }
+  ],
+  "createdAt": "2026-05-19T18:09:02.150Z",
+  "bundled": true,
+  "setIndex": 4,
+  "sourceFile": "SRE MCQs Bank (1).txt"
+}

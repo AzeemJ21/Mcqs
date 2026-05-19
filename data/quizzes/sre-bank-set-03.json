@@ -1,0 +1,1360 @@
+{
+  "id": "sre-bank-set-03",
+  "title": "SRE MCQs — Quiz 3 (50 questions)",
+  "questions": [
+    {
+      "id": "sre-bank-set-03-q001",
+      "text": "What is software reengineering? A. Developing software from scratch B. Improving and modifying existing software C. Manufacturing hardware devices D. Designing only user interfaces E. Creating network cables ANSWER: B What is the main objective of software reengineering? A. Increase maintenance cost B. Improve software quality and maintainability C. Eliminate users D. Replace all hardware E. Reduce documentation ANSWER: B A legacy system is: A. A brand-new application B. A temporary prototype C. An outdated but still useful system D. A cloud-native application E. A hardware device ANSWER: C Reverse engineering is used to: A. Destroy software B. Recover design information from software C. Create viruses D. Replace databases E. Format storage devices ANSWER: B Forward engineering means: A. Recovering requirements from code B. Developing software from specifications C. Deleting software modules D. Compressing source files E. Replacing operating systems ANSWER: B Which maintenance type fixes bugs? A. Adaptive maintenance B. Perfective maintenance C. Corrective maintenance D. Preventive maintenance E. Evolutionary maintenance ANSWER: C Adaptive maintenance is performed to: A. Correct defects B. Improve performance only C. Adapt software to a changed environment D. Remove users E. Replace source code completely ANSWER: C Perfective maintenance focuses on: A. Enhancing software performance and features B. Removing all modules C. Replacing programmers D. Encrypting files E. Installing hardware ANSWER: A Preventive maintenance aims to: A. Prevent future problems B. Create new bugs C. Delete old records D. Increase complexity E. Remove documentation ANSWER: A Which factor contributes to software aging? A. Controlled modifications B. Frequent unmanaged changes C. Clear documentation D. Modular design E. Refactoring ANSWER: B Legacy systems are difficult to replace because: A. They are always cheap B. They contain valuable business logic C. They are unused D. They need no maintenance E. They are open source ANSWER: B Which language is commonly associated with legacy systems? A. Kotlin B. Rust C. COBOL D. Swift E. Dart ANSWER: C Program comprehension means: A. Understanding software behavior and structure B. Designing hardware C. Creating viruses D. Encrypting databases E. Formatting disks ANSWER: A Which activity helps understand legacy systems? A. Reverse engineering B. Hardware testing C. Cable installation D. Manufacturing E. Database deletion ANSWER: A Which of the following is a challenge in software evolution? A. Poor documentation B. Complex dependencies C. Obsolete technologies D. Lack of expertise E. All of the above ANSWER: E Static analysis examines software: A. During execution B. Without execution C. After deletion D. Through hardware testing E. During manufacturing ANSWER: B Dynamic analysis requires: A. No execution B. Program execution C. Hardware replacement D. Disk formatting E. Database removal ANSWER: B Code restructuring improves: A. Maintainability B. Readability C. Internal quality D. Structure E. All of the above ANSWER: E Refactoring is: A. Rewriting software completely B. Improving code structure without changing behavior C. Deleting all modules D. Replacing hardware E. Encrypting applications ANSWER: B Which of the following is a code smell? A. Duplicate code B. Proper documentation C. High cohesion D. Encapsulation E. Abstraction ANSWER: A Spaghetti code refers to: A. Structured programming B. Tangled and poorly organized code C. Modular design D. Database normalization E. Hardware optimization ANSWER: B High cohesion is generally: A. Undesirable B. Preferred C. Impossible D. Expensive only E. Hardware-dependent ANSWER: B Low coupling between modules is: A. Preferred B. Avoided C. Irrelevant D. Dangerous E. Mandatory to avoid ANSWER: A Which metric measures code complexity? A. Halstead metric B. Cyclomatic complexity C. Fan-in metric D. Fan-out metric E. LOC only ANSWER: B Cyclomatic complexity is related to: A. Number of classes B. Number of independent paths C. Number of users D. Number of processors E. Database tables ANSWER: B Dead code is: A. Executed frequently B. Never executed C. Hardware-dependent D. Automatically optimized E. Encrypted code ANSWER: B Data restructuring focuses on: A. Improving data organization B. Removing all records C. Increasing redundancy D. Deleting databases E. Hardware replacement ANSWER: A Database normalization helps reduce: A. Redundancy B. Security C. Performance D. Modularity E. Scalability ANSWER: A Which normal form removes partial dependency? A. 1NF B. 2NF C. 3NF D. BCNF E. 5NF ANSWER: B Which normal form removes transitive dependency? A. 1NF B. 2NF C. 3NF D. 4NF E. 5NF ANSWER: C Re-documentation involves: A. Updating software documentation B. Removing manuals C. Hardware maintenance D. Replacing operating systems E. Deleting comments ANSWER: A CASE tools are used for: A. Software development support B. Hardware assembly C. Network installation D. Manufacturing processes E. Data deletion ANSWER: A Regression testing is important after: A. Refactoring B. Reengineering C. Maintenance D. Bug fixing E. All of the above ANSWER: E Which maintenance type adds new features? A. Corrective B. Adaptive C. Perfective D. Preventive E. Emergency ANSWER: C Software evolution refers to: A. Gradual software modification over time B. Hardware manufacturing C. Replacing programmers D. Deleting applications E. Data encryption ANSWER: A Design recovery extracts: A. Source code only B. High-level abstractions from code C. Hardware architecture D. Disk partitions E. IP addresses ANSWER: B Which factor increases maintenance difficulty? A. Modular design B. Poor documentation C. High cohesion D. Reusability E. Encapsulation ANSWER: B Software reengineering is cheaper than: A. Refactoring B. Total redevelopment in many cases C. Testing D. Maintenance E. Documentation ANSWER: B Which activity improves software readability? A. Refactoring B. Obfuscation C. Compression D. Encryption E. Formatting disks ANSWER: A Encapsulation is a principle of: A. Object-oriented programming B. Networking C. Hardware engineering D. Database normalization E. Manufacturing ANSWER: A Inheritance promotes: A. Code reuse B. Data loss C. Hardware optimization D. Network latency E. Database redundancy ANSWER: A Polymorphism allows: A. Multiple forms of methods B. Multiple processors only C. Hardware virtualization D. Disk formatting E. Database partitioning ANSWER: A LOC stands for: A. Level of coding B. Lines of code C. Logic of computation D. List of classes E. Length of compiler ANSWER: B Which maintenance activity modifies software for new OS support? A. Corrective B. Adaptive C. Perfective D. Preventive E. Emergency ANSWER: B Which technique divides a program into smaller modules? A. Modularization B. Compression C. Encryption D. Replication E. Virtualization ANSWER: A A highly coupled system is usually: A. Easier to maintain B. Harder to maintain C. More secure only D. Less complex E. Hardware-independent ANSWER: B Software architecture describes: A. High-level system structure B. Only database tables C. Hardware circuits D. Network cables E. Printer settings ANSWER: A Reusability helps: A. Reduce development effort B. Increase redundancy C. Eliminate testing D. Remove documentation E. Increase maintenance cost ANSWER: A Unit testing focuses on: A. Entire system B. Individual components C. Hardware only D. Databases only E. Networks only ANSWER: B SRS stands for: A. Software Requirement Specification B. System Resource Setup C. Source Recovery Standard D. Software Recovery Scheme E. Structured Requirement Setup ANSWER: A Which UML diagram shows class relationships? A. Use case diagram B. Sequence diagram C. Class diagram D. Activity diagram E. State diagram ANSWER: C Which process transforms code into higher abstraction? A. Reverse engineering B. Forward engineering C. Compilation D. Execution E. Compression ANSWER: A Reliability refers to: A. Consistent correct operation B. Hardware manufacturing C. Database normalization D. Disk compression E. Modularization ANSWER: A Which metric measures module interdependence? A. Coupling B. Cohesion C. LOC D. Complexity only E. Productivity ANSWER: A Which metric measures internal module strength? A. Cohesion B. Coupling C. LOC D. Fan-out E. Fan-in ANSWER: A Which testing verifies user requirements? A. Unit testing B. Integration testing C. Acceptance testing D. Regression testing E. Smoke testing ANSWER: C Git is an example of: A. Version control system B. Database C. Operating system D. Compiler E. Text editor ANSWER: A DRY stands for: A. Don't Repeat Yourself B. Dynamic Runtime Yield C. Data Recovery Yield D. Distributed Resource Yard E. Direct Routing Yard ANSWER: A Technical debt refers to: A. Future cost caused by poor design choices B. Financial loan for software C. Hardware maintenance cost D. Database licensing E. Cloud subscription fees ANSWER: A Which software quality factor relates to user friendliness? A. Usability B. Reliability C. Maintainability D. Portability E. Scalability ANSWER: A Which process identifies software dependencies? A. Impact analysis B. Formatting C. Compression D. Encryption E. Replication ANSWER: A Which principle reduces duplicate code? A. DRY principle B. FIFO principle C. LIFO principle D. OSI principle E. TCP principle ANSWER: A Which architecture separates presentation and business logic? A. Layered architecture B. Monolithic architecture only C. Pipeline architecture D. Hardware architecture E. Star topology ANSWER: A Microservices architecture promotes: A. Independent deployable services B. Tight coupling C. Single large codebase D. No testing E. Hardware dependence ANSWER: A Which principle hides implementation details? A. Abstraction B. Duplication C. Hard coding D. Redundancy E. Replication ANSWER: A Which process checks software quality standards? A. Software audit B. Data deletion C. Formatting D. Compression E. Replication ANSWER: A Which concept refers to ease of modifying software? A. Maintainability B. Reliability C. Availability D. Efficiency E. Portability ANSWER: A Which technique removes unnecessary complexity? A. Simplification B. Duplication C. Hard coding D. Obfuscation E. Encryption ANSWER: A Which language strongly supports OOP? A. Java B. Assembly only C. HTML D. SQL E. CSS ANSWER: A Which metric indicates testing difficulty? A. Cyclomatic complexity B. LOC only C. Fan-in D. Fan-out E. Availability ANSWER: A Higher cyclomatic complexity generally means: A. More testing paths B. Less complexity C. Better readability always D. Smaller code size E. Lower maintenance cost ANSWER: A Which software attribute measures speed and resource use? A. Efficiency B. Maintainability C. Reliability D. Portability E. Usability ANSWER: A Which activity updates outdated interfaces? A. Interface modernization B. Data compression C. Disk partitioning D. Network routing E. Replication ANSWER: A Which process converts procedural code into OO code? A. Object-oriented reengineering B. Encryption C. Compression D. Virtualization E. Formatting ANSWER: A Which process ensures software consistency after changes? A. Regression testing B. Compilation C. Compression D. Encryption E. Beautification ANSWER: A Which software quality factor measures adaptability? A. Flexibility B. Coupling C. Complexity D. Redundancy E. Encapsulation ANSWER: A Which process extracts entities and relationships? A. Data modeling B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which diagram shows deployment structure? A. Deployment diagram B. Activity diagram C. ER diagram D. DFD E. Pie chart ANSWER: A Which process reduces technical debt? A. Refactoring B. Duplication C. Hard coding D. Obfuscation E. Random coding ANSWER: A Which quality factor measures expansion capability? A. Scalability B. Reliability C. Maintainability D. Portability E. Availability ANSWER: A Which process updates software for cloud platforms? A. Cloud migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which concept hides complexity from users? A. Abstraction B. Duplication C. Replication D. Hard coding E. Redundancy ANSWER: A Which process identifies duplicate modules? A. Code analysis B. Compression C. Encryption D. Replication E. Formatting ANSWER: A Which process modernizes obsolete technologies? A. Technology migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which process identifies hidden dependencies? A. Dependency analysis B. Beautification C. Compression D. Encryption E. Replication ANSWER: A Which activity simplifies nested logic? A. Refactoring B. Duplication C. Hard coding D. Obfuscation E. Compression ANSWER: A Which process modernizes outdated software architecture? A. Architectural reengineering B. Compression C. Encryption D. Replication E. Formatting ANSWER: A Which practice reduces risk in modernization? A. Incremental migration B. Big bang replacement C. Random coding D. Duplication E. Hard coding ANSWER: A Which process ensures compatibility with new platforms? A. Porting B. Compression C. Formatting D. Replication E. Encryption ANSWER: A Which software attribute supports reuse in other systems? A. Reusability B. Reliability C. Availability D. Scalability E. Performance ANSWER: A Which process identifies software defects automatically? A. Automated testing B. Compression C. Encryption D. Replication E. Formatting ANSWER: A Docker is commonly used for: A. Containerization B. Database normalization C. Hardware assembly D. File encryption E. Spreadsheet editing ANSWER: A Which process converts legacy databases to modern DBMS? A. Database migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which quality attribute measures response time? A. Performance B. Maintainability C. Portability D. Reliability E. Reusability ANSWER: A Which process identifies bottlenecks? A. Performance analysis B. Compression C. Encryption D. Formatting E. Replication ANSWER: A Which practice encourages small manageable changes? A. Incremental reengineering B. Big bang replacement C. Random coding D. Hard coding E. Duplication ANSWER: A Which process identifies outdated dependencies? A. Dependency auditing B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which testing confirms bug fixes? A. Regression testing B. Smoke testing C. Alpha testing D. Beta testing E. Acceptance testing ANSWER: A Which concept improves software adaptability? A. Flexibility B. Redundancy C. Tight coupling D. Hard coding E. Duplication ANSWER: A Which activity is essential after software modification? A. Testing and validation B. Hardware disposal C. Network shutdown D. Disk formatting E. Data deletion ANSWER: A What is the purpose of software maintenance? A. To destroy software B. To keep software operational and updated C. To replace all users D. To avoid testing E. To eliminate databases ANSWER: B Which maintenance type focuses on adapting to new environments? A. Corrective B. Preventive C. Perfective D. Adaptive E. Emergency ANSWER: D Which activity improves code readability? A. Refactoring B. Obfuscation C. Duplication D. Compression E. Encryption ANSWER: A Reverse engineering helps recover: A. Source code structure B. Hardware drivers only C. Printer settings D. User passwords E. Network topology only ANSWER: A Which process transforms design into code? A. Reverse engineering B. Forward engineering C. Refactoring D. Debugging E. Profiling ANSWER: B Which metric measures software size? A. LOC B. Coupling C. Cohesion D. Cyclomatic complexity E. Fan-in ANSWER: A What does high coupling indicate? A. Independent modules B. Strong interdependency among modules C. Better maintainability always D. Reduced testing needs E. Higher abstraction ANSWER: B Which concept improves module independence? A. Tight coupling B. Loose coupling C. Duplication D. Obfuscation E. Redundancy ANSWER: B Which software quality attribute measures ease of use? A. Portability B. Reliability C. Usability D. Scalability E. Availability ANSWER: C Which testing verifies interactions among modules? A. Unit testing B. Integration testing C. Acceptance testing D. Smoke testing E. Beta testing ANSWER: B Which process identifies unreachable code? A. Static analysis B. Dynamic analysis C. Compilation D. Linking E. Deployment ANSWER: A Which software model follows sequential phases? A. Spiral model B. Agile model C. Waterfall model D. Incremental model E. RAD model ANSWER: C Which UML diagram represents system functionality? A. Class diagram B. Sequence diagram C. Use case diagram D. Activity diagram E. Deployment diagram ANSWER: C Which diagram shows workflow processes? A. Activity diagram B. ER diagram C. Class diagram D. Pie chart E. State chart ANSWER: A Which activity restructures database schemas? A. Data restructuring B. Code beautification C. Compression D. Encryption E. Replication ANSWER: A Which maintenance type improves performance? A. Perfective maintenance B. Corrective maintenance C. Adaptive maintenance D. Emergency maintenance E. Preventive maintenance ANSWER: A Which principle avoids repeated logic? A. DRY principle B. FIFO principle C. KISS principle D. OSI principle E. TCP principle ANSWER: A What is a code smell? A. Good coding practice B. Indicator of possible design issues C. Hardware issue D. Security certificate E. Compiler optimization ANSWER: B Spaghetti code is usually: A. Easy to maintain B. Highly modular C. Difficult to understand D. Object-oriented E. Hardware optimized ANSWER: C Which software attribute measures reliability over time? A. Availability B. Maintainability C. Reliability D. Portability E. Flexibility ANSWER: C Which process identifies software bottlenecks? A. Performance analysis B. Encryption C. Compression D. Formatting E. Replication ANSWER: A Which concept groups related functionalities together? A. Cohesion B. Coupling C. Duplication D. Redundancy E. Obfuscation ANSWER: A Which process modernizes old user interfaces? A. Interface reengineering B. Compression C. Encryption D. Formatting E. Replication ANSWER: A Which process converts old systems to cloud platforms? A. Cloud migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which architecture style uses small independent services? A. Monolithic architecture B. Microservices architecture C. Pipeline architecture D. Layered architecture E. Client-server only ANSWER: B Which process manages software versions? A. Configuration management B. Refactoring C. Compression D. Encryption E. Replication ANSWER: A Git is mainly used for: A. Software testing B. Version control C. Database design D. Network monitoring E. Hardware repair ANSWER: B Which testing verifies the complete system? A. Unit testing B. Integration testing C. System testing D. Smoke testing E. White-box testing ANSWER: C Which software quality factor measures modification ease? A. Maintainability B. Performance C. Reliability D. Security E. Availability ANSWER: A Which activity removes duplicate code? A. Refactoring B. Obfuscation C. Formatting D. Encryption E. Compression ANSWER: A Which metric counts independent execution paths? A. LOC B. Cyclomatic complexity C. Coupling D. Cohesion E. Function points ANSWER: B Which analysis requires program execution? A. Static analysis B. Dynamic analysis C. Structural analysis D. Syntax analysis E. Semantic analysis ANSWER: B Which process recovers high-level architecture? A. Architectural recovery B. Compilation C. Compression D. Encryption E. Replication ANSWER: A Which maintenance type prevents future failures? A. Corrective B. Perfective C. Preventive D. Adaptive E. Emergency ANSWER: C Which concept hides implementation details? A. Abstraction B. Duplication C. Hard coding D. Replication E. Redundancy ANSWER: A Which process improves naming conventions? A. Code restructuring B. Encryption C. Formatting disks D. Compression E. Replication ANSWER: A Which diagram models database entities? A. ER diagram B. Activity diagram C. Sequence diagram D. State diagram E. Use case diagram ANSWER: A Which process updates outdated libraries? A. Dependency upgrade B. Compression C. Replication D. Formatting E. Encryption ANSWER: A Which software artifact defines requirements? A. SRS document B. Test report C. Build file D. Source file E. Deployment log ANSWER: A Which process improves software portability? A. Platform migration B. Duplication C. Hard coding D. Encryption E. Compression ANSWER: A Which concept supports reuse of existing code? A. Inheritance B. Duplication C. Hard coding D. Replication E. Nesting ANSWER: A Which process simplifies deployment? A. Containerization B. Duplication C. Formatting D. Encryption E. Compression ANSWER: A Docker is associated with: A. Database normalization B. Containerization C. Hardware maintenance D. Encryption E. Refactoring ANSWER: B Which process identifies maintainability issues? A. Metrics analysis B. Compression C. Replication D. Formatting E. Encryption ANSWER: A Which process ensures modified code still works? A. Regression testing B. Smoke testing C. Acceptance testing D. Beta testing E. Alpha testing ANSWER: A Which architecture separates software into layers? A. Layered architecture B. Monolithic architecture C. Peer-to-peer architecture D. Pipe-and-filter architecture E. Event-driven architecture ANSWER: A Which activity modernizes legacy databases? A. Database migration B. Compression C. Replication D. Encryption E. Formatting ANSWER: A Which process analyzes runtime efficiency? A. Profiling B. Compilation C. Encryption D. Compression E. Refactoring ANSWER: A Which software quality factor measures uptime? A. Availability B. Reliability C. Maintainability D. Usability E. Flexibility ANSWER: A Which process reduces software complexity? A. Refactoring B. Duplication C. Obfuscation D. Hard coding E. Replication ANSWER: A Which maintenance activity changes software due to legal regulations? A. Adaptive maintenance B. Corrective maintenance C. Perfective maintenance D. Preventive maintenance E. Emergency maintenance ANSWER: A Which process identifies affected components after modification? A. Impact analysis B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which software metric measures delivered functionality? A. Function points B. Coupling C. Cohesion D. Fan-in E. Fan-out ANSWER: A Which testing verifies user expectations? A. Acceptance testing B. Unit testing C. Integration testing D. Smoke testing E. Mutation testing ANSWER: A Which activity removes obsolete modules? A. Code cleanup B. Compression C. Replication D. Encryption E. Formatting ANSWER: A Which concept improves software scalability? A. Modular design B. Tight coupling C. Duplication D. Hard coding E. Random coding ANSWER: A Which process converts procedural systems into OOP systems? A. OO reengineering B. Compression C. Replication D. Formatting E. Encryption ANSWER: A Which software quality factor measures response speed? A. Performance B. Reliability C. Availability D. Usability E. Maintainability ANSWER: A Which process detects hidden security flaws? A. Vulnerability assessment B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which activity documents recovered design information? A. Re-documentation B. Compression C. Replication D. Formatting E. Encryption ANSWER: A Which process identifies dead code? A. Static analysis B. Dynamic analysis C. Smoke testing D. Integration testing E. Acceptance testing ANSWER: A Which process converts old APIs into modern APIs? A. API migration B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which process groups related code into modules? A. Modularization B. Duplication C. Encryption D. Compression E. Replication ANSWER: A Which software quality factor measures easy learning? A. Usability B. Reliability C. Availability D. Scalability E. Maintainability ANSWER: A Which process ensures change traceability? A. Configuration management B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which practice reduces modernization risk? A. Incremental migration B. Big bang replacement C. Random coding D. Duplication E. Hard coding ANSWER: A Which concept supports independent deployment? A. Microservices B. Monolithic systems C. Tight coupling D. Redundancy E. Duplication ANSWER: A Which process identifies architecture violations? A. Architecture analysis B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which maintenance type fixes operational failures? A. Corrective maintenance B. Perfective maintenance C. Adaptive maintenance D. Preventive maintenance E. Evolutionary maintenance ANSWER: A Which process modernizes outdated frameworks? A. Framework migration B. Compression C. Replication D. Formatting E. Encryption ANSWER: A Which concept supports hiding unnecessary details? A. Encapsulation B. Duplication C. Hard coding D. Redundancy E. Compression ANSWER: A Which process verifies software quality standards? A. Software audit B. Compression C. Replication D. Formatting E. Encryption ANSWER: A Which process updates documentation after changes? A. Re-documentation B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which process analyzes source code structure? A. Code analysis B. Compression C. Encryption D. Replication E. Formatting ANSWER: A Which software quality factor measures adaptability to new environments? A. Portability B. Reliability C. Availability D. Maintainability E. Security ANSWER: A Which process improves software flexibility? A. Refactoring B. Hard coding C. Duplication D. Compression E. Encryption ANSWER: A Which process identifies performance bottlenecks? A. Profiling B. Formatting C. Compression D. Replication E. Encryption ANSWER: A Which process transforms legacy systems gradually? A. Incremental reengineering B. Big bang replacement C. Compression D. Encryption E. Formatting ANSWER: A Which process improves maintainability without changing output? A. Refactoring B. Redevelopment C. Compression D. Encryption E. Replication ANSWER: A Which software quality factor measures correct functionality? A. Reliability B. Portability C. Scalability D. Flexibility E. Reusability ANSWER: A Which process identifies redundant dependencies? A. Dependency cleanup B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which process modernizes legacy architecture? A. Architectural reengineering B. Compression C. Formatting D. Replication E. Encryption ANSWER: A Which process identifies affected modules before modification? A. Impact analysis B. Compression C. Encryption D. Formatting E. Replication ANSWER: A Which concept improves readability and comprehension? A. Meaningful naming B. Deep nesting C. Hard coding D. Duplication E. Obfuscation ANSWER: A Which process converts software into reusable services? A. Service-oriented reengineering B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which testing validates integrated modules together? A. Integration testing B. Unit testing C. Acceptance testing D. Smoke testing E. Alpha testing ANSWER: A Which process modernizes outdated UI technology? A. UI migration B. Compression C. Formatting D. Replication E. Encryption ANSWER: A Which process measures software maintainability? A. Metrics analysis B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which process extracts business rules from legacy systems? A. Reverse engineering B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which process improves deployment consistency? A. Containerization B. Duplication C. Compression D. Encryption E. Formatting ANSWER: A Which process ensures software works on multiple platforms? A. Porting B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which activity removes excessive complexity? A. Simplification B. Duplication C. Hard coding D. Obfuscation E. Compression ANSWER: A Which process identifies software quality weaknesses? A. Quality assessment B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which concept allows multiple method implementations? A. Polymorphism B. Duplication C. Encapsulation D. Compression E. Replication ANSWER: A Which process updates obsolete operating system dependencies? A. Platform migration B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which software quality factor measures future growth capability? A. Scalability B. Reliability C. Availability D. Maintainability E. Security ANSWER: A Which process ensures modified software remains functional? A. Regression testing B. Unit testing C. Acceptance testing D. Smoke testing E. Alpha testing ANSWER: A Which process extracts architecture from source code? A. Architectural recovery B. Compilation C. Compression D. Encryption E. Replication ANSWER: A Which process identifies unnecessary software dependencies? A. Dependency analysis B. Compression C. Formatting D. Encryption E. Replication ANSWER: A Which activity is essential after reengineering? A. Validation and testing B. Hardware replacement C. Disk formatting D. Network shutdown E. Data deletion ANSWER: A Which of the following best explains why TechMod Corp should prioritize modularity when re-engineering their monolithic financial system into a component-based system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ensure that all components are written in the same programming language"
+        },
+        {
+          "id": "B",
+          "text": "To allow developers to modify the payment module without affecting the inventory module"
+        },
+        {
+          "id": "C",
+          "text": "To increase the total lines of code within the system to meet complexity standards"
+        },
+        {
+          "id": "D",
+          "text": "To prevent the use of external third-party libraries within the architecture"
+        },
+        {
+          "id": "E",
+          "text": "To ensure that the user interface is locked to a specific operating system"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q002",
+      "text": "How would you describe the relationship between encapsulation and information hiding within a re-engineered software component?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Encapsulation exposes all internal variables to facilitate faster debugging by external teams"
+        },
+        {
+          "id": "B",
+          "text": "It ensures that the internal implementation is hidden, allowing users to interact only with the interface"
+        },
+        {
+          "id": "C",
+          "text": "It requires every component to be stored in a separate physical server for security"
+        },
+        {
+          "id": "D",
+          "text": "It forces the component to share its logic with all other modules to reduce redundancy"
+        },
+        {
+          "id": "E",
+          "text": "It eliminates the need for documentation by making the code self-explanatory to the compiler"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q003",
+      "text": "Interpret the impact of \"Loose Coupling\" when TechMod Corp decides to replace its legacy database component with a modern cloud-based solution.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every other module in the system will require a complete rewrite of its internal logic"
+        },
+        {
+          "id": "B",
+          "text": "The change remains localized because components have minimal dependencies on each other"
+        },
+        {
+          "id": "C",
+          "text": "The system will become more rigid, preventing any future technological upgrades"
+        },
+        {
+          "id": "D",
+          "text": "Coupling ensures that the database and the UI are merged into a single execution unit"
+        },
+        {
+          "id": "E",
+          "text": "Loose coupling increases the execution speed of the central processing unit by 50%"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q004",
+      "text": "Compare the \"Evolution (Growth) Stage\" of the software lifecycle with the \"Servicing Stage\" in terms of feature development.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Evolution involves rapid feature addition based on feedback, while Servicing focuses on bug fixes and stability"
+        },
+        {
+          "id": "B",
+          "text": "Servicing involves creating a brand new system, while Evolution focuses on retiring the old one"
+        },
+        {
+          "id": "C",
+          "text": "Evolution avoids all structural changes, whereas Servicing involves complete architectural redesigns"
+        },
+        {
+          "id": "D",
+          "text": "Both stages are identical and focus only on marketing the software to new users"
+        },
+        {
+          "id": "E",
+          "text": "Servicing is the first stage of development, while Evolution is the final stage before retirement"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-03-q005",
+      "text": "Explain the purpose of \"Well-Defined Interfaces\" when integrating a new third-party authentication module into TechMod’s system.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To hide the name of the developer who wrote the original authentication logic"
+        },
+        {
+          "id": "B",
+          "text": "To specify the exact input parameters and data formats required for communication"
+        },
+        {
+          "id": "C",
+          "text": "To ensure that the component can only run on a specific hardware model"
+        },
+        {
+          "id": "D",
+          "text": "To prevent the component from ever being updated or modified in the future"
+        },
+        {
+          "id": "E",
+          "text": "To merge the source code of the third-party module with the main system kernel"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q006",
+      "text": "Which statement best summarizes the goal of the \"Phase-Out Stage\" in the Staged Model of Software?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To add as many new features as possible to attract investors"
+        },
+        {
+          "id": "B",
+          "text": "To manage the transition of the software toward retirement or complete replacement"
+        },
+        {
+          "id": "C",
+          "text": "To rewrite the entire system in a new language while maintaining all current users"
+        },
+        {
+          "id": "D",
+          "text": "To increase the marketing budget to prevent users from leaving the platform"
+        },
+        {
+          "id": "E",
+          "text": "To fix every minor bug to achieve a zero-defect status before the system is deleted"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q007",
+      "text": "In the context of software re-engineering, infer why ISO/IEC 14764 is significant for TechMod’s maintenance workflow.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides a legal framework to sue original developers for poor code quality"
+        },
+        {
+          "id": "B",
+          "text": "It defines structured activities for modification, migration, and retirement of legacy systems"
+        },
+        {
+          "id": "C",
+          "text": "It mandates that all software must be re-engineered every two years regardless of performance"
+        },
+        {
+          "id": "D",
+          "text": "It focuses purely on the initial development of software before it is released to the public"
+        },
+        {
+          "id": "E",
+          "text": "It eliminates the need for software configuration management tools like Git"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q008",
+      "text": "Contrast \"Adaptive Maintenance\" with \"Perfective Maintenance\" as defined in software maintenance standards.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adaptive maintenance fixes bugs, while Perfective maintenance migrates the system to new hardware"
+        },
+        {
+          "id": "B",
+          "text": "Adaptive reacts to environment changes, while Perfective improves performance or maintainability"
+        },
+        {
+          "id": "C",
+          "text": "Perfective is done only by the original authors, while Adaptive is done by third parties"
+        },
+        {
+          "id": "D",
+          "text": "Adaptive maintenance is illegal under ISO standards, while Perfective is mandatory"
+        },
+        {
+          "id": "E",
+          "text": "Both terms describe the process of deleting the software and starting from scratch"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q009",
+      "text": "Explain how Software Configuration Management (SCM) helps TechMod Corp manage \"Regression Errors\" during re-engineering.",
+      "options": [
+        {
+          "id": "A",
+          "text": "SCM automatically writes the code to fix the bugs without human intervention"
+        },
+        {
+          "id": "B",
+          "text": "It allows developers to identify which specific change caused a failure and roll back to a baseline"
+        },
+        {
+          "id": "C",
+          "text": "SCM prevents developers from ever making changes to the source code files"
+        },
+        {
+          "id": "D",
+          "text": "It increases the complexity of the system so that bugs are harder for hackers to find"
+        },
+        {
+          "id": "E",
+          "text": "It generates a user manual that explains to the customer why the error exists"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q010",
+      "text": "Which of the following best exemplifies the \"Reusability\" property of a Component-Based System?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using the same login component across both the mobile app and the web application"
+        },
+        {
+          "id": "B",
+          "text": "Printing the source code on recycled paper to save environmental resources"
+        },
+        {
+          "id": "C",
+          "text": "Rewriting the same logic five times in different modules to ensure redundancy"
+        },
+        {
+          "id": "D",
+          "text": "Deleting a module after it has been used once to save storage space"
+        },
+        {
+          "id": "E",
+          "text": "Forcing users to download a new component every time they log into the system"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-03-q011",
+      "text": "Summarize the primary benefit of following IEEE 1219 standards during a system migration.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It guarantees that the software will never crash again"
+        },
+        {
+          "id": "B",
+          "text": "It ensures that changes are systematic, documented, and quality-driven"
+        },
+        {
+          "id": "C",
+          "text": "It allows developers to skip the testing phase to save project costs"
+        },
+        {
+          "id": "D",
+          "text": "It requires the software to be compatible with every computer ever made"
+        },
+        {
+          "id": "E",
+          "text": "It focuses on the aesthetic design of the user interface rather than functionality"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q012",
+      "text": "Infer the likely outcome if TechMod Corp performs a major code restructuring without using an SCM tool like Git.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The software will automatically become more modular and easier to read"
+        },
+        {
+          "id": "B",
+          "text": "Developers may overwrite each other's work, leading to deployment confusion and lost changes"
+        },
+        {
+          "id": "C",
+          "text": "The system performance will double because there is no overhead from version tracking"
+        },
+        {
+          "id": "D",
+          "text": "The documentation will automatically update itself based on the code changes"
+        },
+        {
+          "id": "E",
+          "text": "The hardware will become immune to any software-related failures"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q013",
+      "text": "How does the \"Servicing Stage\" differ from the \"Initial Development Stage\" in the Staged Model?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Initial Development focuses on first stable releases, while Servicing avoids major structural changes"
+        },
+        {
+          "id": "B",
+          "text": "Servicing is where the most investment occurs, while Initial Development is low cost"
+        },
+        {
+          "id": "C",
+          "text": "Initial Development focuses on bug fixes, while Servicing focuses on rapid feature addition"
+        },
+        {
+          "id": "D",
+          "text": "Servicing is performed by users, while Initial Development is performed by robots"
+        },
+        {
+          "id": "E",
+          "text": "There is no difference; both stages follow the exact same development procedures"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-03-q014",
+      "text": "Describe the role of \"Encapsulation\" in promoting system security during re-engineering.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It encrypts the entire hard drive where the component is stored"
+        },
+        {
+          "id": "B",
+          "text": "It hides implementation details, ensuring that external modules only access data through safe interfaces"
+        },
+        {
+          "id": "C",
+          "text": "It requires users to enter a password every time a function is called within the code"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the code from being read by any compiler or interpreter"
+        },
+        {
+          "id": "E",
+          "text": "It allows any part of the system to modify any variable to ensure maximum flexibility"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q015",
+      "text": "Interpret the meaning of a \"Baseline\" in Software Configuration Management for a re-engineering project.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The minimum number of lines of code required for a project to be successful"
+        },
+        {
+          "id": "B",
+          "text": "A stable, documented version of the system that serves as a starting point for further changes"
+        },
+        {
+          "id": "C",
+          "text": "The bottom layer of the database where deleted records are stored"
+        },
+        {
+          "id": "D",
+          "text": "The lowest salary level for a software engineer on the re-engineering team"
+        },
+        {
+          "id": "E",
+          "text": "A line of code that contains a critical syntax error that must be fixed"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q016",
+      "text": "Compare the \"Evolution\" stage of software to a \"Car Model\" growth period as described in the staged model.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both involve releasing improved versions based on customer feedback and technological changes"
+        },
+        {
+          "id": "B",
+          "text": "Both involve discontinuing the product immediately after the first version is sold"
+        },
+        {
+          "id": "C",
+          "text": "Both focus on making the product smaller and less functional over time"
+        },
+        {
+          "id": "D",
+          "text": "Both require the product to be completely rebuilt from scratch every month"
+        },
+        {
+          "id": "E",
+          "text": "Neither involves any changes to the original design once it is released"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-03-q017",
+      "text": "Explain why \"Impact Analysis\" is a critical step in the ISO/IEC 14764 maintenance standard.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To determine how much the re-engineering project will impact the company's stock price"
+        },
+        {
+          "id": "B",
+          "text": "To evaluate how a proposed change will affect other parts of the existing legacy system"
+        },
+        {
+          "id": "C",
+          "text": "To measure the physical impact of the server hardware on the environment"
+        },
+        {
+          "id": "D",
+          "text": "To calculate the number of keystrokes a developer makes during a workday"
+        },
+        {
+          "id": "E",
+          "text": "To force the system to crash so that developers can find the weak points"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q018",
+      "text": "Which of the following best describes \"Modularity\" in a Component-Based System?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The system is a single, unbreakable block of code that handles everything"
+        },
+        {
+          "id": "B",
+          "text": "The system is divided into independent units where changes in one have minimal impact on others"
+        },
+        {
+          "id": "C",
+          "text": "The system requires every user to have a unique version of the software"
+        },
+        {
+          "id": "D",
+          "text": "Every function in the system must be stored in a different physical building"
+        },
+        {
+          "id": "E",
+          "text": "The system can only be modified by the person who originally wrote the code"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q019",
+      "text": "Summarize why \"Configuration Control\" is necessary when multiple developers are restructuring a legacy database.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ensure that only the fastest typist is allowed to save changes to the database"
+        },
+        {
+          "id": "B",
+          "text": "To prevent unauthorized or conflicting changes that could compromise system integrity"
+        },
+        {
+          "id": "C",
+          "text": "To make sure the database uses the maximum amount of server memory available"
+        },
+        {
+          "id": "D",
+          "text": "To allow developers to work without ever talking to each other or sharing code"
+        },
+        {
+          "id": "E",
+          "text": "To hide the database structure from the quality assurance team"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q020",
+      "text": "Infer the purpose of the \"Initial Development\" stage in a closed-source staged model.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To plan the retirement of a product before it is even built"
+        },
+        {
+          "id": "B",
+          "text": "To deliver the first stable commercial release with major features implemented"
+        },
+        {
+          "id": "C",
+          "text": "To fix bugs in a product that has been on the market for ten years"
+        },
+        {
+          "id": "D",
+          "text": "To reduce the number of features in a product to make it easier to sell"
+        },
+        {
+          "id": "E",
+          "text": "To move the software from a private server to a public cloud immediately"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q021",
+      "text": "How does \"Information Hiding\" contribute to the \"Loose Coupling\" of software components?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the code so complex that no other component can understand how to link to it"
+        },
+        {
+          "id": "B",
+          "text": "By hiding internal logic, components interact only via interfaces, reducing inter-dependencies"
+        },
+        {
+          "id": "C",
+          "text": "It allows components to share their private memory space with any other module"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the system from being able to track which component is currently running"
+        },
+        {
+          "id": "E",
+          "text": "It forces every component to depend on a single, central \"Master\" module"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q022",
+      "text": "Contrast a \"Monolithic System\" with a \"Component-Based System\" regarding maintainability.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Monolithic systems are easier to maintain because all code is in one place"
+        },
+        {
+          "id": "B",
+          "text": "Component-based systems are easier to maintain because modules can be updated independently"
+        },
+        {
+          "id": "C",
+          "text": "Monolithic systems are more modern and use better technology than component-based systems"
+        },
+        {
+          "id": "D",
+          "text": "Component-based systems are more difficult to maintain because they have too many files"
+        },
+        {
+          "id": "E",
+          "text": "There is no difference in maintainability between the two architectural styles"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q023",
+      "text": "Explain the role of \"Version Tracking\" in SCM during a technology upgrade.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It counts how many versions of the software have been sold to customers"
+        },
+        {
+          "id": "B",
+          "text": "It maintains a history of changes, allowing developers to see what was modified and by whom"
+        },
+        {
+          "id": "C",
+          "text": "It ensures that the software version number always ends in a lucky digit"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the software from being installed on older versions of Windows"
+        },
+        {
+          "id": "E",
+          "text": "It automatically deletes older versions of the code to save disk space"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q024",
+      "text": "Interpret the \"Servicing Stage\" in terms of \"Innovation.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "This is the stage of maximum innovation where the most creative features are added"
+        },
+        {
+          "id": "B",
+          "text": "Innovation is reduced, and the focus shifts to reliability, bug fixes, and security patches"
+        },
+        {
+          "id": "C",
+          "text": "Innovation is illegal during this stage according to international standards"
+        },
+        {
+          "id": "D",
+          "text": "Innovation is handled by the marketing department rather than the engineering team"
+        },
+        {
+          "id": "E",
+          "text": "Innovation in this stage focuses on making the software more expensive for users"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q025",
+      "text": "Which statement best describes the \"Reusability\" of a payment component in an e-commerce system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The component is deleted after every transaction to ensure security"
+        },
+        {
+          "id": "B",
+          "text": "The same component logic can be used for credit cards, PayPal, and bank transfers via interfaces"
+        },
+        {
+          "id": "C",
+          "text": "Every single transaction requires a developer to manually rewrite the component"
+        },
+        {
+          "id": "D",
+          "text": "The component only works for one specific customer and cannot be used by others"
+        },
+        {
+          "id": "E",
+          "text": "The component is shared with competitors to help them improve their systems"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q026",
+      "text": "Describe why \"Legacy Systems\" are the primary target for software re-engineering.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they are new and have no bugs yet"
+        },
+        {
+          "id": "B",
+          "text": "Because they are often complex, outdated, and difficult to maintain but still provide value"
+        },
+        {
+          "id": "C",
+          "text": "Because they are the only systems that can run on modern cloud platforms"
+        },
+        {
+          "id": "D",
+          "text": "Because they were designed to be replaced every six months by the manufacturer"
+        },
+        {
+          "id": "E",
+          "text": "Because they have perfect documentation that is easy for anyone to read"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q027",
+      "text": "Explain the significance of \"Traceability\" in maintenance standards.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows users to trace the physical location of the software's servers"
+        },
+        {
+          "id": "B",
+          "text": "It ensures that every change can be linked back to a specific requirement or problem report"
+        },
+        {
+          "id": "C",
+          "text": "It helps the software track the mouse movements of the end user"
+        },
+        {
+          "id": "D",
+          "text": "It requires the software to draw a map of its internal logic on the screen"
+        },
+        {
+          "id": "E",
+          "text": "It is a process used to trace the genealogy of the software developers"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q028",
+      "text": "Infer the risk of \"Architecture Degradation\" if TechMod Corp continues to add features during the \"Servicing Stage.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The system will become faster and more efficient with every new feature"
+        },
+        {
+          "id": "B",
+          "text": "The architecture may become unstable, making future upgrades nearly impossible"
+        },
+        {
+          "id": "C",
+          "text": "The software will automatically convert itself into a component-based system"
+        },
+        {
+          "id": "D",
+          "text": "The original developers will be forced to return and fix the system for free"
+        },
+        {
+          "id": "E",
+          "text": "The system will become so simple that it no longer requires any maintenance"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q029",
+      "text": "How would you summarize the \"Evolution\" stage's goal in the software lifecycle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To keep the software relevant by adapting to customer feedback and market demands"
+        },
+        {
+          "id": "B",
+          "text": "To make the software so complex that competitors cannot copy it"
+        },
+        {
+          "id": "C",
+          "text": "To reduce the user base to a small, manageable group of experts"
+        },
+        {
+          "id": "D",
+          "text": "To stop all development and focus only on selling the current version"
+        },
+        {
+          "id": "E",
+          "text": "To change the name of the software every time a new bug is fixed"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-03-q030",
+      "text": "Contrast \"Corrective Maintenance\" with \"Preventive Maintenance.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Corrective fixes existing bugs, while Preventive identifies and fixes potential future issues"
+        },
+        {
+          "id": "B",
+          "text": "Corrective is done before the software is released, while Preventive is done after retirement"
+        },
+        {
+          "id": "C",
+          "text": "Preventive maintenance is only for hardware, while Corrective is only for software"
+        },
+        {
+          "id": "D",
+          "text": "Corrective maintenance is always free, while Preventive maintenance is very expensive"
+        },
+        {
+          "id": "E",
+          "text": "Both terms are different names for the process of installing software updates"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-03-q031",
+      "text": "Explain the importance of \"Audit and Compliance\" in SCM.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that the software is following tax laws in every country"
+        },
+        {
+          "id": "B",
+          "text": "It provides a record of changes to ensure the project meets quality and regulatory standards"
+        },
+        {
+          "id": "C",
+          "text": "It counts the number of lines of code to make sure the developers are working hard"
+        },
+        {
+          "id": "D",
+          "text": "It ensures that the software does not contain any images that are copyrighted"
+        },
+        {
+          "id": "E",
+          "text": "It is a social event where developers meet to discuss the project's history"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q032",
+      "text": "Interpret the \"Servicing\" stage of a car as an analogy for software maintenance.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is like buying a brand new car every time the oil needs changing"
+        },
+        {
+          "id": "B",
+          "text": "It is like performing minor updates (oil changes, tire rotations) to keep the car running reliably"
+        },
+        {
+          "id": "C",
+          "text": "It is like painting the car a new color to make it go faster on the highway"
+        },
+        {
+          "id": "D",
+          "text": "It is like taking the engine out and replacing it with a completely different model"
+        },
+        {
+          "id": "E",
+          "text": "It is like leaving the car in the garage and never driving it again"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q033",
+      "text": "What is the best explanation for \"Interoperability\" in component-based systems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ability of a component to run without any electricity"
+        },
+        {
+          "id": "B",
+          "text": "The ability of different components to communicate and work together via defined interfaces"
+        },
+        {
+          "id": "C",
+          "text": "The requirement that all components must be made by the same company"
+        },
+        {
+          "id": "D",
+          "text": "The process of making a component invisible to the user interface"
+        },
+        {
+          "id": "E",
+          "text": "The ability of the software to operate even when the computer is turned off"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q034",
+      "text": "Summarize the \"Modularity\" property using the example of an e-commerce system.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The system is one big file that contains the code for payments, inventory, and orders"
+        },
+        {
+          "id": "B",
+          "text": "The system has separate units for payment and inventory so a crash in one doesn't stop the other"
+        },
+        {
+          "id": "C",
+          "text": "The system requires the user to buy a different computer for every part of the website"
+        },
+        {
+          "id": "D",
+          "text": "The payment unit can only be accessed by the inventory unit on Tuesdays"
+        },
+        {
+          "id": "E",
+          "text": "The order management unit is the only part of the system that contains any code"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q035",
+      "text": "Infer the benefit of \"Managed Migration Versions\" in SCM during a re-engineering project.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows the company to charge users for every single update they receive"
+        },
+        {
+          "id": "B",
+          "text": "It provides a safe way to move from the old system to the new one in controlled steps"
+        },
+        {
+          "id": "C",
+          "text": "It ensures that the migration happens as fast as possible without any testing"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the old system from ever being turned off during the migration"
+        },
+        {
+          "id": "E",
+          "text": "It automatically deletes the user's data once the new system is installed"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q036",
+      "text": "Explain why \"Customer-driven feature updates\" are characteristic of the \"Evolution\" stage.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because customers are the ones who write the code during this stage"
+        },
+        {
+          "id": "B",
+          "text": "Because the software grows and improves based on how people actually use it in the market"
+        },
+        {
+          "id": "C",
+          "text": "Because customers are required to pay for every update they suggest"
+        },
+        {
+          "id": "D",
+          "text": "Because the evolution stage is the only time customers are allowed to see the software"
+        },
+        {
+          "id": "E",
+          "text": "Because it is the only stage where the software has a user interface"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q037",
+      "text": "Describe the relationship between \"IEEE 1219\" and \"ISO/IEC 14764.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are two different names for the exact same document"
+        },
+        {
+          "id": "B",
+          "text": "They are both international standards that provide frameworks for software maintenance"
+        },
+        {
+          "id": "C",
+          "text": "IEEE 1219 is for hardware, while ISO 14764 is for software"
+        },
+        {
+          "id": "D",
+          "text": "One is used for building cars, and the other is used for building airplanes"
+        },
+        {
+          "id": "E",
+          "text": "They are competing standards, and using both at the same time will crash the system"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q038",
+      "text": "Contrast \"Loose Coupling\" with \"Strong Coupling.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Loose coupling is for small systems, while strong coupling is for large enterprise systems"
+        },
+        {
+          "id": "B",
+          "text": "Loose coupling reduces dependencies between modules, while strong coupling makes them reliant on each other"
+        },
+        {
+          "id": "C",
+          "text": "Strong coupling is always better because it makes the system run faster"
+        },
+        {
+          "id": "D",
+          "text": "Loose coupling is only used in mobile apps, while strong coupling is for web apps"
+        },
+        {
+          "id": "E",
+          "text": "There is no technical difference; they are just different marketing terms"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q039",
+      "text": "Explain the purpose of \"Problem and Modification Analysis\" in the maintenance process.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To find out which developer is responsible for a bug so they can be fired"
+        },
+        {
+          "id": "B",
+          "text": "To study a reported issue and plan the best way to implement a change without breaking the system"
+        },
+        {
+          "id": "C",
+          "text": "To convince the customer that the problem they reported is actually a new feature"
+        },
+        {
+          "id": "D",
+          "text": "To calculate the physical weight of the code changes on the hard drive"
+        },
+        {
+          "id": "E",
+          "text": "To prevent the quality assurance team from testing the software"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q040",
+      "text": "Interpret the impact of \"Reusability\" on \"Development Time.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "It increases development time because writing reusable code is too difficult"
+        },
+        {
+          "id": "B",
+          "text": "It reduces development time because developers can use existing, tested components"
+        },
+        {
+          "id": "C",
+          "text": "It has no impact because every project requires completely new code anyway"
+        },
+        {
+          "id": "D",
+          "text": "It makes development time unpredictable because components might not work together"
+        },
+        {
+          "id": "E",
+          "text": "It doubles the development time because every component must be written in two languages"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q041",
+      "text": "Summarize the \"Initial Stage\" of the software lifecycle.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The stage where the software is retired and replaced by a newer model"
+        },
+        {
+          "id": "B",
+          "text": "The stage where major features are implemented to create the first stable version"
+        },
+        {
+          "id": "C",
+          "text": "The stage where the software is sold to a competitor to avoid maintenance"
+        },
+        {
+          "id": "D",
+          "text": "The stage where the software is only a series of drawings on a whiteboard"
+        },
+        {
+          "id": "E",
+          "text": "The stage where the software is translated into different languages for global release"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q042",
+      "text": "Infer the role of \"Encapsulation\" in \"Information Hiding.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Encapsulation is the process of putting code in a capsule and burying it in the ground"
+        },
+        {
+          "id": "B",
+          "text": "It is the mechanism that implements information hiding by bundling data and methods together"
+        },
+        {
+          "id": "C",
+          "text": "It is a way of making the code run slower to ensure that the user can read it"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the developer from seeing their own code after it has been compiled"
+        },
+        {
+          "id": "E",
+          "text": "It is a marketing term used to describe software that comes in a box"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q043",
+      "text": "How does SCM facilitate \"Team Collaboration\" in a re-engineering project?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It forces all team members to sit in the same room and share one computer"
+        },
+        {
+          "id": "B",
+          "text": "It manages concurrent changes, allowing multiple developers to work on the same system safely"
+        },
+        {
+          "id": "C",
+          "text": "It sends an email to every developer every time a single line of code is changed"
+        },
+        {
+          "id": "D",
+          "text": "It creates a leaderboard that shows which developer has written the most code"
+        },
+        {
+          "id": "E",
+          "text": "It prevents team members from talking to each other to avoid distractions"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q044",
+      "text": "Explain why \"System Integrity\" might be compromised without maintenance standards.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the system will become too honest and tell the users its secrets"
+        },
+        {
+          "id": "B",
+          "text": "Because changes might be made haphazardly, leading to crashes, security gaps, and data loss"
+        },
+        {
+          "id": "C",
+          "text": "Because the system will only work on computers that are made of high-quality materials"
+        },
+        {
+          "id": "D",
+          "text": "Because the software will refuse to run unless it is updated by a certified professional"
+        },
+        {
+          "id": "E",
+          "text": "Because the documentation will become so accurate that it becomes difficult to read"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q045",
+      "text": "Describe the \"Growth Stage\" of software in terms of \"User Base.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The user base stays exactly the same as it was on the first day"
+        },
+        {
+          "id": "B",
+          "text": "The user base expands as the software evolves to meet more market demands"
+        },
+        {
+          "id": "C",
+          "text": "The user base shrinks because the software becomes too complex for normal people"
+        },
+        {
+          "id": "D",
+          "text": "The user base is deleted every time a new version of the software is released"
+        },
+        {
+          "id": "E",
+          "text": "The software is only used by the developers during the growth stage"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q046",
+      "text": "Interpret the goal of \"System Retirement\" in the maintenance lifecycle.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To give the software a vacation after it has worked hard for many years"
+        },
+        {
+          "id": "B",
+          "text": "To safely shut down a system and migrate its data to a newer, better platform"
+        },
+        {
+          "id": "C",
+          "text": "To delete the system so that no one can ever see the source code again"
+        },
+        {
+          "id": "D",
+          "text": "To stop paying the developers who built the original system"
+        },
+        {
+          "id": "E",
+          "text": "To move the software to a retirement home for old programs"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q047",
+      "text": "Contrast \"Module\" with \"System\" in the context of modularity.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A module is a small, independent part, while the system is the complete collection of modules"
+        },
+        {
+          "id": "B",
+          "text": "A system is always smaller and simpler than a single module"
+        },
+        {
+          "id": "C",
+          "text": "A module is for hardware, while a system is for software"
+        },
+        {
+          "id": "D",
+          "text": "There is no difference; they are just different words for a computer program"
+        },
+        {
+          "id": "E",
+          "text": "A system is a module that has been retired and is no longer being used"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-03-q048",
+      "text": "Explain the benefit of \"Standardization\" in component-based systems.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the software look exactly like every other program on the market"
+        },
+        {
+          "id": "B",
+          "text": "It encourages the use of common interfaces and protocols, making it easier to swap components"
+        },
+        {
+          "id": "C",
+          "text": "It requires every developer to wear a standard uniform while they are coding"
+        },
+        {
+          "id": "D",
+          "text": "It ensures that the software can only be used on a standard television set"
+        },
+        {
+          "id": "E",
+          "text": "It prevents any creative or original ideas from being included in the software"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q049",
+      "text": "Summarize why \"Risk Reduction\" is an important outcome of SCM.",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that the software is never used for dangerous activities like skydiving"
+        },
+        {
+          "id": "B",
+          "text": "It provides tools like rollbacks and change tracking to prevent permanent system damage"
+        },
+        {
+          "id": "C",
+          "text": "It makes the software so boring that no one will want to hack into it"
+        },
+        {
+          "id": "D",
+          "text": "It requires the software to be tested by a team of professional risk managers"
+        },
+        {
+          "id": "E",
+          "text": "It eliminates the need for the company to buy insurance for its servers"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-03-q050",
+      "text": "Infer the meaning of \"Mature and Stable\" in the \"Servicing Stage.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "The software has grown old and is starting to forget how to work"
+        },
+        {
+          "id": "B",
+          "text": "The software is reliable, has few bugs, and does not need major new features"
+        },
+        {
+          "id": "C",
+          "text": "The software is only used by people who are mature and stable adults"
+        },
+        {
+          "id": "D",
+          "text": "The software has stopped running and is waiting to be deleted"
+        },
+        {
+          "id": "E",
+          "text": "The software is kept in a stable environment where the temperature never changes"
+        }
+      ],
+      "correctOptionId": "B"
+    }
+  ],
+  "createdAt": "2026-05-19T18:09:02.142Z",
+  "bundled": true,
+  "setIndex": 3,
+  "sourceFile": "SRE MCQs Bank (1).txt"
+}

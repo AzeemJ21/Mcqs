@@ -1,0 +1,1360 @@
+{
+  "id": "sre-bank-set-05",
+  "title": "SRE MCQs — Quiz 5 (50 questions)",
+  "questions": [
+    {
+      "id": "sre-bank-set-05-q001",
+      "text": "GlobalMart is upgrading its 15-year-old monolithic inventory system to a cloud-native, component-based architecture. Apply the principle of loose coupling to determine how they should integrate a new third-party shipping service.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hard-code the third-party API calls directly into the core inventory logic."
+        },
+        {
+          "id": "B",
+          "text": "Implement an interface-based adapter to mediate between the system and the service."
+        },
+        {
+          "id": "C",
+          "text": "Merge the shipping service's source code into the main inventory database."
+        },
+        {
+          "id": "D",
+          "text": "Use a single global variable to share data between the inventory and shipping modules."
+        },
+        {
+          "id": "E",
+          "text": "Disable all security protocols to speed up the data transfer between systems."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q002",
+      "text": "A developer at GlobalMart needs to fix a critical bug in the legacy payment module while other teams are restructuring the database. How should they use SCM branching to manage this?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Work directly on the main production branch to save time."
+        },
+        {
+          "id": "B",
+          "text": "Create a dedicated bug-fix branch to isolate the change from the ongoing restructuring."
+        },
+        {
+          "id": "C",
+          "text": "Wait for the database restructuring to finish before starting the bug fix."
+        },
+        {
+          "id": "D",
+          "text": "Delete the existing payment module and rewrite it in the database branch."
+        },
+        {
+          "id": "E",
+          "text": "Share their local files via email with the database team for manual merging."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q003",
+      "text": "GlobalMart’s system is experiencing \"Architecture Degradation\" due to years of unplanned patches. Illustrate the best change-resistant strategy to prevent this in the new system.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Allow every developer to modify any part of the system architecture as needed."
+        },
+        {
+          "id": "B",
+          "text": "Implement strict encapsulation to hide internal logic behind stable interfaces."
+        },
+        {
+          "id": "C",
+          "text": "Remove all documentation to allow for faster, undocumented code changes."
+        },
+        {
+          "id": "D",
+          "text": "Use a monolithic structure so that all code is in a single, visible file."
+        },
+        {
+          "id": "E",
+          "text": "Avoid using any design patterns to keep the code as simple as possible."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q004",
+      "text": "Apply the ISO/IEC 14764 standard to GlobalMart's plan to move its inventory data to the cloud. What is the first step in the \"Migration\" process?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shut down the old system immediately to prevent data changes."
+        },
+        {
+          "id": "B",
+          "text": "Develop a migration plan including requirement analysis and tool selection."
+        },
+        {
+          "id": "C",
+          "text": "Delete the legacy database once the first 10% of data is moved."
+        },
+        {
+          "id": "D",
+          "text": "Tell users the system will be unavailable for one month without notice."
+        },
+        {
+          "id": "E",
+          "text": "Start writing the cloud code without analyzing the legacy data structure."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q005",
+      "text": "GlobalMart discovers that a recent update caused the checkout process to fail for 20% of users. Use SCM \"Rollback\" techniques to solve this issue effectively.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Manually edit the production code until the errors stop appearing."
+        },
+        {
+          "id": "B",
+          "text": "Revert the production environment to the last stable baseline recorded in Git."
+        },
+        {
+          "id": "C",
+          "text": "Ask the affected users to re-install their web browsers."
+        },
+        {
+          "id": "D",
+          "text": "Wait for the next scheduled update in three months to fix the issue."
+        },
+        {
+          "id": "E",
+          "text": "Delete the checkout module and ask users to call the store to pay."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q006",
+      "text": "To support \"Controlled Evolution,\" GlobalMart wants to ensure that adding a \"Loyalty Points\" feature does not break existing sales reports. Which technique should they implement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Static analysis of the user interface only."
+        },
+        {
+          "id": "B",
+          "text": "Regression testing against a documented baseline after the new feature is added."
+        },
+        {
+          "id": "C",
+          "text": "Manual code review of the sales report logic without running the system."
+        },
+        {
+          "id": "D",
+          "text": "Increasing the server's RAM to handle the extra complexity."
+        },
+        {
+          "id": "E",
+          "text": "Changing the sales report format to match the loyalty points data."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q007",
+      "text": "GlobalMart is in the \"Servicing Stage\" of its legacy POS software. Use the staged model guidelines to determine the appropriate action for a request for a \"Major Virtual Reality Shopping\" feature.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Implement the feature immediately to stay ahead of competitors."
+        },
+        {
+          "id": "B",
+          "text": "Reject the feature as it exceeds the scope of the servicing stage and suggest a new project."
+        },
+        {
+          "id": "C",
+          "text": "Add the feature but do not test it to save maintenance resources."
+        },
+        {
+          "id": "D",
+          "text": "Rewrite the entire POS system to include the VR feature as a patch."
+        },
+        {
+          "id": "E",
+          "text": "Outsource the VR feature to a team that doesn't have access to the source code."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q008",
+      "text": "A change request is submitted to modify the tax calculation logic in GlobalMart’s system. Apply \"Impact Analysis\" to decide if the change should proceed.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Approve the change immediately because tax laws are important."
+        },
+        {
+          "id": "B",
+          "text": "Identify all modules that call the tax function and evaluate potential side effects."
+        },
+        {
+          "id": "C",
+          "text": "Only check the tax module itself and ignore its connections to the checkout module."
+        },
+        {
+          "id": "D",
+          "text": "Ask the developer who wrote the tax code 10 years ago for their opinion."
+        },
+        {
+          "id": "E",
+          "text": "Implement the change in production and wait for user complaints to see the impact."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q009",
+      "text": "GlobalMart wants to ensure that their re-engineered components are \"Replaceable.\" Implement this design property for their database access layer.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hard-code SQL queries for a specific database brand into every UI component."
+        },
+        {
+          "id": "B",
+          "text": "Use a Data Access Object (DAO) pattern with a well-defined interface."
+        },
+        {
+          "id": "C",
+          "text": "Store all database credentials in a plain text file on the developer's desktop."
+        },
+        {
+          "id": "D",
+          "text": "Make the database layer dependent on the specific version of the operating system."
+        },
+        {
+          "id": "E",
+          "text": "Encrypt the database layer so that no other component can communicate with it."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q010",
+      "text": "Demonstrate how Lehman’s \"Law of Increasing Complexity\" should be handled during the evolution of GlobalMart’s inventory system.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Add as many features as possible without ever cleaning up the old code."
+        },
+        {
+          "id": "B",
+          "text": "Schedule regular \"Perfective Maintenance\" phases to refactor and simplify the code."
+        },
+        {
+          "id": "C",
+          "text": "Ignore the complexity until the system stops working entirely."
+        },
+        {
+          "id": "D",
+          "text": "Fire developers who suggest that the system is becoming too complex."
+        },
+        {
+          "id": "E",
+          "text": "Use more complex programming languages to match the system's complexity."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q011",
+      "text": "GlobalMart’s legacy system has \"Inconsistent Data Formats.\" Apply a data re-engineering strategy to prepare for migration to a modern SQL database.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Copy the data exactly as it is and fix errors manually in the new database later."
+        },
+        {
+          "id": "B",
+          "text": "Use a data cleansing tool to standardize formats before the extraction process."
+        },
+        {
+          "id": "C",
+          "text": "Delete any data that does not fit the new format to save storage space."
+        },
+        {
+          "id": "D",
+          "text": "Change the new database schema to allow for every possible inconsistent format."
+        },
+        {
+          "id": "E",
+          "text": "Use a manual spreadsheet to track the data instead of a database."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q012",
+      "text": "Show how \"Configuration Audit\" should be used when GlobalMart hires a third-party team to restructure their shipping module.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trust the third party completely and do not check their work."
+        },
+        {
+          "id": "B",
+          "text": "Verify that the delivered code matches the approved change requests and standards."
+        },
+        {
+          "id": "C",
+          "text": "Only check if the code runs on the lead developer's laptop."
+        },
+        {
+          "id": "D",
+          "text": "Pay the third party based on the number of lines of code they wrote."
+        },
+        {
+          "id": "E",
+          "text": "Ask the third party to write their own audit report and sign it."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q013",
+      "text": "GlobalMart is transitioning a system to the \"Phase-out Stage.\" Apply the appropriate maintenance strategy for this stage.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hire 50 new developers to add revolutionary features."
+        },
+        {
+          "id": "B",
+          "text": "Focus on migration planning and providing only critical security patches."
+        },
+        {
+          "id": "C",
+          "text": "Stop all support immediately and turn off the servers without warning."
+        },
+        {
+          "id": "D",
+          "text": "Re-brand the system as a new product to increase sales during the decline."
+        },
+        {
+          "id": "E",
+          "text": "Move the source code to an open-source repository and walk away."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q014",
+      "text": "Apply the concept of \"Information Hiding\" to GlobalMart's new inventory component.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ensure that the inventory levels are visible to every other module in the system."
+        },
+        {
+          "id": "B",
+          "text": "Hide the internal list structure and only provide \"GetCount\" and \"UpdateLevel\" methods."
+        },
+        {
+          "id": "C",
+          "text": "Make the source code of the component available on the company's public website."
+        },
+        {
+          "id": "D",
+          "text": "Use global variables so that any developer can change the inventory data directly."
+        },
+        {
+          "id": "E",
+          "text": "Hide the documentation so that only the original author can understand the component."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q015",
+      "text": "Solve a conflict where two developers at GlobalMart modified the same \"Discount\" function at the same time using SCM.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Use a version control merge tool to resolve conflicts and create a unified version."
+        },
+        {
+          "id": "B",
+          "text": "Delete both developers' work and ask them to start over from the beginning."
+        },
+        {
+          "id": "C",
+          "text": "Keep the version that was saved last and discard the other version."
+        },
+        {
+          "id": "D",
+          "text": "Create two different versions of the software and let the users choose which one to use."
+        },
+        {
+          "id": "E",
+          "text": "Ask the project manager to flip a coin to decide which version to keep."
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-05-q016",
+      "text": "GlobalMart wants to reduce the risk of \"Regression Errors\" during a technology upgrade. Illustrate the most effective strategy.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Upgrade the hardware and the software at the same time without testing."
+        },
+        {
+          "id": "B",
+          "text": "Use an SCM tool to create a baseline and run automated regression tests after each change."
+        },
+        {
+          "id": "C",
+          "text": "Only test the parts of the system that are used by the CEO."
+        },
+        {
+          "id": "D",
+          "text": "Tell the developers to be very careful not to make any mistakes."
+        },
+        {
+          "id": "E",
+          "text": "Delete all old test cases and write new ones from scratch after the upgrade."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q017",
+      "text": "Implement a \"Change Control Board\" (CCB) process for a request to change the GlobalMart employee login screen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Allow the UI designer to make the change whenever they feel inspired."
+        },
+        {
+          "id": "B",
+          "text": "Require the request to be documented, analyzed for impact, and approved by the CCB."
+        },
+        {
+          "id": "C",
+          "text": "Let the employees vote on the login screen design on social media."
+        },
+        {
+          "id": "D",
+          "text": "Change the login screen every day to keep the system feeling \"fresh.\""
+        },
+        {
+          "id": "E",
+          "text": "Ignore the request because the login screen is not a functional part of the system."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q018",
+      "text": "Use the \"Servicing Stage\" characteristics to justify why GlobalMart should NOT perform a major database schema redesign on a 20-year-old HR system.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the database is too old to be redesigned."
+        },
+        {
+          "id": "B",
+          "text": "Because the focus is on reliability and stability, not risky structural changes."
+        },
+        {
+          "id": "C",
+          "text": "Because the original database designer has retired."
+        },
+        {
+          "id": "D",
+          "text": "Because the company wants to spend the budget on a new marketing campaign."
+        },
+        {
+          "id": "E",
+          "text": "Because the HR system is going to be deleted tomorrow anyway."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q019",
+      "text": "Apply \"Perfective Maintenance\" to GlobalMart’s reporting module which is currently slow but accurate.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fix a bug that causes the report to show the wrong date."
+        },
+        {
+          "id": "B",
+          "text": "Refactor the SQL queries to improve the execution speed of the reports."
+        },
+        {
+          "id": "C",
+          "text": "Update the reports to work on the latest version of the Chrome browser."
+        },
+        {
+          "id": "D",
+          "text": "Add a new type of report for \"Summer Sales\" that wasn't there before."
+        },
+        {
+          "id": "E",
+          "text": "Delete the reporting module and use a manual paper-based system."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q020",
+      "text": "Demonstrate how \"Encapsulation\" supports the maintenance of GlobalMart’s \"Price Calculation\" component.",
+      "options": [
+        {
+          "id": "A",
+          "text": "By allowing the component to access the private data of the \"Customer\" component."
+        },
+        {
+          "id": "B",
+          "text": "By ensuring that changes to the internal math logic do not require changes in the UI components."
+        },
+        {
+          "id": "C",
+          "text": "By making the component run in a virtual machine that is disconnected from the network."
+        },
+        {
+          "id": "D",
+          "text": "By encrypting the pricing data so that even the database cannot read it."
+        },
+        {
+          "id": "E",
+          "text": "By requiring the price calculation to be done manually by a manager."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q021",
+      "text": "GlobalMart needs to move from an on-premise server to Azure. Apply the \"Migration and Retirement\" phase of ISO/IEC 14764.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keep both systems running forever to ensure that no data is lost."
+        },
+        {
+          "id": "B",
+          "text": "Plan the migration, execute it in stages, and formally retire the old system after validation."
+        },
+        {
+          "id": "C",
+          "text": "Turn off the old server and hope that the new cloud system works immediately."
+        },
+        {
+          "id": "D",
+          "text": "Only move the data that was created in the last 24 hours."
+        },
+        {
+          "id": "E",
+          "text": "Ask the users to manually copy their data from the old system to the new one."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q022",
+      "text": "Show how \"Version Tracking\" would help GlobalMart identify when a specific security vulnerability was introduced.",
+      "options": [
+        {
+          "id": "A",
+          "text": "By looking at the physical date on the server's hard drive."
+        },
+        {
+          "id": "B",
+          "text": "By reviewing the SCM commit history to see which change modified the vulnerable code."
+        },
+        {
+          "id": "C",
+          "text": "By asking every developer if they remember writing a bug last month."
+        },
+        {
+          "id": "D",
+          "text": "By checking the system's electricity usage over the last year."
+        },
+        {
+          "id": "E",
+          "text": "By running a virus scan on the project manager's computer."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q023",
+      "text": "GlobalMart wants to implement a \"Change-Resistant\" strategy for their external API integrations. Which approach should they use?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Use a \"Wrapper\" or \"Facade\" pattern to isolate external API changes from the internal system."
+        },
+        {
+          "id": "B",
+          "text": "Connect the internal system directly to the external API's internal database."
+        },
+        {
+          "id": "C",
+          "text": "Write the internal system in the same language as the external API to ensure compatibility."
+        },
+        {
+          "id": "D",
+          "text": "Require the external API company to never change their code again."
+        },
+        {
+          "id": "E",
+          "text": "Disable the API and use manual data entry to avoid any changes."
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-05-q024",
+      "text": "Apply Lehman’s \"Law of Continuing Change\" to justify GlobalMart’s decision to update their mobile app every month.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the developers need to stay busy to justify their salaries."
+        },
+        {
+          "id": "B",
+          "text": "Because the app must adapt to changing user needs and OS updates or it will become useless."
+        },
+        {
+          "id": "C",
+          "text": "Because the law requires all apps to be updated at least 12 times a year."
+        },
+        {
+          "id": "D",
+          "text": "Because frequent updates prevent the app from taking up too much memory."
+        },
+        {
+          "id": "E",
+          "text": "Because users like to see the \"Update\" button in the app store."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q025",
+      "text": "Implement \"Corrective Maintenance\" on GlobalMart’s \"Search\" feature which currently crashes when a user enters a special character.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Add a new feature that allows users to search by voice."
+        },
+        {
+          "id": "B",
+          "text": "Modify the code to handle special characters and prevent the system crash."
+        },
+        {
+          "id": "C",
+          "text": "Change the background color of the search page to make it look better."
+        },
+        {
+          "id": "D",
+          "text": "Update the search engine to work on the latest version of Linux."
+        },
+        {
+          "id": "E",
+          "text": "Tell users not to use special characters in the search box."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q026",
+      "text": "Use \"Traceability\" to support a change request for GlobalMart’s \"Discount Module.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trace the change request back to the original business requirement and forward to the affected code and tests."
+        },
+        {
+          "id": "B",
+          "text": "Trace the physical location of the developer who is working on the discount module."
+        },
+        {
+          "id": "C",
+          "text": "Trace the history of the discount module's name since the company was founded."
+        },
+        {
+          "id": "D",
+          "text": "Trace the amount of money the company has saved by using the discount module."
+        },
+        {
+          "id": "E",
+          "text": "Trace the electricity consumption of the discount module during peak hours."
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "sre-bank-set-05-q027",
+      "text": "GlobalMart is using \"IBM Rational ClearCase\" for SCM. Illustrate a scenario where \"Build Auditing\" is applied.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Checking the office for any unauthorized hardware before a build."
+        },
+        {
+          "id": "B",
+          "text": "Automatically recording which versions of which files were used to create a specific executable."
+        },
+        {
+          "id": "C",
+          "text": "Counting the number of errors the compiler finds and charging the developer a fee."
+        },
+        {
+          "id": "D",
+          "text": "Ensuring that the developer is sitting at their desk during the entire build process."
+        },
+        {
+          "id": "E",
+          "text": "Verifying that the build server is using a licensed version of the operating system."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q028",
+      "text": "Apply the \"Staged Model\" to explain why GlobalMart's \"Initial Development\" team should not be the same as the \"Servicing\" team.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the servicing team is not as smart as the initial development team."
+        },
+        {
+          "id": "B",
+          "text": "Because the skills needed for rapid feature creation differ from those needed for long-term stability and bug fixing."
+        },
+        {
+          "id": "C",
+          "text": "Because the company wants to save money by hiring cheaper developers for servicing."
+        },
+        {
+          "id": "D",
+          "text": "Because the initial development team is required to go on vacation after the first release."
+        },
+        {
+          "id": "E",
+          "text": "Because the servicing stage is handled by the marketing department."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q029",
+      "text": "Demonstrate the use of \"Adaptive Maintenance\" for GlobalMart’s \"Tax System\" when a new VAT law is passed.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fix a bug that was causing the tax system to crash on Sundays."
+        },
+        {
+          "id": "B",
+          "text": "Update the tax calculation logic to comply with the new government regulations."
+        },
+        {
+          "id": "C",
+          "text": "Improve the performance of the tax system so it can process 1,000 transactions per second."
+        },
+        {
+          "id": "D",
+          "text": "Add a new user interface for the tax system that works on tablets."
+        },
+        {
+          "id": "E",
+          "text": "Delete the tax system and use a flat-rate tax for every product."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q030",
+      "text": "GlobalMart’s architecture is \"Monolithic.\" Use re-engineering techniques to solve the problem of \"High Deployment Risk.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deploy the entire 10GB monolith every time a single word is changed on the website."
+        },
+        {
+          "id": "B",
+          "text": "Refactor the monolith into independent microservices or components that can be deployed separately."
+        },
+        {
+          "id": "C",
+          "text": "Only deploy the system at midnight when no one is using it."
+        },
+        {
+          "id": "D",
+          "text": "Require five different managers to sign a paper before every deployment."
+        },
+        {
+          "id": "E",
+          "text": "Stop making any changes to the system to avoid the risk of deployment."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q031",
+      "text": "Apply the \"Baseline\" concept to GlobalMart's \"Version 2.0\" release.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The baseline is the lowest level of performance the system is allowed to have."
+        },
+        {
+          "id": "B",
+          "text": "The baseline is a frozen set of code and documentation that represents the official state of Version 2.0."
+        },
+        {
+          "id": "C",
+          "text": "The baseline is the list of developers who worked on Version 2.0."
+        },
+        {
+          "id": "D",
+          "text": "The baseline is the total cost of developing Version 2.0."
+        },
+        {
+          "id": "E",
+          "text": "The baseline is the first line of code written for Version 2.0."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q032",
+      "text": "Show how \"Component Reusability\" should be applied when GlobalMart builds a new \"Customer Loyalty\" app.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Write all new code for the loyalty app to ensure it is modern."
+        },
+        {
+          "id": "B",
+          "text": "Integrate the existing, tested \"Authentication\" and \"Notification\" components into the new app."
+        },
+        {
+          "id": "C",
+          "text": "Copy the source code of the old app and change the name of the project."
+        },
+        {
+          "id": "D",
+          "text": "Ask the developers to write the same functions in a different language to prove their skill."
+        },
+        {
+          "id": "E",
+          "text": "Use the loyalty app to replace the main shopping app entirely."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q033",
+      "text": "Implement a \"Change Resistance\" strategy for GlobalMart's legacy database schema that cannot be changed without breaking 50 other apps.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Change the database schema anyway and deal with the 50 broken apps later."
+        },
+        {
+          "id": "B",
+          "text": "Create a \"Database View\" or \"API Layer\" that provides the new data format while keeping the old tables for legacy apps."
+        },
+        {
+          "id": "C",
+          "text": "Delete the 50 legacy apps and replace them with one new app."
+        },
+        {
+          "id": "D",
+          "text": "Manually update the data in the database using a text editor every day."
+        },
+        {
+          "id": "E",
+          "text": "Ask the database company to fix the schema for free."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q034",
+      "text": "Use \"Static Analysis\" to evaluate the quality of a new module before it is integrated into GlobalMart's core system.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Run the module on a server and see if it crashes."
+        },
+        {
+          "id": "B",
+          "text": "Use a tool to check the source code for complexity, style violations, and potential logic errors without running it."
+        },
+        {
+          "id": "C",
+          "text": "Ask a user to try the module and see if they like the interface."
+        },
+        {
+          "id": "D",
+          "text": "Compare the module's file size to the size of other modules in the system."
+        },
+        {
+          "id": "E",
+          "text": "Print the source code and look at it from a distance to see if it looks organized."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q035",
+      "text": "Apply the \"Preventive Maintenance\" strategy to GlobalMart's \"Session Management\" system.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fix a bug that was logging users out randomly."
+        },
+        {
+          "id": "B",
+          "text": "Update the system to use a more secure encryption algorithm before any hack occurs."
+        },
+        {
+          "id": "C",
+          "text": "Add a new feature that shows the user's profile picture during the session."
+        },
+        {
+          "id": "D",
+          "text": "Move the session management to a new server because the old one is dusty."
+        },
+        {
+          "id": "E",
+          "text": "Delete the sessions after 5 minutes to save memory on the server."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q036",
+      "text": "Demonstrate how \"SCM Version Control\" prevents \"Lost Updates\" in GlobalMart’s collaborative environment.",
+      "options": [
+        {
+          "id": "A",
+          "text": "By only allowing one person to work on the entire project at a time."
+        },
+        {
+          "id": "B",
+          "text": "By merging changes and alerting developers if they try to overwrite a newer version of a file."
+        },
+        {
+          "id": "C",
+          "text": "By making the source code \"read-only\" for everyone except the lead developer."
+        },
+        {
+          "id": "D",
+          "text": "By saving a new copy of every file with the developer's name at the end."
+        },
+        {
+          "id": "E",
+          "text": "By requiring developers to write their code on paper before typing it into the computer."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q037",
+      "text": "GlobalMart's \"Inventory Component\" has \"Strong Coupling\" with the \"Pricing Component.\" Illustrate how to fix this for better maintainability.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merge both components into one giant \"InventoryAndPricing\" component."
+        },
+        {
+          "id": "B",
+          "text": "Introduce an event-based system or an interface so they communicate without knowing each other's internal details."
+        },
+        {
+          "id": "C",
+          "text": "Delete the pricing component and let the inventory component handle prices."
+        },
+        {
+          "id": "D",
+          "text": "Make the pricing component a sub-folder of the inventory component."
+        },
+        {
+          "id": "E",
+          "text": "Require the inventory component to use the same database tables as the pricing component."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q038",
+      "text": "Apply \"IEEE 1219\" to GlobalMart’s maintenance process. What should follow the \"Implementation\" phase?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The \"Retirement\" phase."
+        },
+        {
+          "id": "B",
+          "text": "The \"Review and Acceptance\" phase, including testing and user approval."
+        },
+        {
+          "id": "C",
+          "text": "The \"Initial Development\" phase."
+        },
+        {
+          "id": "D",
+          "text": "The \"Marketing and Sales\" phase."
+        },
+        {
+          "id": "E",
+          "text": "The \"Developer Vacation\" phase."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q039",
+      "text": "Show how \"Impact Analysis\" would be used if GlobalMart decides to change the \"Customer ID\" from an integer to a string.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Change it in the database and see which programs stop working the next day."
+        },
+        {
+          "id": "B",
+          "text": "Search the entire codebase and database schemas to find all references to \"CustomerID\" and assess the work needed."
+        },
+        {
+          "id": "C",
+          "text": "Only change it in the UI and leave the database as an integer."
+        },
+        {
+          "id": "D",
+          "text": "Tell the customers that their IDs have changed and they need to sign up again."
+        },
+        {
+          "id": "E",
+          "text": "Ask the database administrator to change the ID type while the system is running."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q040",
+      "text": "Implement \"Configuration Control\" for GlobalMart’s \"Production Environment\" settings.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Allow any IT staff member to change the server settings whenever they want."
+        },
+        {
+          "id": "B",
+          "text": "Use a \"Configuration Management\" tool to track and approve all changes to environment variables."
+        },
+        {
+          "id": "C",
+          "text": "Write the settings on a sticky note and put it on the side of the server."
+        },
+        {
+          "id": "D",
+          "text": "Hard-code the production settings into the application's source code."
+        },
+        {
+          "id": "E",
+          "text": "Use the same settings for \"Testing\" and \"Production\" to avoid any confusion."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q041",
+      "text": "GlobalMart is moving to the \"Evolution Stage\" for its new \"Grocery Delivery\" app. Use the staged model to predict the team's main activity.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fixing 1,000 bugs that were found in the first week."
+        },
+        {
+          "id": "B",
+          "text": "Adding new features like \"Real-time Tracking\" and \"Subscription Models\" based on user feedback."
+        },
+        {
+          "id": "C",
+          "text": "Planning the retirement of the app because grocery delivery is no longer popular."
+        },
+        {
+          "id": "D",
+          "text": "Rewriting the app in a different language to make it faster."
+        },
+        {
+          "id": "E",
+          "text": "Deleting the app's documentation to make it easier to change."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q042",
+      "text": "Apply the \"Encapsulation\" principle to GlobalMart's \"Credit Card Processing\" module.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ensure that the module exposes the raw encryption keys to the checkout module."
+        },
+        {
+          "id": "B",
+          "text": "Hide the encryption logic and only provide a \"ProcessPayment\" method that returns success or failure."
+        },
+        {
+          "id": "C",
+          "text": "Allow the \"Order History\" module to modify the credit card data directly in memory."
+        },
+        {
+          "id": "D",
+          "text": "Store the credit card numbers in a public global variable for easy access."
+        },
+        {
+          "id": "E",
+          "text": "Make the module's source code visible to every user who visits the website."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q043",
+      "text": "Demonstrate the benefit of \"Modular\" design when GlobalMart's \"Notification Component\" crashes.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The entire website goes down and no one can buy anything."
+        },
+        {
+          "id": "B",
+          "text": "Only the notifications stop working, while users can still browse and buy products."
+        },
+        {
+          "id": "C",
+          "text": "The website automatically switches to a backup notification system made by a different company."
+        },
+        {
+          "id": "D",
+          "text": "The website's background color changes to red to warn the users."
+        },
+        {
+          "id": "E",
+          "text": "The \"Inventory\" component also crashes because it is waiting for a notification."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q044",
+      "text": "GlobalMart wants to \"Modernize\" its legacy system without a \"Big Bang\" replacement. Apply the best strategy.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Replace the entire system on a single weekend and hope for the best."
+        },
+        {
+          "id": "B",
+          "text": "Use \"Incremental Re-engineering\" to replace one module at a time using \"Strangler Fig\" pattern."
+        },
+        {
+          "id": "C",
+          "text": "Stop all business for a year while the new system is being built."
+        },
+        {
+          "id": "D",
+          "text": "Ask the developers to work 24 hours a day until the new system is finished."
+        },
+        {
+          "id": "E",
+          "text": "Hire a new company to build a different system that has nothing to do with the old one."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q045",
+      "text": "Use \"Dynamic Analysis\" to solve a \"Memory Leak\" problem in GlobalMart’s \"Data Sync\" service.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Read the source code carefully to find where the memory is not being released."
+        },
+        {
+          "id": "B",
+          "text": "Run the service with a profiler tool to observe memory usage in real-time and identify the growing objects."
+        },
+        {
+          "id": "C",
+          "text": "Increase the server's virtual memory until the service stops crashing."
+        },
+        {
+          "id": "D",
+          "text": "Restart the service every hour to clear the leaked memory."
+        },
+        {
+          "id": "E",
+          "text": "Delete the parts of the code that use the most memory."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q046",
+      "text": "Apply the \"Reusability\" design property to GlobalMart’s \"Address Validation\" logic.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Write the address validation code separately for the web, mobile, and shipping modules."
+        },
+        {
+          "id": "B",
+          "text": "Create a single \"AddressService\" component that all other modules call via an API."
+        },
+        {
+          "id": "C",
+          "text": "Use a third-party address validator and pay for it every time it is called."
+        },
+        {
+          "id": "D",
+          "text": "Ask the users to validate their own addresses using a map."
+        },
+        {
+          "id": "E",
+          "text": "Only validate addresses for customers who spend more than $100."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q047",
+      "text": "GlobalMart’s \"Legacy Code\" is \"Difficult to Understand.\" Implement a \"Program Understanding\" strategy for a new developer.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tell the developer to read all 1 million lines of code in the first week."
+        },
+        {
+          "id": "B",
+          "text": "Provide the developer with visualization tools, call graphs, and high-level architectural diagrams."
+        },
+        {
+          "id": "C",
+          "text": "Ask the developer to rewrite the entire system because the old code is too hard."
+        },
+        {
+          "id": "D",
+          "text": "Give the developer a list of variable names and their meanings on a piece of paper."
+        },
+        {
+          "id": "E",
+          "text": "Tell the developer to just start changing things and see what happens."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q048",
+      "text": "Show how \"Loose Coupling\" would help GlobalMart if they decide to switch from \"Azure\" to \"AWS.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "They would have to rewrite every single line of code in the system."
+        },
+        {
+          "id": "B",
+          "text": "Only the \"Infrastructure Adaptation\" layer would need to change, leaving the business logic untouched."
+        },
+        {
+          "id": "C",
+          "text": "The system would automatically move itself to AWS because it is loosely coupled."
+        },
+        {
+          "id": "D",
+          "text": "They would need to hire a completely different team of developers."
+        },
+        {
+          "id": "E",
+          "text": "AWS would have to change its platform to match GlobalMart's code."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q049",
+      "text": "Apply \"SCM Baselines\" to GlobalMart's \"Sprint 5\" development cycle.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The baseline is the amount of coffee the developers drink during the sprint."
+        },
+        {
+          "id": "B",
+          "text": "The baseline is the approved state of the code at the end of Sprint 5, used as the start for Sprint 6."
+        },
+        {
+          "id": "C",
+          "text": "The baseline is the total number of hours worked by the team in Sprint 5."
+        },
+        {
+          "id": "D",
+          "text": "The baseline is the first bug found during the Sprint 5 testing phase."
+        },
+        {
+          "id": "E",
+          "text": "The baseline is the lowest temperature in the server room during the sprint."
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "sre-bank-set-05-q050",
+      "text": "Implement a \"Change Request\" process for an \"Urgent Security Patch\" at GlobalMart.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bypass all change control and apply the patch to production immediately."
+        },
+        {
+          "id": "B",
+          "text": "Use an \"Emergency Change\" procedure that allows for rapid approval followed by retrospective documentation."
+        },
+        {
+          "id": "C",
+          "text": "Wait for the next monthly Change Control Board meeting to discuss the patch."
+        },
+        {
+          "id": "D",
+          "text": "Tell the hackers that the system is being patched and they should stop."
+        },
+        {
+          "id": "E",
+          "text": "Turn off the entire system until the patch is approved by the CEO."
+        }
+      ],
+      "correctOptionId": "B"
+    }
+  ],
+  "createdAt": "2026-05-19T18:09:02.158Z",
+  "bundled": true,
+  "setIndex": 5,
+  "sourceFile": "SRE MCQs Bank (1).txt"
+}
