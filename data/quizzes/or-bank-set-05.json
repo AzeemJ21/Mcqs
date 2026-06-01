@@ -1,0 +1,1160 @@
+{
+  "id": "or-bank-set-05",
+  "title": "OR MCQs — Quiz 5 (50 questions)",
+  "questions": [
+    {
+      "id": "or-bank-set-05-q001",
+      "text": "Which statement is true for Integer Programming?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Feasible region consists of discrete points"
+        },
+        {
+          "id": "B",
+          "text": "Feasible region is always convex and continuous"
+        },
+        {
+          "id": "C",
+          "text": "All solutions are fractional"
+        },
+        {
+          "id": "D",
+          "text": "No need for integrality constraints"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q002",
+      "text": "The number of stages in DP usually corresponds to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of decisions or periods"
+        },
+        {
+          "id": "B",
+          "text": "Number of constraints"
+        },
+        {
+          "id": "C",
+          "text": "Number of variables"
+        },
+        {
+          "id": "D",
+          "text": "Number of basic feasible solutions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q003",
+      "text": "Branch and Bound is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Divide and Conquer approach for IP"
+        },
+        {
+          "id": "B",
+          "text": "Direct algebraic method"
+        },
+        {
+          "id": "C",
+          "text": "Graphical technique"
+        },
+        {
+          "id": "D",
+          "text": "Special case of simplex"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q004",
+      "text": "In 0/1 Knapsack DP, the state dp[i][w] represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maximum value using first i items with capacity w"
+        },
+        {
+          "id": "B",
+          "text": "Minimum cost"
+        },
+        {
+          "id": "C",
+          "text": "Number of items"
+        },
+        {
+          "id": "D",
+          "text": "Remaining capacity only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q005",
+      "text": "Binary Integer Programming (BIP) restricts decision variables to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 0 or 1"
+        },
+        {
+          "id": "B",
+          "text": "Any integer value"
+        },
+        {
+          "id": "C",
+          "text": "Continuous values"
+        },
+        {
+          "id": "D",
+          "text": "Positive real numbers only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q006",
+      "text": "In BIP, a variable xj = 1 usually represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selecting or activating an option (Yes)"
+        },
+        {
+          "id": "B",
+          "text": "Not selecting the option (No)"
+        },
+        {
+          "id": "C",
+          "text": "Fractional decision"
+        },
+        {
+          "id": "D",
+          "text": "Continuous quantity"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q007",
+      "text": "A classic example of BIP is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Knapsack problem (0/1)"
+        },
+        {
+          "id": "B",
+          "text": "Transportation problem"
+        },
+        {
+          "id": "C",
+          "text": "Graphical LP"
+        },
+        {
+          "id": "D",
+          "text": "Assignment problem only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q008",
+      "text": "Which of the following is a typical BIP application?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Project selection (capital budgeting)"
+        },
+        {
+          "id": "B",
+          "text": "Continuous production planning"
+        },
+        {
+          "id": "C",
+          "text": "Linear transportation"
+        },
+        {
+          "id": "D",
+          "text": "Sensitivity analysis"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q009",
+      "text": "In set covering problem, the objective is to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimize the number of sets to cover all elements"
+        },
+        {
+          "id": "B",
+          "text": "Maximize profit"
+        },
+        {
+          "id": "C",
+          "text": "Minimize cost without covering"
+        },
+        {
+          "id": "D",
+          "text": "Balance supply and demand"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q010",
+      "text": "Set partitioning problem requires:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Each element covered exactly once"
+        },
+        {
+          "id": "B",
+          "text": "Each element covered at least once"
+        },
+        {
+          "id": "C",
+          "text": "Elements can be uncovered"
+        },
+        {
+          "id": "D",
+          "text": "Overlapping allowed without restriction"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q011",
+      "text": "Set packing problem aims to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maximize number of non-overlapping sets"
+        },
+        {
+          "id": "B",
+          "text": "Minimize covering cost"
+        },
+        {
+          "id": "C",
+          "text": "Cover all elements"
+        },
+        {
+          "id": "D",
+          "text": "Partition exactly"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q012",
+      "text": "Facility location problem is often modeled as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Binary Integer Programming"
+        },
+        {
+          "id": "B",
+          "text": "Pure Linear Programming"
+        },
+        {
+          "id": "C",
+          "text": "Transportation problem"
+        },
+        {
+          "id": "D",
+          "text": "Dynamic Programming only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q013",
+      "text": "In BIP formulation, a constraint “at most k projects can be selected” is written using:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sum of binary variables ≤ k"
+        },
+        {
+          "id": "B",
+          "text": "Sum of binary variables ≥ k"
+        },
+        {
+          "id": "C",
+          "text": "Product of variables"
+        },
+        {
+          "id": "D",
+          "text": "Continuous variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q014",
+      "text": "Which constraint represents “exactly one machine must be chosen”?",
+      "options": [
+        {
+          "id": "A",
+          "text": "x1 + x2 + x3 = 1 (binary variables)"
+        },
+        {
+          "id": "B",
+          "text": "x1 + x2 + x3 ≤ 1"
+        },
+        {
+          "id": "C",
+          "text": "x1 + x2 + x3 ≥ 1"
+        },
+        {
+          "id": "D",
+          "text": "x1 × x2 × x3 = 1"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q015",
+      "text": "The logical constraint “if project A is selected then project B must also be selected” is modeled as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "xA ≤ xB"
+        },
+        {
+          "id": "B",
+          "text": "xA ≥ xB"
+        },
+        {
+          "id": "C",
+          "text": "xA + xB ≤ 1"
+        },
+        {
+          "id": "D",
+          "text": "xA - xB = 0"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q016",
+      "text": "“If project A is selected, project B cannot be selected” is expressed as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "xA + xB ≤ 1"
+        },
+        {
+          "id": "B",
+          "text": "xA ≤ xB"
+        },
+        {
+          "id": "C",
+          "text": "xA + xB = 1"
+        },
+        {
+          "id": "D",
+          "text": "xA × xB = 0"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q017",
+      "text": "BIP problems are generally:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harder to solve than LP due to integrality"
+        },
+        {
+          "id": "B",
+          "text": "Easier than LP"
+        },
+        {
+          "id": "C",
+          "text": "Same difficulty as transportation"
+        },
+        {
+          "id": "D",
+          "text": "Solvable only by graphical method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q018",
+      "text": "Branch and Bound is a standard method for solving:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integer and Binary Programming problems"
+        },
+        {
+          "id": "B",
+          "text": "Only transportation problems"
+        },
+        {
+          "id": "C",
+          "text": "Assignment problems"
+        },
+        {
+          "id": "D",
+          "text": "Sensitivity analysis"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q019",
+      "text": "In Branch and Bound for BIP, branching is done by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fixing a binary variable to 0 or 1"
+        },
+        {
+          "id": "B",
+          "text": "Changing objective coefficients"
+        },
+        {
+          "id": "C",
+          "text": "Adding slack variables"
+        },
+        {
+          "id": "D",
+          "text": "Performing row reduction"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q020",
+      "text": "The LP relaxation of a BIP problem provides:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A bound (upper for max, lower for min)"
+        },
+        {
+          "id": "B",
+          "text": "Exact optimal integer solution"
+        },
+        {
+          "id": "C",
+          "text": "Infeasible solution always"
+        },
+        {
+          "id": "D",
+          "text": "No useful information"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q021",
+      "text": "A node in Branch and Bound tree is fathomed when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Its bound is worse than the current incumbent solution"
+        },
+        {
+          "id": "B",
+          "text": "All variables are fractional"
+        },
+        {
+          "id": "C",
+          "text": "No constraints remain"
+        },
+        {
+          "id": "D",
+          "text": "LP is infeasible"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q022",
+      "text": "Branch and Cut method improves Branch and Bound by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adding cutting planes to cut off fractional solutions"
+        },
+        {
+          "id": "B",
+          "text": "Using only graphical method"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring integrality"
+        },
+        {
+          "id": "D",
+          "text": "Solving transportation subproblems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q023",
+      "text": "Cutting planes in IP are additional constraints that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminate fractional LP solutions while keeping all integer solutions"
+        },
+        {
+          "id": "B",
+          "text": "Increase the feasible region"
+        },
+        {
+          "id": "C",
+          "text": "Remove all integer points"
+        },
+        {
+          "id": "D",
+          "text": "Only add slack variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q024",
+      "text": "Gomory cutting plane is an example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cutting plane method for Integer Programming"
+        },
+        {
+          "id": "B",
+          "text": "Initial solution method"
+        },
+        {
+          "id": "C",
+          "text": "Transportation technique"
+        },
+        {
+          "id": "D",
+          "text": "Dynamic Programming stage"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q025",
+      "text": "Which statement is true for BIP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Feasible region consists of discrete 0-1 points"
+        },
+        {
+          "id": "B",
+          "text": "Feasible region is always convex and continuous"
+        },
+        {
+          "id": "C",
+          "text": "All solutions are fractional"
+        },
+        {
+          "id": "D",
+          "text": "No integrality gap exists"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q026",
+      "text": "In capital budgeting BIP model, the constraint represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Budget limitation (sum of costs × xj ≤ Budget)"
+        },
+        {
+          "id": "B",
+          "text": "Continuous investment"
+        },
+        {
+          "id": "C",
+          "text": "Transportation balance"
+        },
+        {
+          "id": "D",
+          "text": "Assignment restrictions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q027",
+      "text": "The integrality gap is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Difference between LP relaxation optimum and IP optimum"
+        },
+        {
+          "id": "B",
+          "text": "Number of integer variables"
+        },
+        {
+          "id": "C",
+          "text": "Shadow price difference"
+        },
+        {
+          "id": "D",
+          "text": "Number of branches"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q028",
+      "text": "BIP is widely used in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scheduling, routing, and resource allocation with yes/no decisions"
+        },
+        {
+          "id": "B",
+          "text": "Only continuous optimization"
+        },
+        {
+          "id": "C",
+          "text": "Graphical LP with 2 variables"
+        },
+        {
+          "id": "D",
+          "text": "Pure transportation problems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q029",
+      "text": "Which technique is used for solving large-scale BIP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Branch and Cut, heuristics, metaheuristics"
+        },
+        {
+          "id": "B",
+          "text": "Only simplex method"
+        },
+        {
+          "id": "C",
+          "text": "North-West Corner Rule"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q030",
+      "text": "In fixed charge problem, binary variable is used to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Model whether a facility is opened (fixed cost)"
+        },
+        {
+          "id": "B",
+          "text": "Represent continuous production quantity"
+        },
+        {
+          "id": "C",
+          "text": "Balance transportation"
+        },
+        {
+          "id": "D",
+          "text": "Perform sensitivity analysis"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q031",
+      "text": "A “either-or” constraint in BIP can be modeled using:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Big-M technique with binary variable"
+        },
+        {
+          "id": "B",
+          "text": "Only slack variables"
+        },
+        {
+          "id": "C",
+          "text": "Continuous variables"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian reduction"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q032",
+      "text": "Which of the following is an advanced BIP technique?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Branch-and-Cut"
+        },
+        {
+          "id": "B",
+          "text": "North-West Corner"
+        },
+        {
+          "id": "C",
+          "text": "MODI method"
+        },
+        {
+          "id": "D",
+          "text": "Vogel’s Approximation"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q033",
+      "text": "Solving BIP by complete enumeration is feasible only when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of binary variables is small (≤ 20-25)"
+        },
+        {
+          "id": "B",
+          "text": "Problem has many variables"
+        },
+        {
+          "id": "C",
+          "text": "It is a transportation problem"
+        },
+        {
+          "id": "D",
+          "text": "Only 2 constraints"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q034",
+      "text": "The incumbent solution in Branch and Bound is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The best integer solution found so far"
+        },
+        {
+          "id": "B",
+          "text": "LP relaxation solution"
+        },
+        {
+          "id": "C",
+          "text": "Initial basic solution"
+        },
+        {
+          "id": "D",
+          "text": "Shadow price vector"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q035",
+      "text": "In BIP formulation for machine scheduling, binary variable xij = 1 means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Job i is assigned to machine j"
+        },
+        {
+          "id": "B",
+          "text": "Continuous time allocation"
+        },
+        {
+          "id": "C",
+          "text": "Transportation from i to j"
+        },
+        {
+          "id": "D",
+          "text": "Fractional assignment"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q036",
+      "text": "Traveling Salesman Problem (TSP) is typically formulated as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Binary Integer Programming"
+        },
+        {
+          "id": "B",
+          "text": "Pure Linear Programming"
+        },
+        {
+          "id": "C",
+          "text": "Simple assignment without subtour elimination"
+        },
+        {
+          "id": "D",
+          "text": "Dynamic Programming only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q037",
+      "text": "Subtour elimination constraints are needed in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "TSP formulation using BIP"
+        },
+        {
+          "id": "B",
+          "text": "Assignment problem"
+        },
+        {
+          "id": "C",
+          "text": "Transportation problem"
+        },
+        {
+          "id": "D",
+          "text": "Simple knapsack"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q038",
+      "text": "Which method is most commonly implemented in modern solvers for BIP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Branch and Cut"
+        },
+        {
+          "id": "B",
+          "text": "Pure cutting plane"
+        },
+        {
+          "id": "C",
+          "text": "Complete enumeration"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian algorithm"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q039",
+      "text": "In BIP, the objective function is usually:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Linear combination of binary variables"
+        },
+        {
+          "id": "B",
+          "text": "Non-linear"
+        },
+        {
+          "id": "C",
+          "text": "Quadratic only"
+        },
+        {
+          "id": "D",
+          "text": "Fractional"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q040",
+      "text": "“Multiple choice” constraint in BIP means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exactly one option from a group is selected"
+        },
+        {
+          "id": "B",
+          "text": "At least one option"
+        },
+        {
+          "id": "C",
+          "text": "All options selected"
+        },
+        {
+          "id": "D",
+          "text": "No option selected"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q041",
+      "text": "Advanced BIP techniques include:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cutting planes, branch and price, Lagrangian relaxation"
+        },
+        {
+          "id": "B",
+          "text": "Only simplex iterations"
+        },
+        {
+          "id": "C",
+          "text": "Graphical methods"
+        },
+        {
+          "id": "D",
+          "text": "Transportation simplex"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q042",
+      "text": "Heuristics for BIP are used when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exact optimal solution is too time-consuming for large problems"
+        },
+        {
+          "id": "B",
+          "text": "Problem size is very small"
+        },
+        {
+          "id": "C",
+          "text": "Only LP relaxation needed"
+        },
+        {
+          "id": "D",
+          "text": "Problem is purely linear"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q043",
+      "text": "Which of the following is a real-world application of BIP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Airline crew scheduling"
+        },
+        {
+          "id": "B",
+          "text": "Continuous blending problem"
+        },
+        {
+          "id": "C",
+          "text": "Simple diet LP"
+        },
+        {
+          "id": "D",
+          "text": "Graphical production planning"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q044",
+      "text": "In location-allocation problems, binary variables represent:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Whether a facility is opened at a location"
+        },
+        {
+          "id": "B",
+          "text": "Quantity shipped"
+        },
+        {
+          "id": "C",
+          "text": "Continuous cost"
+        },
+        {
+          "id": "D",
+          "text": "Time periods"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q045",
+      "text": "The main challenge in solving BIP is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exponential number of possible solutions (2^n)"
+        },
+        {
+          "id": "B",
+          "text": "Linear constraints only"
+        },
+        {
+          "id": "C",
+          "text": "Continuous feasible region"
+        },
+        {
+          "id": "D",
+          "text": "No feasible solutions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q046",
+      "text": "Branch and Bound fathoming rules include:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bound test, integrality test, infeasibility test"
+        },
+        {
+          "id": "B",
+          "text": "Only row reduction"
+        },
+        {
+          "id": "C",
+          "text": "Zero covering"
+        },
+        {
+          "id": "D",
+          "text": "MODI optimality test"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q047",
+      "text": "Cutting planes are derived from:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fractional basic solutions in LP relaxation"
+        },
+        {
+          "id": "B",
+          "text": "Initial basic feasible solution"
+        },
+        {
+          "id": "C",
+          "text": "Dual variables only"
+        },
+        {
+          "id": "D",
+          "text": "Transportation tableau"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q048",
+      "text": "Which constraint ensures “at least k projects selected”?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sum xj ≥ k"
+        },
+        {
+          "id": "B",
+          "text": "Sum xj ≤ k"
+        },
+        {
+          "id": "C",
+          "text": "Sum xj = k"
+        },
+        {
+          "id": "D",
+          "text": "Product xj ≥ k"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q049",
+      "text": "BIP models are especially useful for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strategic yes/no decisions with resource limits"
+        },
+        {
+          "id": "B",
+          "text": "Only operational continuous decisions"
+        },
+        {
+          "id": "C",
+          "text": "Sensitivity analysis"
+        },
+        {
+          "id": "D",
+          "text": "Pure network flow"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-05-q050",
+      "text": "In project selection BIP, mutual exclusivity is modeled as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x1 + x2 ≤ 1"
+        },
+        {
+          "id": "B",
+          "text": "x1 + x2 = 1"
+        },
+        {
+          "id": "C",
+          "text": "x1 ≤ x2"
+        },
+        {
+          "id": "D",
+          "text": "x1 + x2 ≥ 1"
+        }
+      ],
+      "correctOptionId": "A"
+    }
+  ],
+  "createdAt": "2026-06-01T18:10:11.660Z",
+  "bundled": true,
+  "setIndex": 5,
+  "sourceFile": "MCQs Bank for OR.docx"
+}

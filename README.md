@@ -19,7 +19,7 @@ npm install
 npm run dev
 ```
 
-Then visit [http://localhost:3000](http://localhost:3000). The home page lists **6 ready-made SRE MCQ quizzes** (50 questions each, 300 total from `assets/SRE MCQs Bank (1).txt`). You can also upload your own file.
+Then visit [http://localhost:3000](http://localhost:3000). The home page lists **ready-made OR MCQ quizzes** (50 questions per set, from `assets/MCQs Bank for OR.docx`). You can also upload your own file.
 
 To rebuild bundled quizzes after editing the bank file:
 

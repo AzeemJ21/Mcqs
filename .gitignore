@@ -6,4 +6,6 @@ out
 *.log
 /tmp
 assets/extracted-raw.txt
+assets/or-extracted-raw.txt
+assets/~$*
 tsconfig.tsbuildinfo

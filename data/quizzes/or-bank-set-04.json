@@ -1,0 +1,1160 @@
+{
+  "id": "or-bank-set-04",
+  "title": "OR MCQs — Quiz 4 (50 questions)",
+  "questions": [
+    {
+      "id": "or-bank-set-04-q001",
+      "text": "Assignment problem can be solved using:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hungarian method or as special LP"
+        },
+        {
+          "id": "B",
+          "text": "Only graphical method"
+        },
+        {
+          "id": "C",
+          "text": "Vogel’s Approximation only"
+        },
+        {
+          "id": "D",
+          "text": "Big-M method only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q002",
+      "text": "Dynamic Programming is suitable for problems with:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Overlapping subproblems and optimal substructure"
+        },
+        {
+          "id": "B",
+          "text": "Only linear constraints"
+        },
+        {
+          "id": "C",
+          "text": "Single stage decisions"
+        },
+        {
+          "id": "D",
+          "text": "No recursive nature"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q003",
+      "text": "The basic principle of Dynamic Programming is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bellman’s Principle of Optimality"
+        },
+        {
+          "id": "B",
+          "text": "Duality Principle"
+        },
+        {
+          "id": "C",
+          "text": "Simplex Principle"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian Principle"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q004",
+      "text": "In Dynamic Programming, we solve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subproblems and store their results"
+        },
+        {
+          "id": "B",
+          "text": "The whole problem at once"
+        },
+        {
+          "id": "C",
+          "text": "Only forward recursion"
+        },
+        {
+          "id": "D",
+          "text": "Only backward recursion"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q005",
+      "text": "Stages in Dynamic Programming represent:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sequential decision points"
+        },
+        {
+          "id": "B",
+          "text": "Number of constraints"
+        },
+        {
+          "id": "C",
+          "text": "Number of variables"
+        },
+        {
+          "id": "D",
+          "text": "Objective coefficients"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q006",
+      "text": "Which of the following is an application of Dynamic Programming?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shortest path problem (Floyd-Warshall)"
+        },
+        {
+          "id": "B",
+          "text": "Transportation problem"
+        },
+        {
+          "id": "C",
+          "text": "Assignment problem"
+        },
+        {
+          "id": "D",
+          "text": "Graphical LP solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q007",
+      "text": "Forward recursion in DP starts from:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Initial stage to final stage"
+        },
+        {
+          "id": "B",
+          "text": "Final stage to initial stage"
+        },
+        {
+          "id": "C",
+          "text": "Middle stage"
+        },
+        {
+          "id": "D",
+          "text": "Any random stage"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q008",
+      "text": "Backward recursion in DP starts from:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Final stage to initial stage"
+        },
+        {
+          "id": "B",
+          "text": "Initial stage to final stage"
+        },
+        {
+          "id": "C",
+          "text": "Only stage 1"
+        },
+        {
+          "id": "D",
+          "text": "Only last stage"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q009",
+      "text": "Memoization in Dynamic Programming is used to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Store results of subproblems to avoid recomputation"
+        },
+        {
+          "id": "B",
+          "text": "Draw graphs"
+        },
+        {
+          "id": "C",
+          "text": "Solve transportation problems"
+        },
+        {
+          "id": "D",
+          "text": "Perform sensitivity analysis"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q010",
+      "text": "Knapsack problem is typically solved using:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dynamic Programming"
+        },
+        {
+          "id": "B",
+          "text": "Hungarian method"
+        },
+        {
+          "id": "C",
+          "text": "MODI method"
+        },
+        {
+          "id": "D",
+          "text": "Big-M method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q011",
+      "text": "0/1 Knapsack problem requires:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Items cannot be fractionated"
+        },
+        {
+          "id": "B",
+          "text": "Items can be fractionated"
+        },
+        {
+          "id": "C",
+          "text": "Unlimited supply of each item"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear objective"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q012",
+      "text": "The recursive relation in 0/1 Knapsack is based on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Choosing or not choosing the current item"
+        },
+        {
+          "id": "B",
+          "text": "Only choosing the item"
+        },
+        {
+          "id": "C",
+          "text": "Only skipping the item"
+        },
+        {
+          "id": "D",
+          "text": "Fractional selection"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q013",
+      "text": "Dynamic Programming is most efficient when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of subproblems is not too large"
+        },
+        {
+          "id": "B",
+          "text": "Problem has no overlapping subproblems"
+        },
+        {
+          "id": "C",
+          "text": "Problem is non-recursive"
+        },
+        {
+          "id": "D",
+          "text": "Only one feasible solution exists"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q014",
+      "text": "Which of the following is a characteristic of DP problems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal substructure"
+        },
+        {
+          "id": "B",
+          "text": "Greedy choice property only"
+        },
+        {
+          "id": "C",
+          "text": "Non-overlapping subproblems"
+        },
+        {
+          "id": "D",
+          "text": "Single decision stage"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q015",
+      "text": "Deterministic Dynamic Programming assumes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "All parameters are known with certainty"
+        },
+        {
+          "id": "B",
+          "text": "Parameters have probabilities"
+        },
+        {
+          "id": "C",
+          "text": "Random outcomes"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear relationships"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q016",
+      "text": "Integer Programming problems require:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Some or all variables to be integers"
+        },
+        {
+          "id": "B",
+          "text": "All variables continuous"
+        },
+        {
+          "id": "C",
+          "text": "Only binary variables"
+        },
+        {
+          "id": "D",
+          "text": "Non-negative variables only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q017",
+      "text": "The main difference between LP and IP is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "IP requires integer values for variables"
+        },
+        {
+          "id": "B",
+          "text": "LP has more constraints"
+        },
+        {
+          "id": "C",
+          "text": "IP is always maximization"
+        },
+        {
+          "id": "D",
+          "text": "LP cannot have feasible region"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q018",
+      "text": "Branch and Bound method is used for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solving Integer Programming problems"
+        },
+        {
+          "id": "B",
+          "text": "Transportation problems"
+        },
+        {
+          "id": "C",
+          "text": "Assignment problems only"
+        },
+        {
+          "id": "D",
+          "text": "Sensitivity analysis"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q019",
+      "text": "In Binary Integer Programming (BIP), variables can only take:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0 or 1 values"
+        },
+        {
+          "id": "B",
+          "text": "Any integer value"
+        },
+        {
+          "id": "C",
+          "text": "Positive values only"
+        },
+        {
+          "id": "D",
+          "text": "Fractional values"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q020",
+      "text": "Which of the following is a classic example of Integer Programming?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Capital budgeting problem"
+        },
+        {
+          "id": "B",
+          "text": "Graphical LP solution"
+        },
+        {
+          "id": "C",
+          "text": "Transportation problem"
+        },
+        {
+          "id": "D",
+          "text": "Simple assignment"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q021",
+      "text": "Rounding off LP solution to nearest integer:",
+      "options": [
+        {
+          "id": "A",
+          "text": "May not give optimal IP solution"
+        },
+        {
+          "id": "B",
+          "text": "Always gives optimal IP solution"
+        },
+        {
+          "id": "C",
+          "text": "Is the best method for IP"
+        },
+        {
+          "id": "D",
+          "text": "Works only for maximization"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q022",
+      "text": "Cutting plane method is used in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integer Programming"
+        },
+        {
+          "id": "B",
+          "text": "Transportation problems"
+        },
+        {
+          "id": "C",
+          "text": "Dynamic Programming"
+        },
+        {
+          "id": "D",
+          "text": "Assignment problems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q023",
+      "text": "In Branch and Bound, “branching” means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dividing the problem into subproblems by fixing a variable"
+        },
+        {
+          "id": "B",
+          "text": "Solving LP relaxation"
+        },
+        {
+          "id": "C",
+          "text": "Adding slack variables"
+        },
+        {
+          "id": "D",
+          "text": "Performing sensitivity analysis"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q024",
+      "text": "The “bound” in Branch and Bound refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Upper or lower bound on objective value to prune branches"
+        },
+        {
+          "id": "B",
+          "text": "Number of constraints"
+        },
+        {
+          "id": "C",
+          "text": "Number of variables"
+        },
+        {
+          "id": "D",
+          "text": "Shadow price"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q025",
+      "text": "If the LP relaxation solution is integer, then:",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is optimal for the IP problem"
+        },
+        {
+          "id": "B",
+          "text": "We still need to branch"
+        },
+        {
+          "id": "C",
+          "text": "Problem is infeasible"
+        },
+        {
+          "id": "D",
+          "text": "No solution exists"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q026",
+      "text": "Which technique is commonly used for solving BIP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Branch and Cut"
+        },
+        {
+          "id": "B",
+          "text": "Hungarian method"
+        },
+        {
+          "id": "C",
+          "text": "MODI method"
+        },
+        {
+          "id": "D",
+          "text": "North-West Corner"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q027",
+      "text": "Knapsack problem can also be formulated as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integer Programming problem"
+        },
+        {
+          "id": "B",
+          "text": "Pure transportation problem"
+        },
+        {
+          "id": "C",
+          "text": "Assignment problem"
+        },
+        {
+          "id": "D",
+          "text": "Only LP problem"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q028",
+      "text": "In Integer Programming, integrality constraints make the problem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Much harder to solve than LP"
+        },
+        {
+          "id": "B",
+          "text": "Easier than LP"
+        },
+        {
+          "id": "C",
+          "text": "Same difficulty as LP"
+        },
+        {
+          "id": "D",
+          "text": "Solvable only graphically"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q029",
+      "text": "Set covering, set packing, and set partitioning are examples of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Binary Integer Programming models"
+        },
+        {
+          "id": "B",
+          "text": "Transportation models"
+        },
+        {
+          "id": "C",
+          "text": "Dynamic Programming only"
+        },
+        {
+          "id": "D",
+          "text": "Graphical LP"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q030",
+      "text": "The main purpose of Integer Programming is to model:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes/No or indivisible decisions"
+        },
+        {
+          "id": "B",
+          "text": "Continuous resource allocation"
+        },
+        {
+          "id": "C",
+          "text": "Only fractional decisions"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear relationships"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q031",
+      "text": "Which of the following cannot be directly solved by standard LP solvers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integer Programming problems"
+        },
+        {
+          "id": "B",
+          "text": "Linear Programming problems"
+        },
+        {
+          "id": "C",
+          "text": "Transportation problems"
+        },
+        {
+          "id": "D",
+          "text": "Assignment problems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q032",
+      "text": "In Branch and Bound tree, a node is fathomed (pruned) when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Its bound is worse than current best solution"
+        },
+        {
+          "id": "B",
+          "text": "LP relaxation is fractional"
+        },
+        {
+          "id": "C",
+          "text": "All variables are integer"
+        },
+        {
+          "id": "D",
+          "text": "No constraints left"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q033",
+      "text": "Dynamic Programming is particularly useful for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Multi-stage decision problems"
+        },
+        {
+          "id": "B",
+          "text": "Single stage problems"
+        },
+        {
+          "id": "C",
+          "text": "Problems with no recursion"
+        },
+        {
+          "id": "D",
+          "text": "Only linear objective functions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q034",
+      "text": "The Hungarian method is also known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuhn-Munkres algorithm"
+        },
+        {
+          "id": "B",
+          "text": "Bellman-Ford algorithm"
+        },
+        {
+          "id": "C",
+          "text": "Dijkstra’s algorithm"
+        },
+        {
+          "id": "D",
+          "text": "Simplex algorithm"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q035",
+      "text": "Which problem is best solved by Dynamic Programming among these?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Longest Common Subsequence"
+        },
+        {
+          "id": "B",
+          "text": "Assignment problem"
+        },
+        {
+          "id": "C",
+          "text": "Transportation problem"
+        },
+        {
+          "id": "D",
+          "text": "Simple LP with 2 variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q036",
+      "text": "In assignment problem, if cost is replaced by time, the objective becomes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimize total time"
+        },
+        {
+          "id": "B",
+          "text": "Maximize total time"
+        },
+        {
+          "id": "C",
+          "text": "Minimize number of persons"
+        },
+        {
+          "id": "D",
+          "text": "Balance workload"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q037",
+      "text": "0/1 Knapsack is an example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Binary Integer Programming and Dynamic Programming"
+        },
+        {
+          "id": "B",
+          "text": "Only transportation problem"
+        },
+        {
+          "id": "C",
+          "text": "Pure LP problem"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear programming"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q038",
+      "text": "Branch and Cut combines:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Branch and Bound with cutting planes"
+        },
+        {
+          "id": "B",
+          "text": "Simplex with transportation"
+        },
+        {
+          "id": "C",
+          "text": "Hungarian with DP"
+        },
+        {
+          "id": "D",
+          "text": "MODI with Big-M"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q039",
+      "text": "In Dynamic Programming, the curse of dimensionality refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rapid increase in states with more variables"
+        },
+        {
+          "id": "B",
+          "text": "Too few subproblems"
+        },
+        {
+          "id": "C",
+          "text": "Linear increase in time"
+        },
+        {
+          "id": "D",
+          "text": "No storage requirement"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q040",
+      "text": "Which of the following is solved efficiently by Hungarian method?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One-to-one assignment"
+        },
+        {
+          "id": "B",
+          "text": "Many-to-many allocation"
+        },
+        {
+          "id": "C",
+          "text": "Multi-period decisions"
+        },
+        {
+          "id": "D",
+          "text": "Integer knapsack"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q041",
+      "text": "Integer Programming is widely used in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scheduling, routing, and location problems"
+        },
+        {
+          "id": "B",
+          "text": "Only graphical solutions"
+        },
+        {
+          "id": "C",
+          "text": "Continuous production planning"
+        },
+        {
+          "id": "D",
+          "text": "Sensitivity analysis only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q042",
+      "text": "The solution of LP relaxation in IP provides:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Upper bound (for maximization) or lower bound (for minimization)"
+        },
+        {
+          "id": "B",
+          "text": "Exact integer solution"
+        },
+        {
+          "id": "C",
+          "text": "Infeasible solution"
+        },
+        {
+          "id": "D",
+          "text": "No bound information"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q043",
+      "text": "Which method is enumeration-based for small IP problems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Complete enumeration"
+        },
+        {
+          "id": "B",
+          "text": "Hungarian method"
+        },
+        {
+          "id": "C",
+          "text": "MODI method"
+        },
+        {
+          "id": "D",
+          "text": "North-West Corner"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q044",
+      "text": "In Dynamic Programming table (tabular method), we fill:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal values for all subproblems"
+        },
+        {
+          "id": "B",
+          "text": "Only final answer"
+        },
+        {
+          "id": "C",
+          "text": "Only constraints"
+        },
+        {
+          "id": "D",
+          "text": "Only objective coefficients"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q045",
+      "text": "Assignment problem belongs to the class of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Special Linear Programming problems"
+        },
+        {
+          "id": "B",
+          "text": "Non-linear problems"
+        },
+        {
+          "id": "C",
+          "text": "Pure Dynamic Programming"
+        },
+        {
+          "id": "D",
+          "text": "Only Integer Programming"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q046",
+      "text": "If a problem has optimal substructure and overlapping subproblems, it is best solved by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dynamic Programming"
+        },
+        {
+          "id": "B",
+          "text": "Greedy method"
+        },
+        {
+          "id": "C",
+          "text": "Simplex method"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q047",
+      "text": "Cutting plane algorithms add constraints to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eliminate fractional solutions in IP"
+        },
+        {
+          "id": "B",
+          "text": "Solve transportation problems"
+        },
+        {
+          "id": "C",
+          "text": "Perform sensitivity analysis"
+        },
+        {
+          "id": "D",
+          "text": "Draw feasible region"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q048",
+      "text": "The traveling salesman problem (TSP) is an example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integer Programming problem"
+        },
+        {
+          "id": "B",
+          "text": "Simple assignment problem"
+        },
+        {
+          "id": "C",
+          "text": "Pure transportation problem"
+        },
+        {
+          "id": "D",
+          "text": "Linear Programming only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q049",
+      "text": "In Hungarian method, after optimal matrix is obtained, assignment is made by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selecting independent zeros (one per row and column)"
+        },
+        {
+          "id": "B",
+          "text": "Selecting all zeros"
+        },
+        {
+          "id": "C",
+          "text": "Selecting minimum cost cells"
+        },
+        {
+          "id": "D",
+          "text": "Random selection"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-04-q050",
+      "text": "Dynamic Programming can be used to solve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resource allocation over multiple periods"
+        },
+        {
+          "id": "B",
+          "text": "Single period assignment"
+        },
+        {
+          "id": "C",
+          "text": "Only balanced transportation"
+        },
+        {
+          "id": "D",
+          "text": "Graphical LP with 2 variables"
+        }
+      ],
+      "correctOptionId": "A"
+    }
+  ],
+  "createdAt": "2026-06-01T18:10:11.609Z",
+  "bundled": true,
+  "setIndex": 4,
+  "sourceFile": "MCQs Bank for OR.docx"
+}

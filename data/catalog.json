@@ -1,44 +1,50 @@
 {
-  "source": "SRE MCQs Bank",
-  "sourceFile": "SRE MCQs Bank (1).txt",
-  "totalQuestions": 300,
+  "source": "Operations Research (OR) MCQs Bank",
+  "sourceFile": "MCQs Bank for OR.docx",
+  "totalQuestions": 342,
   "chunkSize": 50,
   "quizzes": [
     {
-      "id": "sre-bank-set-01",
-      "title": "SRE MCQs — Quiz 1 (50 questions)",
+      "id": "or-bank-set-01",
+      "title": "OR MCQs — Quiz 1 (50 questions)",
       "questionCount": 50,
       "setIndex": 1
     },
     {
-      "id": "sre-bank-set-02",
-      "title": "SRE MCQs — Quiz 2 (50 questions)",
+      "id": "or-bank-set-02",
+      "title": "OR MCQs — Quiz 2 (50 questions)",
       "questionCount": 50,
       "setIndex": 2
     },
     {
-      "id": "sre-bank-set-03",
-      "title": "SRE MCQs — Quiz 3 (50 questions)",
+      "id": "or-bank-set-03",
+      "title": "OR MCQs — Quiz 3 (50 questions)",
       "questionCount": 50,
       "setIndex": 3
     },
     {
-      "id": "sre-bank-set-04",
-      "title": "SRE MCQs — Quiz 4 (50 questions)",
+      "id": "or-bank-set-04",
+      "title": "OR MCQs — Quiz 4 (50 questions)",
       "questionCount": 50,
       "setIndex": 4
     },
     {
-      "id": "sre-bank-set-05",
-      "title": "SRE MCQs — Quiz 5 (50 questions)",
+      "id": "or-bank-set-05",
+      "title": "OR MCQs — Quiz 5 (50 questions)",
       "questionCount": 50,
       "setIndex": 5
     },
     {
-      "id": "sre-bank-set-06",
-      "title": "SRE MCQs — Quiz 6 (50 questions)",
+      "id": "or-bank-set-06",
+      "title": "OR MCQs — Quiz 6 (50 questions)",
       "questionCount": 50,
       "setIndex": 6
+    },
+    {
+      "id": "or-bank-set-07",
+      "title": "OR MCQs — Quiz 7 (42 questions)",
+      "questionCount": 42,
+      "setIndex": 7
     }
   ]
 }

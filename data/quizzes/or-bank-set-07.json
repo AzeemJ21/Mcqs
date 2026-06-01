@@ -1,0 +1,976 @@
+{
+  "id": "or-bank-set-07",
+  "title": "OR MCQs — Quiz 7 (42 questions)",
+  "questions": [
+    {
+      "id": "or-bank-set-07-q001",
+      "text": "If cj – zj = 0 for a non-basic variable in optimal tableau, it indicates:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alternate optimal solutions"
+        },
+        {
+          "id": "B",
+          "text": "Infeasible solution"
+        },
+        {
+          "id": "C",
+          "text": "Unbounded solution"
+        },
+        {
+          "id": "D",
+          "text": "Unique optimal solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q002",
+      "text": "Dual of a minimization primal problem is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maximization problem"
+        },
+        {
+          "id": "B",
+          "text": "Another minimization problem"
+        },
+        {
+          "id": "C",
+          "text": "Same as primal"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear problem"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q003",
+      "text": "According to strong duality theorem, if both primal and dual are feasible then:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their optimal values are equal"
+        },
+        {
+          "id": "B",
+          "text": "Primal is better"
+        },
+        {
+          "id": "C",
+          "text": "Dual is better"
+        },
+        {
+          "id": "D",
+          "text": "No relation"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q004",
+      "text": "Shadow price is the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal value of the corresponding dual variable"
+        },
+        {
+          "id": "B",
+          "text": "Change in RHS"
+        },
+        {
+          "id": "C",
+          "text": "Objective coefficient"
+        },
+        {
+          "id": "D",
+          "text": "Reduced cost"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q005",
+      "text": "Complementary slackness condition states that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "If primal slack > 0 then dual variable = 0"
+        },
+        {
+          "id": "B",
+          "text": "Both slacks are always positive"
+        },
+        {
+          "id": "C",
+          "text": "Dual variable is always positive"
+        },
+        {
+          "id": "D",
+          "text": "Primal and dual are unrelated"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q006",
+      "text": "Sensitivity analysis studies the effect of changes in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Objective coefficients and RHS values"
+        },
+        {
+          "id": "B",
+          "text": "Only number of variables"
+        },
+        {
+          "id": "C",
+          "text": "Only graphical region"
+        },
+        {
+          "id": "D",
+          "text": "Only integer constraints"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q007",
+      "text": "The range over which shadow price remains constant is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Allowable range for RHS"
+        },
+        {
+          "id": "B",
+          "text": "Range of optimality for objective coefficient"
+        },
+        {
+          "id": "C",
+          "text": "Reduced cost range"
+        },
+        {
+          "id": "D",
+          "text": "Degeneracy range"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q008",
+      "text": "Dual Simplex method is applied when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "We have primal infeasibility but dual feasibility"
+        },
+        {
+          "id": "B",
+          "text": "We have optimal solution"
+        },
+        {
+          "id": "C",
+          "text": "Problem has two variables"
+        },
+        {
+          "id": "D",
+          "text": "Graphical method is possible"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q009",
+      "text": "In Big-M method, artificial variables are given coefficient:",
+      "options": [
+        {
+          "id": "A",
+          "text": "–M (in maximization) or +M (in minimization)"
+        },
+        {
+          "id": "B",
+          "text": "Zero"
+        },
+        {
+          "id": "C",
+          "text": "One"
+        },
+        {
+          "id": "D",
+          "text": "Positive small number"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q010",
+      "text": "Two-Phase method is preferred over Big-M because:",
+      "options": [
+        {
+          "id": "A",
+          "text": "It avoids numerical problems caused by large M"
+        },
+        {
+          "id": "B",
+          "text": "It is faster for graphical problems"
+        },
+        {
+          "id": "C",
+          "text": "It works only for transportation"
+        },
+        {
+          "id": "D",
+          "text": "It does not use artificial variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q011",
+      "text": "In transportation problem, a basic feasible solution has:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exactly m + n – 1 allocations"
+        },
+        {
+          "id": "B",
+          "text": "m × n allocations"
+        },
+        {
+          "id": "C",
+          "text": "m + n allocations"
+        },
+        {
+          "id": "D",
+          "text": "Any number of allocations"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q012",
+      "text": "MODI method is used to test:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimality of transportation solution"
+        },
+        {
+          "id": "B",
+          "text": "Initial basic feasible solution"
+        },
+        {
+          "id": "C",
+          "text": "Balancing of problem"
+        },
+        {
+          "id": "D",
+          "text": "Degeneracy only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q013",
+      "text": "In MODI method, opportunity cost Δij = cij – (ui + vj). If all Δij ≥ 0 in minimization:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solution is optimal"
+        },
+        {
+          "id": "B",
+          "text": "Solution can be improved"
+        },
+        {
+          "id": "C",
+          "text": "Problem is infeasible"
+        },
+        {
+          "id": "D",
+          "text": "Degeneracy exists"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q014",
+      "text": "Dummy source or destination is introduced to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Balance the transportation problem"
+        },
+        {
+          "id": "B",
+          "text": "Increase cost"
+        },
+        {
+          "id": "C",
+          "text": "Decrease supply"
+        },
+        {
+          "id": "D",
+          "text": "Make problem non-linear"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q015",
+      "text": "Assignment problem is a special case of transportation problem where:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supply and demand of each is 1"
+        },
+        {
+          "id": "B",
+          "text": "Costs are ignored"
+        },
+        {
+          "id": "C",
+          "text": "Multiple assignments allowed"
+        },
+        {
+          "id": "D",
+          "text": "Supply > demand"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q016",
+      "text": "Hungarian method is also called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kuhn-Munkres algorithm"
+        },
+        {
+          "id": "B",
+          "text": "Bellman algorithm"
+        },
+        {
+          "id": "C",
+          "text": "Dantzig algorithm"
+        },
+        {
+          "id": "D",
+          "text": "Vogel’s method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q017",
+      "text": "In Hungarian method, after row and column reduction, we try to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cover all zeros with minimum number of lines"
+        },
+        {
+          "id": "B",
+          "text": "Cover with maximum lines"
+        },
+        {
+          "id": "C",
+          "text": "Select all zeros"
+        },
+        {
+          "id": "D",
+          "text": "Ignore zeros"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q018",
+      "text": "Dynamic Programming is based on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bellman’s Principle of Optimality"
+        },
+        {
+          "id": "B",
+          "text": "Duality Principle"
+        },
+        {
+          "id": "C",
+          "text": "Simplex optimality condition"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian optimality"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q019",
+      "text": "The two important properties required for DP applicability are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal substructure and overlapping subproblems"
+        },
+        {
+          "id": "B",
+          "text": "Greedy choice and linearity"
+        },
+        {
+          "id": "C",
+          "text": "Integrality and non-negativity"
+        },
+        {
+          "id": "D",
+          "text": "Certainty and proportionality"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q020",
+      "text": "0/1 Knapsack problem is solved efficiently by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dynamic Programming"
+        },
+        {
+          "id": "B",
+          "text": "Hungarian method"
+        },
+        {
+          "id": "C",
+          "text": "MODI method"
+        },
+        {
+          "id": "D",
+          "text": "Graphical method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q021",
+      "text": "Integer Programming differs from LP in that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Some variables must take integer values"
+        },
+        {
+          "id": "B",
+          "text": "All variables are continuous"
+        },
+        {
+          "id": "C",
+          "text": "Objective is always non-linear"
+        },
+        {
+          "id": "D",
+          "text": "No constraints are used"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q022",
+      "text": "Branch and Bound method works by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Systematically dividing the problem and using bounds to prune"
+        },
+        {
+          "id": "B",
+          "text": "Only solving LP relaxation once"
+        },
+        {
+          "id": "C",
+          "text": "Using graphical approach"
+        },
+        {
+          "id": "D",
+          "text": "Performing row and column reduction"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q023",
+      "text": "In Binary Integer Programming, variables are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Restricted to 0 or 1"
+        },
+        {
+          "id": "B",
+          "text": "Any real number"
+        },
+        {
+          "id": "C",
+          "text": "Only positive integers"
+        },
+        {
+          "id": "D",
+          "text": "Continuous between 0 and 1"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q024",
+      "text": "The logical condition “x1 implies x2” (if x1 then x2) is modeled as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x1 ≤ x2"
+        },
+        {
+          "id": "B",
+          "text": "x1 + x2 ≤ 1"
+        },
+        {
+          "id": "C",
+          "text": "x1 + x2 ≥ 1"
+        },
+        {
+          "id": "D",
+          "text": "x1 = x2"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q025",
+      "text": "Branch-and-Cut method is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Branch and Bound combined with cutting planes"
+        },
+        {
+          "id": "B",
+          "text": "Only cutting plane method"
+        },
+        {
+          "id": "C",
+          "text": "Only transportation technique"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian extension"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q026",
+      "text": "A fixed charge problem in BIP uses binary variable to represent:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Whether to incur the fixed cost (open facility)"
+        },
+        {
+          "id": "B",
+          "text": "Quantity produced"
+        },
+        {
+          "id": "C",
+          "text": "Transportation cost"
+        },
+        {
+          "id": "D",
+          "text": "Shadow price"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q027",
+      "text": "In capital budgeting problem, binary variables represent:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Whether to undertake a project or not"
+        },
+        {
+          "id": "B",
+          "text": "Amount of money invested"
+        },
+        {
+          "id": "C",
+          "text": "Time period"
+        },
+        {
+          "id": "D",
+          "text": "Continuous profit"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q028",
+      "text": "The integrality gap is reduced by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adding strong valid inequalities (cutting planes)"
+        },
+        {
+          "id": "B",
+          "text": "Removing constraints"
+        },
+        {
+          "id": "C",
+          "text": "Relaxing all integer requirements"
+        },
+        {
+          "id": "D",
+          "text": "Using Big-M only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q029",
+      "text": "Which of the following is an application of Dynamic Programming?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shortest path in multistage graphs"
+        },
+        {
+          "id": "B",
+          "text": "Initial solution of transportation"
+        },
+        {
+          "id": "C",
+          "text": "Optimality test in assignment"
+        },
+        {
+          "id": "D",
+          "text": "Sensitivity analysis"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q030",
+      "text": "In review and revision phase of the course, students focus on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integrating different OR techniques for real problems"
+        },
+        {
+          "id": "B",
+          "text": "Only history of OR"
+        },
+        {
+          "id": "C",
+          "text": "Only graphical LP"
+        },
+        {
+          "id": "D",
+          "text": "Only Big-M method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q031",
+      "text": "The course software/tools recommended are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maple, C++, Matlab"
+        },
+        {
+          "id": "B",
+          "text": "Only MS Excel"
+        },
+        {
+          "id": "C",
+          "text": "Only TORA"
+        },
+        {
+          "id": "D",
+          "text": "Only LINGO"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q032",
+      "text": "A redundant constraint in LP:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Does not affect the feasible region"
+        },
+        {
+          "id": "B",
+          "text": "Makes the problem infeasible"
+        },
+        {
+          "id": "C",
+          "text": "Changes the optimal solution"
+        },
+        {
+          "id": "D",
+          "text": "Is always binding"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q033",
+      "text": "In Simplex tableau, zj row represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weighted sum of basic variables’ coefficients"
+        },
+        {
+          "id": "B",
+          "text": "Objective coefficients"
+        },
+        {
+          "id": "C",
+          "text": "RHS values"
+        },
+        {
+          "id": "D",
+          "text": "Reduced costs"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q034",
+      "text": "If a primal constraint is of type “=”, the corresponding dual variable is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unrestricted in sign"
+        },
+        {
+          "id": "B",
+          "text": "Non-negative only"
+        },
+        {
+          "id": "C",
+          "text": "Non-positive only"
+        },
+        {
+          "id": "D",
+          "text": "Must be zero"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q035",
+      "text": "Vogel’s Approximation Method gives:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Usually better initial solution than North-West Corner"
+        },
+        {
+          "id": "B",
+          "text": "Always optimal solution"
+        },
+        {
+          "id": "C",
+          "text": "Only final solution"
+        },
+        {
+          "id": "D",
+          "text": "Graphical representation"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q036",
+      "text": "In assignment problem, if the number of rows ≠ columns, we add:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dummy row or column with zero cost"
+        },
+        {
+          "id": "B",
+          "text": "Artificial variable"
+        },
+        {
+          "id": "C",
+          "text": "Big-M"
+        },
+        {
+          "id": "D",
+          "text": "Surplus variable"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q037",
+      "text": "The “curse of dimensionality” in Dynamic Programming refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rapid growth of states with increase in variables/stages"
+        },
+        {
+          "id": "B",
+          "text": "Too few subproblems"
+        },
+        {
+          "id": "C",
+          "text": "Linear time complexity"
+        },
+        {
+          "id": "D",
+          "text": "No storage needed"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q038",
+      "text": "In BIP, “at most two projects can be selected” is written as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x1 + x2 + x3 + … ≤ 2"
+        },
+        {
+          "id": "B",
+          "text": "x1 + x2 + x3 + … = 2"
+        },
+        {
+          "id": "C",
+          "text": "Sum xi ≥ 2"
+        },
+        {
+          "id": "D",
+          "text": "Product of xi ≤ 2"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q039",
+      "text": "Which method is used for post-optimality analysis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sensitivity Analysis"
+        },
+        {
+          "id": "B",
+          "text": "Big-M method"
+        },
+        {
+          "id": "C",
+          "text": "North-West Corner"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q040",
+      "text": "Traveling Salesman Problem requires additional constraints in BIP formulation to eliminate:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subtours"
+        },
+        {
+          "id": "B",
+          "text": "Degeneracy"
+        },
+        {
+          "id": "C",
+          "text": "Infeasibility"
+        },
+        {
+          "id": "D",
+          "text": "Unboundedness"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q041",
+      "text": "The main focus of the entire course is on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mathematical modeling and optimization for decision making"
+        },
+        {
+          "id": "B",
+          "text": "Only programming languages"
+        },
+        {
+          "id": "C",
+          "text": "Only theoretical mathematics"
+        },
+        {
+          "id": "D",
+          "text": "Hardware design"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-07-q042",
+      "text": "In the final project viva, students are expected to demonstrate:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Complete OR model development and solution"
+        },
+        {
+          "id": "B",
+          "text": "Only definitions"
+        },
+        {
+          "id": "C",
+          "text": "Only history"
+        },
+        {
+          "id": "D",
+          "text": "Only scope of OR"
+        }
+      ],
+      "correctOptionId": "A"
+    }
+  ],
+  "createdAt": "2026-06-01T18:10:11.754Z",
+  "bundled": true,
+  "setIndex": 7,
+  "sourceFile": "MCQs Bank for OR.docx"
+}

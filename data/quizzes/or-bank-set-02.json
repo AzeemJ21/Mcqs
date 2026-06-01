@@ -1,0 +1,1160 @@
+{
+  "id": "or-bank-set-02",
+  "title": "OR MCQs — Quiz 2 (50 questions)",
+  "questions": [
+    {
+      "id": "or-bank-set-02-q001",
+      "text": "Simplex method guarantees:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal solution in finite steps (if non-degenerate)"
+        },
+        {
+          "id": "B",
+          "text": "Only feasible solution"
+        },
+        {
+          "id": "C",
+          "text": "Only integer solution"
+        },
+        {
+          "id": "D",
+          "text": "Graphical solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q002",
+      "text": "Big-M method uses:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Large penalty M for artificial variables"
+        },
+        {
+          "id": "B",
+          "text": "Small M"
+        },
+        {
+          "id": "C",
+          "text": "No penalty"
+        },
+        {
+          "id": "D",
+          "text": "Dual variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q003",
+      "text": "Dual Simplex is useful when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Primal is infeasible but dual is feasible"
+        },
+        {
+          "id": "B",
+          "text": "Only maximization"
+        },
+        {
+          "id": "C",
+          "text": "Graphical problems"
+        },
+        {
+          "id": "D",
+          "text": "2 variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q004",
+      "text": "Number of basic variables =",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of constraints"
+        },
+        {
+          "id": "B",
+          "text": "Number of variables"
+        },
+        {
+          "id": "C",
+          "text": "Number of non-basic"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q005",
+      "text": "In final optimal tableau, shadow prices are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "cj–zj values of slack variables"
+        },
+        {
+          "id": "B",
+          "text": "RHS values"
+        },
+        {
+          "id": "C",
+          "text": "Objective coefficients"
+        },
+        {
+          "id": "D",
+          "text": "Pivot elements"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q006",
+      "text": "Dual of a maximization primal is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimization problem"
+        },
+        {
+          "id": "B",
+          "text": "Another maximization"
+        },
+        {
+          "id": "C",
+          "text": "Same as primal"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q007",
+      "text": "If primal has m constraints and n variables, dual has:",
+      "options": [
+        {
+          "id": "A",
+          "text": "n constraints and m variables"
+        },
+        {
+          "id": "B",
+          "text": "m constraints and n variables"
+        },
+        {
+          "id": "C",
+          "text": "Same number"
+        },
+        {
+          "id": "D",
+          "text": "1 constraint"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q008",
+      "text": "Strong Duality Theorem says:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal value of primal = optimal value of dual (if both feasible)"
+        },
+        {
+          "id": "B",
+          "text": "Primal is always better"
+        },
+        {
+          "id": "C",
+          "text": "Dual is always infeasible"
+        },
+        {
+          "id": "D",
+          "text": "No relationship"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q009",
+      "text": "Complementary Slackness means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "If slack > 0 in primal, corresponding dual variable = 0"
+        },
+        {
+          "id": "B",
+          "text": "Both have slack"
+        },
+        {
+          "id": "C",
+          "text": "No slack in either"
+        },
+        {
+          "id": "D",
+          "text": "Only primal has slack"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q010",
+      "text": "If primal is unbounded, then dual is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Infeasible"
+        },
+        {
+          "id": "B",
+          "text": "Also unbounded"
+        },
+        {
+          "id": "C",
+          "text": "Optimal"
+        },
+        {
+          "id": "D",
+          "text": "Degenerate"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q011",
+      "text": "Dual variable represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shadow price"
+        },
+        {
+          "id": "B",
+          "text": "Decision variable"
+        },
+        {
+          "id": "C",
+          "text": "Slack"
+        },
+        {
+          "id": "D",
+          "text": "Artificial variable"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q012",
+      "text": "Writing dual helps when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of constraints >> number of variables"
+        },
+        {
+          "id": "B",
+          "text": "2 variables"
+        },
+        {
+          "id": "C",
+          "text": "Graphical solution needed"
+        },
+        {
+          "id": "D",
+          "text": "Integer problem"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q013",
+      "text": "If a primal constraint is = type, corresponding dual variable is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unrestricted in sign"
+        },
+        {
+          "id": "B",
+          "text": "≥ 0"
+        },
+        {
+          "id": "C",
+          "text": "≤ 0"
+        },
+        {
+          "id": "D",
+          "text": "Must be zero"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q014",
+      "text": "Optimal dual solution gives:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shadow prices for primal constraints"
+        },
+        {
+          "id": "B",
+          "text": "Only objective value"
+        },
+        {
+          "id": "C",
+          "text": "Primal variables"
+        },
+        {
+          "id": "D",
+          "text": "Nothing useful"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q015",
+      "text": "Weak Duality says:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Primal objective ≤ Dual objective (max primal, min dual)"
+        },
+        {
+          "id": "B",
+          "text": "Always equal"
+        },
+        {
+          "id": "C",
+          "text": "Primal always better"
+        },
+        {
+          "id": "D",
+          "text": "No relation"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q016",
+      "text": "In dual, objective coefficients come from:",
+      "options": [
+        {
+          "id": "A",
+          "text": "RHS of primal"
+        },
+        {
+          "id": "B",
+          "text": "Objective of primal"
+        },
+        {
+          "id": "C",
+          "text": "Constraint coefficients"
+        },
+        {
+          "id": "D",
+          "text": "Slack variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q017",
+      "text": "If both primal and dual are feasible, then:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both have optimal solutions with equal value"
+        },
+        {
+          "id": "B",
+          "text": "One is unbounded"
+        },
+        {
+          "id": "C",
+          "text": "Both infeasible"
+        },
+        {
+          "id": "D",
+          "text": "No solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q018",
+      "text": "Dual Simplex starts from:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dual feasible but primal infeasible basis"
+        },
+        {
+          "id": "B",
+          "text": "Optimal basis"
+        },
+        {
+          "id": "C",
+          "text": "Infeasible dual"
+        },
+        {
+          "id": "D",
+          "text": "Graphical point"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q019",
+      "text": "Economic interpretation of dual is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resource valuation problem"
+        },
+        {
+          "id": "B",
+          "text": "Only cost minimization"
+        },
+        {
+          "id": "C",
+          "text": "Production planning"
+        },
+        {
+          "id": "D",
+          "text": "Assignment"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q020",
+      "text": "If a primal variable is zero at optimum, then corresponding dual constraint is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Satisfied with slack (inactive)"
+        },
+        {
+          "id": "B",
+          "text": "Tight"
+        },
+        {
+          "id": "C",
+          "text": "Infeasible"
+        },
+        {
+          "id": "D",
+          "text": "Unbounded"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q021",
+      "text": "Sensitivity analysis in Linear Programming is used to study:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Changes in optimal solution due to changes in coefficients"
+        },
+        {
+          "id": "B",
+          "text": "Graphical solution only"
+        },
+        {
+          "id": "C",
+          "text": "Integer programming"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear problems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q022",
+      "text": "Which parameter change is analyzed in sensitivity analysis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Objective function coefficients"
+        },
+        {
+          "id": "B",
+          "text": "Right Hand Side (RHS) values"
+        },
+        {
+          "id": "C",
+          "text": "Both A and B"
+        },
+        {
+          "id": "D",
+          "text": "Only constraint coefficients"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "or-bank-set-02-q023",
+      "text": "The range of optimality refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Range of objective coefficients where current solution remains optimal"
+        },
+        {
+          "id": "B",
+          "text": "Range where problem becomes infeasible"
+        },
+        {
+          "id": "C",
+          "text": "Range of RHS values"
+        },
+        {
+          "id": "D",
+          "text": "Range of shadow prices"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q024",
+      "text": "Shadow price is valid within:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Allowable increase and decrease in RHS"
+        },
+        {
+          "id": "B",
+          "text": "Only when RHS increases"
+        },
+        {
+          "id": "C",
+          "text": "Only graphical method"
+        },
+        {
+          "id": "D",
+          "text": "Integer solutions only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q025",
+      "text": "If shadow price of a constraint is zero, it means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The constraint is non-binding (redundant)"
+        },
+        {
+          "id": "B",
+          "text": "The constraint is binding"
+        },
+        {
+          "id": "C",
+          "text": "Problem is unbounded"
+        },
+        {
+          "id": "D",
+          "text": "Infeasible solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q026",
+      "text": "Reduced cost of a non-basic variable indicates:",
+      "options": [
+        {
+          "id": "A",
+          "text": "How much objective coefficient must improve to enter the basis"
+        },
+        {
+          "id": "B",
+          "text": "Shadow price"
+        },
+        {
+          "id": "C",
+          "text": "RHS value"
+        },
+        {
+          "id": "D",
+          "text": "Number of constraints"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q027",
+      "text": "Sensitivity analysis is most useful for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "What-if analysis and managerial decisions"
+        },
+        {
+          "id": "B",
+          "text": "Only solving the LP once"
+        },
+        {
+          "id": "C",
+          "text": "Integer programming"
+        },
+        {
+          "id": "D",
+          "text": "Transportation problems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q028",
+      "text": "In sensitivity report, allowable increase for objective coefficient means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "How much coefficient can increase without changing optimal solution"
+        },
+        {
+          "id": "B",
+          "text": "How much RHS can change"
+        },
+        {
+          "id": "C",
+          "text": "Shadow price value"
+        },
+        {
+          "id": "D",
+          "text": "Degeneracy level"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q029",
+      "text": "If RHS of a constraint increases by 1 unit and shadow price is 5, objective value will:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Improve by 5 units"
+        },
+        {
+          "id": "B",
+          "text": "Decrease by 5 units"
+        },
+        {
+          "id": "C",
+          "text": "Remain same"
+        },
+        {
+          "id": "D",
+          "text": "Become infeasible"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q030",
+      "text": "100% Rule in sensitivity analysis is used when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Multiple parameters change simultaneously"
+        },
+        {
+          "id": "B",
+          "text": "Only one parameter changes"
+        },
+        {
+          "id": "C",
+          "text": "Problem is infeasible"
+        },
+        {
+          "id": "D",
+          "text": "Using graphical method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q031",
+      "text": "Dual Simplex method is useful when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Primal solution is infeasible but dual is feasible"
+        },
+        {
+          "id": "B",
+          "text": "Only 2 variables"
+        },
+        {
+          "id": "C",
+          "text": "Graphical solution is needed"
+        },
+        {
+          "id": "D",
+          "text": "Maximization problem only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q032",
+      "text": "In Dual Simplex, the leaving variable is chosen by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Most negative RHS (basic variable)"
+        },
+        {
+          "id": "B",
+          "text": "Most positive cj-zj"
+        },
+        {
+          "id": "C",
+          "text": "Minimum ratio"
+        },
+        {
+          "id": "D",
+          "text": "Largest objective coefficient"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q033",
+      "text": "The entering variable in Dual Simplex is selected by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimum ratio of cj-zj to pivot column coefficients"
+        },
+        {
+          "id": "B",
+          "text": "Most negative cj-zj"
+        },
+        {
+          "id": "C",
+          "text": "Any negative RHS"
+        },
+        {
+          "id": "D",
+          "text": "Random selection"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q034",
+      "text": "Big-M method is used to handle:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Artificial variables with large penalty"
+        },
+        {
+          "id": "B",
+          "text": "Only slack variables"
+        },
+        {
+          "id": "C",
+          "text": "Surplus variables"
+        },
+        {
+          "id": "D",
+          "text": "Graphical problems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q035",
+      "text": "In Big-M method, the value of M should be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very large positive number"
+        },
+        {
+          "id": "B",
+          "text": "Very small number"
+        },
+        {
+          "id": "C",
+          "text": "Zero"
+        },
+        {
+          "id": "D",
+          "text": "Negative"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q036",
+      "text": "If in final Big-M tableau an artificial variable remains in basis with positive value:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The problem is infeasible"
+        },
+        {
+          "id": "B",
+          "text": "Optimal solution found"
+        },
+        {
+          "id": "C",
+          "text": "Unbounded solution"
+        },
+        {
+          "id": "D",
+          "text": "Alternate optimal solutions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q037",
+      "text": "Two-Phase method is an alternative to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Big-M method"
+        },
+        {
+          "id": "B",
+          "text": "Graphical method"
+        },
+        {
+          "id": "C",
+          "text": "Simplex method"
+        },
+        {
+          "id": "D",
+          "text": "Dual Simplex only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q038",
+      "text": "In Phase-I of Two-Phase method, the objective is to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimize the sum of artificial variables"
+        },
+        {
+          "id": "B",
+          "text": "Maximize profit"
+        },
+        {
+          "id": "C",
+          "text": "Minimize cost"
+        },
+        {
+          "id": "D",
+          "text": "Find shadow prices"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q039",
+      "text": "If Phase-I ends with artificial variables equal to zero:",
+      "options": [
+        {
+          "id": "A",
+          "text": "We proceed to Phase-II with original objective"
+        },
+        {
+          "id": "B",
+          "text": "Problem is infeasible"
+        },
+        {
+          "id": "C",
+          "text": "Solution is unbounded"
+        },
+        {
+          "id": "D",
+          "text": "No need for Phase-II"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q040",
+      "text": "Transportation problem is a special type of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Linear Programming problem"
+        },
+        {
+          "id": "B",
+          "text": "Integer Programming problem"
+        },
+        {
+          "id": "C",
+          "text": "Non-linear problem"
+        },
+        {
+          "id": "D",
+          "text": "Dynamic Programming problem"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q041",
+      "text": "The objective of a balanced transportation problem is to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimize total transportation cost"
+        },
+        {
+          "id": "B",
+          "text": "Maximize profit"
+        },
+        {
+          "id": "C",
+          "text": "Minimize number of shipments"
+        },
+        {
+          "id": "D",
+          "text": "Maximize supply"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q042",
+      "text": "In transportation problem, supply and demand must satisfy:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Total supply = Total demand (for balanced)"
+        },
+        {
+          "id": "B",
+          "text": "Total supply > Total demand always"
+        },
+        {
+          "id": "C",
+          "text": "Total supply < Total demand always"
+        },
+        {
+          "id": "D",
+          "text": "No relation required"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q043",
+      "text": "Number of basic variables in a feasible solution of m×n transportation problem is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "m + n - 1"
+        },
+        {
+          "id": "B",
+          "text": "m × n"
+        },
+        {
+          "id": "C",
+          "text": "m + n"
+        },
+        {
+          "id": "D",
+          "text": "m - n + 1"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q044",
+      "text": "North-West Corner Rule is used for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Finding initial basic feasible solution"
+        },
+        {
+          "id": "B",
+          "text": "Finding optimal solution"
+        },
+        {
+          "id": "C",
+          "text": "Calculating shadow prices"
+        },
+        {
+          "id": "D",
+          "text": "Sensitivity analysis"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q045",
+      "text": "Least Cost Method is also known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Matrix Minima Method"
+        },
+        {
+          "id": "B",
+          "text": "Vogel’s Approximation Method"
+        },
+        {
+          "id": "C",
+          "text": "North-West Corner"
+        },
+        {
+          "id": "D",
+          "text": "MODI Method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q046",
+      "text": "Vogel’s Approximation Method (VAM) considers:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Penalty (difference between smallest two costs)"
+        },
+        {
+          "id": "B",
+          "text": "Only lowest cost cell"
+        },
+        {
+          "id": "C",
+          "text": "North-West cell"
+        },
+        {
+          "id": "D",
+          "text": "Highest cost cell"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q047",
+      "text": "Stepping-Stone Method is used for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Finding optimal solution in transportation problem"
+        },
+        {
+          "id": "B",
+          "text": "Initial solution only"
+        },
+        {
+          "id": "C",
+          "text": "Balancing the problem"
+        },
+        {
+          "id": "D",
+          "text": "Sensitivity analysis"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q048",
+      "text": "MODI Method stands for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Modified Distribution Method"
+        },
+        {
+          "id": "B",
+          "text": "Matrix Optimal Distribution"
+        },
+        {
+          "id": "C",
+          "text": "Minimum Opportunity Distribution"
+        },
+        {
+          "id": "D",
+          "text": "Model Optimal Dual Index"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q049",
+      "text": "In MODI method, ui and vj are calculated such that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "For basic cells: ui + vj = cij"
+        },
+        {
+          "id": "B",
+          "text": "For all cells ui + vj = cij"
+        },
+        {
+          "id": "C",
+          "text": "ui - vj = cij"
+        },
+        {
+          "id": "D",
+          "text": "ui × vj = cij"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-02-q050",
+      "text": "If all opportunity costs (Δij = cij - (ui + vj)) are non-negative in minimization problem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Current solution is optimal"
+        },
+        {
+          "id": "B",
+          "text": "We need to improve the solution"
+        },
+        {
+          "id": "C",
+          "text": "Problem is unbounded"
+        },
+        {
+          "id": "D",
+          "text": "Infeasible solution"
+        }
+      ],
+      "correctOptionId": "A"
+    }
+  ],
+  "createdAt": "2026-06-01T18:10:11.469Z",
+  "bundled": true,
+  "setIndex": 2,
+  "sourceFile": "MCQs Bank for OR.docx"
+}

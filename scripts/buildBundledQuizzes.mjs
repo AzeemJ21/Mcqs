@@ -4,26 +4,29 @@
  */
 import { readFile, writeFile, mkdir, readdir, unlink } from "node:fs/promises";
 import { join } from "node:path";
+import mammoth from "mammoth";
 
 const ROOT = join(import.meta.dirname, "..");
-const SOURCE_FILE = "SRE MCQs Bank (1).txt";
+const SOURCE_FILE = "MCQs Bank for OR.docx";
 const SOURCE_PATH = join(ROOT, "assets", SOURCE_FILE);
 const OUT_DIR = join(ROOT, "data", "quizzes");
 const CATALOG_PATH = join(ROOT, "data", "catalog.json");
 const CHUNK_SIZE = 50;
-const QUIZ_ID_PREFIX = "sre-bank-set-";
+const QUIZ_ID_PREFIX = "or-bank-set-";
+const BANK_TITLE = "Operations Research (OR) MCQs Bank";
 
 const BLOCK_RE = /([\s\S]*?)\n\s*ANSWER:\s*([A-E])\s*(?:\n|$)/gi;
 const OPTION_LINE_RE = /^\s*([A-E])\s*[\.\):\-]\s+(.+)$/i;
 const SECTION_HEADER_RE =
-  /^-{2,}.*CLO\d.*-{2,}$|^\s*CLO\s*\d+\s*[-:]*\s*$/i;
+  /^-{2,}.*CLO\d.*-{2,}$|^\s*CLO\s*\d+\s*[-:]*\s*$|^\s*OR\s+Question\s+Bank\s*$/i;
 
 function isSectionHeader(text) {
   const t = text.trim();
   if (!t) return true;
   if (SECTION_HEADER_RE.test(t)) return true;
+  if (/^\s*(question\s+)?bank\s*$/i.test(t)) return true;
   if (t.length < 120 && !t.includes("?") && /^[A-Z0-9\s\-–—]+$/.test(t)) {
-    return /CLO\s*\d/i.test(t);
+    return /CLO\s*\d/i.test(t) || /question\s+bank/i.test(t);
   }
   return false;
 }
@@ -42,7 +45,7 @@ function assignSequentialIds(options) {
   }));
 }
 
-/** SRE-style: one line per option, single newlines between lines. */
+/** One line per option (TXT / compact format). */
 function parseBlockByLines(body, answerLetter) {
   const lines = body
     .split("\n")
@@ -71,7 +74,7 @@ function parseBlockByLines(body, answerLetter) {
   return finalizeQuestion(questionText, options, answerLetter);
 }
 
-/** CLO / exam DOCX style: blank-line-separated paragraphs. */
+/** Blank-line-separated paragraphs (DOCX export style). */
 function parseBlockByParagraphs(body, answerLetter) {
   const segments = body
     .split(/\n\s*\n/)
@@ -127,8 +130,8 @@ function finalizeQuestion(questionText, options, answerLetter) {
 
 function parseBlock(body, answerLetter) {
   return (
-    parseBlockByLines(body, answerLetter) ??
-    parseBlockByParagraphs(body, answerLetter)
+    parseBlockByParagraphs(body, answerLetter) ??
+    parseBlockByLines(body, answerLetter)
   );
 }
 
@@ -160,7 +163,16 @@ async function removeOldQuizzes() {
   }
 }
 
-const raw = await readFile(SOURCE_PATH, "utf-8");
+async function loadSourceText() {
+  if (SOURCE_FILE.toLowerCase().endsWith(".docx")) {
+    const buf = await readFile(SOURCE_PATH);
+    const { value } = await mammoth.extractRawText({ buffer: buf });
+    return value;
+  }
+  return readFile(SOURCE_PATH, "utf-8");
+}
+
+const raw = await loadSourceText();
 const parsed = parseQuestionBank(raw);
 
 console.log(`Parsed ${parsed.length} questions from ${SOURCE_FILE}`);
@@ -175,7 +187,7 @@ await removeOldQuizzes();
 
 const sets = chunk(parsed, CHUNK_SIZE);
 const catalog = {
-  source: "SRE MCQs Bank",
+  source: BANK_TITLE,
   sourceFile: SOURCE_FILE,
   totalQuestions: parsed.length,
   chunkSize: CHUNK_SIZE,
@@ -194,7 +206,7 @@ for (let i = 0; i < sets.length; i++) {
 
   const quiz = {
     id,
-    title: `SRE MCQs — Quiz ${i + 1} (${questions.length} questions)`,
+    title: `OR MCQs — Quiz ${i + 1} (${questions.length} questions)`,
     questions,
     createdAt: new Date().toISOString(),
     bundled: true,

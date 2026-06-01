@@ -77,7 +77,7 @@ export default function HomePage() {
           </h2>
           <ol className="mt-4 space-y-3 text-sm text-muted">
             {[
-              "Pick a ready-made SRE MCQs quiz from the question bank on this page.",
+              "Pick a ready-made OR MCQs quiz from the question bank on this page.",
               "Or upload your own DOCX, PDF, or TXT — we parse answers automatically.",
               "Answer one question at a time; see the correct answer after each Next.",
               "Review your score and retake any set to improve.",

@@ -16,7 +16,7 @@ export async function BundledQuizList() {
           <div className="flex items-center gap-2 text-primary">
             <BookOpen className="h-4 w-4" />
             <span className="text-xs font-semibold uppercase tracking-wider">
-              Software re-engineering MCQs
+              Operations Research (OR) MCQs
             </span>
           </div>
           <h2 className="mt-1 font-display text-2xl font-bold text-fg">

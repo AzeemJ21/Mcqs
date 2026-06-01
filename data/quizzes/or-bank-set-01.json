@@ -1,0 +1,1160 @@
+{
+  "id": "or-bank-set-01",
+  "title": "OR MCQs — Quiz 1 (50 questions)",
+  "questions": [
+    {
+      "id": "or-bank-set-01-q001",
+      "text": "What does OR stand for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Operational Research"
+        },
+        {
+          "id": "B",
+          "text": "Operations Research"
+        },
+        {
+          "id": "C",
+          "text": "Optimal Resources"
+        },
+        {
+          "id": "D",
+          "text": "Organized Research"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q002",
+      "text": "The main goal of Operations Research is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "To replace human decision-making"
+        },
+        {
+          "id": "B",
+          "text": "To provide scientific basis for decision-making"
+        },
+        {
+          "id": "C",
+          "text": "To increase costs"
+        },
+        {
+          "id": "D",
+          "text": "To avoid mathematical models"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q003",
+      "text": "OR is primarily used for problems involving:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unlimited resources"
+        },
+        {
+          "id": "B",
+          "text": "Limited resources"
+        },
+        {
+          "id": "C",
+          "text": "Only theoretical concepts"
+        },
+        {
+          "id": "D",
+          "text": "Artistic decisions"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q004",
+      "text": "Which of the following is NOT a characteristic of OR?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Interdisciplinary approach"
+        },
+        {
+          "id": "B",
+          "text": "Use of mathematical models"
+        },
+        {
+          "id": "C",
+          "text": "Focus on qualitative judgment only"
+        },
+        {
+          "id": "D",
+          "text": "Systematic approach"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "or-bank-set-01-q005",
+      "text": "OR was first developed during:",
+      "options": [
+        {
+          "id": "A",
+          "text": "World War I"
+        },
+        {
+          "id": "B",
+          "text": "World War II"
+        },
+        {
+          "id": "C",
+          "text": "1980s"
+        },
+        {
+          "id": "D",
+          "text": "2000s"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q006",
+      "text": "Applications of OR in Software Engineering mainly help in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Code writing"
+        },
+        {
+          "id": "B",
+          "text": "Project scheduling and resource allocation"
+        },
+        {
+          "id": "C",
+          "text": "UI design"
+        },
+        {
+          "id": "D",
+          "text": "Debugging"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q007",
+      "text": "A decision-making environment with known probabilities is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Certainty"
+        },
+        {
+          "id": "B",
+          "text": "Risk"
+        },
+        {
+          "id": "C",
+          "text": "Uncertainty"
+        },
+        {
+          "id": "D",
+          "text": "Chaos"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q008",
+      "text": "Which phase of OR involves “formulating the problem mathematically”?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Implementation"
+        },
+        {
+          "id": "B",
+          "text": "Model Construction"
+        },
+        {
+          "id": "C",
+          "text": "Validation"
+        },
+        {
+          "id": "D",
+          "text": "Solution Interpretation"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q009",
+      "text": "OR techniques are most useful when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Problems are very simple"
+        },
+        {
+          "id": "B",
+          "text": "Problems involve complex systems with constraints"
+        },
+        {
+          "id": "C",
+          "text": "Only one solution exists"
+        },
+        {
+          "id": "D",
+          "text": "No data is available"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q010",
+      "text": "The first OR team was formed in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "USA"
+        },
+        {
+          "id": "B",
+          "text": "UK (during WWII)"
+        },
+        {
+          "id": "C",
+          "text": "Japan"
+        },
+        {
+          "id": "D",
+          "text": "Germany"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q011",
+      "text": "Scope of OR includes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only military applications"
+        },
+        {
+          "id": "B",
+          "text": "Business, industry, and government"
+        },
+        {
+          "id": "C",
+          "text": "Only academic research"
+        },
+        {
+          "id": "D",
+          "text": "Only computer programming"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q012",
+      "text": "Which of the following is a Phase of OR methodology?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data Collection → Model Building → Solution → Implementation"
+        },
+        {
+          "id": "B",
+          "text": "Coding → Testing → Deployment"
+        },
+        {
+          "id": "C",
+          "text": "Planning → Execution → Control"
+        },
+        {
+          "id": "D",
+          "text": "Analysis → Design → Coding"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q013",
+      "text": "OR helps managers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Make better decisions"
+        },
+        {
+          "id": "B",
+          "text": "Avoid decisions"
+        },
+        {
+          "id": "C",
+          "text": "Increase paperwork"
+        },
+        {
+          "id": "D",
+          "text": "Reduce profit"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q014",
+      "text": "In which field is OR heavily used for network optimization?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Marketing"
+        },
+        {
+          "id": "B",
+          "text": "Computer Networks & IT"
+        },
+        {
+          "id": "C",
+          "text": "Fashion Design"
+        },
+        {
+          "id": "D",
+          "text": "Music"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q015",
+      "text": "The term “Operations Research” was coined by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "George Dantzig"
+        },
+        {
+          "id": "B",
+          "text": "A group of British scientists during WWII"
+        },
+        {
+          "id": "C",
+          "text": "Frederick Taylor"
+        },
+        {
+          "id": "D",
+          "text": "John von Neumann"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q016",
+      "text": "Linear Programming deals with:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Non-linear relationships"
+        },
+        {
+          "id": "B",
+          "text": "Linear objective function and constraints"
+        },
+        {
+          "id": "C",
+          "text": "Only integer variables"
+        },
+        {
+          "id": "D",
+          "text": "Random variables"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q017",
+      "text": "The objective of LP is to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maximize or minimize a linear function"
+        },
+        {
+          "id": "B",
+          "text": "Find any feasible solution"
+        },
+        {
+          "id": "C",
+          "text": "Only minimize cost"
+        },
+        {
+          "id": "D",
+          "text": "Only maximize profit"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q018",
+      "text": "Which of the following is a valid LP constraint?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2x + 3y ≤ 10"
+        },
+        {
+          "id": "B",
+          "text": "x² + y ≤ 5"
+        },
+        {
+          "id": "C",
+          "text": "xy ≥ 8"
+        },
+        {
+          "id": "D",
+          "text": "x + sin(y) = 10"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q019",
+      "text": "Decision variables in LP must be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Non-negative"
+        },
+        {
+          "id": "B",
+          "text": "Always positive"
+        },
+        {
+          "id": "C",
+          "text": "Always integers"
+        },
+        {
+          "id": "D",
+          "text": "Negative"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q020",
+      "text": "Graphical method is suitable when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of variables ≤ 2"
+        },
+        {
+          "id": "B",
+          "text": "Number of variables > 5"
+        },
+        {
+          "id": "C",
+          "text": "Problem is non-linear"
+        },
+        {
+          "id": "D",
+          "text": "Integer constraints exist"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q021",
+      "text": "In graphical LP solution, the optimal solution lies at:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Origin only"
+        },
+        {
+          "id": "B",
+          "text": "Intersection of two constraint lines (corner point)"
+        },
+        {
+          "id": "C",
+          "text": "Anywhere inside feasible region"
+        },
+        {
+          "id": "D",
+          "text": "Outside feasible region"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q022",
+      "text": "Feasible region in LP is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Area satisfying all constraints"
+        },
+        {
+          "id": "B",
+          "text": "Area outside constraints"
+        },
+        {
+          "id": "C",
+          "text": "A single point"
+        },
+        {
+          "id": "D",
+          "text": "Always unbounded"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q023",
+      "text": "If objective function is parallel to a constraint, we have:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unique optimal solution"
+        },
+        {
+          "id": "B",
+          "text": "Multiple optimal solutions"
+        },
+        {
+          "id": "C",
+          "text": "No feasible solution"
+        },
+        {
+          "id": "D",
+          "text": "Infeasible problem"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q024",
+      "text": "Slack variables are used to convert:",
+      "options": [
+        {
+          "id": "A",
+          "text": "≤ constraints to equations"
+        },
+        {
+          "id": "B",
+          "text": "≥ constraints to equations"
+        },
+        {
+          "id": "C",
+          "text": "= constraints"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear to linear"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q025",
+      "text": "A basic feasible solution corresponds to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A corner point of feasible region"
+        },
+        {
+          "id": "B",
+          "text": "Interior point"
+        },
+        {
+          "id": "C",
+          "text": "Any point"
+        },
+        {
+          "id": "D",
+          "text": "Infeasible point"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q026",
+      "text": "If a constraint is redundant, it:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Affects the feasible region"
+        },
+        {
+          "id": "B",
+          "text": "Does not change the feasible region"
+        },
+        {
+          "id": "C",
+          "text": "Makes problem unbounded"
+        },
+        {
+          "id": "D",
+          "text": "Creates infeasibility"
+        }
+      ],
+      "correctOptionId": "B"
+    },
+    {
+      "id": "or-bank-set-01-q027",
+      "text": "Standard form of LP requires:",
+      "options": [
+        {
+          "id": "A",
+          "text": "All constraints as equations"
+        },
+        {
+          "id": "B",
+          "text": "All constraints as inequalities"
+        },
+        {
+          "id": "C",
+          "text": "Only maximization"
+        },
+        {
+          "id": "D",
+          "text": "Only two variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q028",
+      "text": "Shadow price represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Change in objective per unit change in RHS"
+        },
+        {
+          "id": "B",
+          "text": "Cost of variables"
+        },
+        {
+          "id": "C",
+          "text": "Number of constraints"
+        },
+        {
+          "id": "D",
+          "text": "Number of variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q029",
+      "text": "Unbounded solution in graphical method means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Objective can be improved indefinitely"
+        },
+        {
+          "id": "B",
+          "text": "No feasible solution"
+        },
+        {
+          "id": "C",
+          "text": "Unique solution"
+        },
+        {
+          "id": "D",
+          "text": "Multiple solutions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q030",
+      "text": "In minimization problem, optimal point is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lowest point of feasible region in direction of objective"
+        },
+        {
+          "id": "B",
+          "text": "Highest point"
+        },
+        {
+          "id": "C",
+          "text": "Origin"
+        },
+        {
+          "id": "D",
+          "text": "Any corner"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q031",
+      "text": "LP assumption of Proportionality means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Objective and constraints are linear"
+        },
+        {
+          "id": "B",
+          "text": "Variables are continuous"
+        },
+        {
+          "id": "C",
+          "text": "Parameters are known"
+        },
+        {
+          "id": "D",
+          "text": "Additivity holds"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q032",
+      "text": "Which is not an assumption of LP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Certainty"
+        },
+        {
+          "id": "B",
+          "text": "Divisibility"
+        },
+        {
+          "id": "C",
+          "text": "Non-negativity"
+        },
+        {
+          "id": "D",
+          "text": "Non-linearity"
+        }
+      ],
+      "correctOptionId": "D"
+    },
+    {
+      "id": "or-bank-set-01-q033",
+      "text": "Feasible region is convex because of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Linear constraints"
+        },
+        {
+          "id": "B",
+          "text": "Non-linear constraints"
+        },
+        {
+          "id": "C",
+          "text": "Integer variables"
+        },
+        {
+          "id": "D",
+          "text": "Randomness"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q034",
+      "text": "If all corner points give same objective value:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alternate optimal solutions"
+        },
+        {
+          "id": "B",
+          "text": "Infeasible"
+        },
+        {
+          "id": "C",
+          "text": "Unbounded"
+        },
+        {
+          "id": "D",
+          "text": "Unique solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q035",
+      "text": "Graphical method cannot be used when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "More than 2 variables"
+        },
+        {
+          "id": "B",
+          "text": "2 variables"
+        },
+        {
+          "id": "C",
+          "text": "Linear constraints"
+        },
+        {
+          "id": "D",
+          "text": "Maximization problem"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q036",
+      "text": "Simplex method is used for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solving LP problems with more than 2 variables"
+        },
+        {
+          "id": "B",
+          "text": "Only graphical solution"
+        },
+        {
+          "id": "C",
+          "text": "Integer problems only"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear problems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q037",
+      "text": "The first step in Simplex is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Convert to standard form"
+        },
+        {
+          "id": "B",
+          "text": "Draw graph"
+        },
+        {
+          "id": "C",
+          "text": "Find dual"
+        },
+        {
+          "id": "D",
+          "text": "Solve using Big-M"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q038",
+      "text": "In Simplex tableau, the pivot column is chosen by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Most negative cj–zj (for maximization)"
+        },
+        {
+          "id": "B",
+          "text": "Most positive"
+        },
+        {
+          "id": "C",
+          "text": "Any column"
+        },
+        {
+          "id": "D",
+          "text": "Last column"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q039",
+      "text": "The leaving variable is decided by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimum ratio test"
+        },
+        {
+          "id": "B",
+          "text": "Maximum ratio"
+        },
+        {
+          "id": "C",
+          "text": "Random choice"
+        },
+        {
+          "id": "D",
+          "text": "Highest coefficient"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q040",
+      "text": "A basic variable has:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Value equal to RHS in its row"
+        },
+        {
+          "id": "B",
+          "text": "Zero value"
+        },
+        {
+          "id": "C",
+          "text": "Negative value"
+        },
+        {
+          "id": "D",
+          "text": "Coefficient in objective"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q041",
+      "text": "If all cj–zj ≥ 0 in maximization problem, the solution is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal"
+        },
+        {
+          "id": "B",
+          "text": "Infeasible"
+        },
+        {
+          "id": "C",
+          "text": "Unbounded"
+        },
+        {
+          "id": "D",
+          "text": "Degenerate"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q042",
+      "text": "Degeneracy in Simplex occurs when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimum ratio is zero"
+        },
+        {
+          "id": "B",
+          "text": "All ratios positive"
+        },
+        {
+          "id": "C",
+          "text": "No basic variable"
+        },
+        {
+          "id": "D",
+          "text": "Artificial variable present"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q043",
+      "text": "Artificial variables are used in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Big-M and Two-Phase methods"
+        },
+        {
+          "id": "B",
+          "text": "Graphical method"
+        },
+        {
+          "id": "C",
+          "text": "Dual Simplex"
+        },
+        {
+          "id": "D",
+          "text": "Only transportation"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q044",
+      "text": "In Two-Phase method, Phase I objective is to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimize sum of artificial variables"
+        },
+        {
+          "id": "B",
+          "text": "Maximize profit"
+        },
+        {
+          "id": "C",
+          "text": "Find dual"
+        },
+        {
+          "id": "D",
+          "text": "Solve original problem"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q045",
+      "text": "If after Phase I, artificial variables are still positive:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Problem is infeasible"
+        },
+        {
+          "id": "B",
+          "text": "Optimal solution found"
+        },
+        {
+          "id": "C",
+          "text": "Unbounded solution"
+        },
+        {
+          "id": "D",
+          "text": "Alternate solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q046",
+      "text": "cj – zj row is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indicator row / Net evaluation row"
+        },
+        {
+          "id": "B",
+          "text": "RHS column"
+        },
+        {
+          "id": "C",
+          "text": "Constraint row"
+        },
+        {
+          "id": "D",
+          "text": "Pivot row"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q047",
+      "text": "Unbounded solution in Simplex is indicated by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "No positive entry in pivot column"
+        },
+        {
+          "id": "B",
+          "text": "All cj–zj positive"
+        },
+        {
+          "id": "C",
+          "text": "Artificial variable in basis"
+        },
+        {
+          "id": "D",
+          "text": "Zero in RHS"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q048",
+      "text": "Cycling in Simplex can be avoided by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bland’s rule"
+        },
+        {
+          "id": "B",
+          "text": "Choosing largest coefficient"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring degeneracy"
+        },
+        {
+          "id": "D",
+          "text": "Using dual"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q049",
+      "text": "In maximization, entering variable has:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Most negative cj–zj"
+        },
+        {
+          "id": "B",
+          "text": "Most positive cj–zj"
+        },
+        {
+          "id": "C",
+          "text": "Zero cj–zj"
+        },
+        {
+          "id": "D",
+          "text": "Positive zj"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-01-q050",
+      "text": "Optimal tableau has:",
+      "options": [
+        {
+          "id": "A",
+          "text": "All cj–zj ≥ 0 (maximization)"
+        },
+        {
+          "id": "B",
+          "text": "All cj–zj ≤ 0"
+        },
+        {
+          "id": "C",
+          "text": "Negative RHS"
+        },
+        {
+          "id": "D",
+          "text": "Artificial variables"
+        }
+      ],
+      "correctOptionId": "A"
+    }
+  ],
+  "createdAt": "2026-06-01T18:10:11.451Z",
+  "bundled": true,
+  "setIndex": 1,
+  "sourceFile": "MCQs Bank for OR.docx"
+}

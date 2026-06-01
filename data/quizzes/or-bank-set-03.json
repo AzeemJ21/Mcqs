@@ -1,0 +1,1160 @@
+{
+  "id": "or-bank-set-03",
+  "title": "OR MCQs — Quiz 3 (50 questions)",
+  "questions": [
+    {
+      "id": "or-bank-set-03-q001",
+      "text": "A dummy source is added when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Total supply < Total demand"
+        },
+        {
+          "id": "B",
+          "text": "Total supply > Total demand"
+        },
+        {
+          "id": "C",
+          "text": "Problem is balanced"
+        },
+        {
+          "id": "D",
+          "text": "Only one source"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q002",
+      "text": "A dummy destination is added when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Total supply > Total demand"
+        },
+        {
+          "id": "B",
+          "text": "Total supply < Total demand"
+        },
+        {
+          "id": "C",
+          "text": "Costs are equal"
+        },
+        {
+          "id": "D",
+          "text": "Balanced problem"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q003",
+      "text": "Degeneracy in transportation problem occurs when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of occupied cells < m + n - 1"
+        },
+        {
+          "id": "B",
+          "text": "Number of occupied cells > m + n - 1"
+        },
+        {
+          "id": "C",
+          "text": "All cells are occupied"
+        },
+        {
+          "id": "D",
+          "text": "No basic variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q004",
+      "text": "To resolve degeneracy, we use:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Epsilon (small value) in an independent cell"
+        },
+        {
+          "id": "B",
+          "text": "Big-M method"
+        },
+        {
+          "id": "C",
+          "text": "Dual Simplex"
+        },
+        {
+          "id": "D",
+          "text": "Graphical method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q005",
+      "text": "In transportation problem, if a cell has negative opportunity cost:",
+      "options": [
+        {
+          "id": "A",
+          "text": "We can improve solution by entering that cell"
+        },
+        {
+          "id": "B",
+          "text": "Solution is already optimal"
+        },
+        {
+          "id": "C",
+          "text": "Problem is infeasible"
+        },
+        {
+          "id": "D",
+          "text": "Degeneracy exists"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q006",
+      "text": "Which method usually gives better initial solution than North-West Corner?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vogel’s Approximation Method"
+        },
+        {
+          "id": "B",
+          "text": "Least Cost Method"
+        },
+        {
+          "id": "C",
+          "text": "Both A and B"
+        },
+        {
+          "id": "D",
+          "text": "None"
+        }
+      ],
+      "correctOptionId": "C"
+    },
+    {
+      "id": "or-bank-set-03-q007",
+      "text": "Transportation simplex is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Special version of Simplex for transportation problems"
+        },
+        {
+          "id": "B",
+          "text": "Same as graphical method"
+        },
+        {
+          "id": "C",
+          "text": "Used only for assignment"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear technique"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q008",
+      "text": "The main advantage of transportation model is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Special algorithms are more efficient than general simplex"
+        },
+        {
+          "id": "B",
+          "text": "It can solve non-linear problems"
+        },
+        {
+          "id": "C",
+          "text": "It works only for 2 variables"
+        },
+        {
+          "id": "D",
+          "text": "No need for initial solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q009",
+      "text": "In a minimization transportation problem, improved solution is obtained by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entering the cell with most negative opportunity cost"
+        },
+        {
+          "id": "B",
+          "text": "Entering any positive cost cell"
+        },
+        {
+          "id": "C",
+          "text": "Removing basic variables"
+        },
+        {
+          "id": "D",
+          "text": "Increasing supply"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q010",
+      "text": "Assignment problem is a special case of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transportation problem where supply and demand are 1"
+        },
+        {
+          "id": "B",
+          "text": "Linear Programming with 2 variables"
+        },
+        {
+          "id": "C",
+          "text": "Dynamic Programming"
+        },
+        {
+          "id": "D",
+          "text": "Integer Programming only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q011",
+      "text": "Which of the following is NOT a method for transportation problem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hungarian Method"
+        },
+        {
+          "id": "B",
+          "text": "North-West Corner Rule"
+        },
+        {
+          "id": "C",
+          "text": "MODI Method"
+        },
+        {
+          "id": "D",
+          "text": "Stepping-Stone Method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q012",
+      "text": "Sensitivity analysis can also be performed on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transportation problems"
+        },
+        {
+          "id": "B",
+          "text": "Only general LP"
+        },
+        {
+          "id": "C",
+          "text": "Only graphical LP"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear problems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q013",
+      "text": "In Big-M and Two-Phase methods, artificial variables have:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Coefficient M or objective 1 in Phase-I"
+        },
+        {
+          "id": "B",
+          "text": "Zero coefficient always"
+        },
+        {
+          "id": "C",
+          "text": "Negative coefficient"
+        },
+        {
+          "id": "D",
+          "text": "No coefficient"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q014",
+      "text": "Dual Simplex is a variant of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Primal Simplex"
+        },
+        {
+          "id": "B",
+          "text": "Graphical method"
+        },
+        {
+          "id": "C",
+          "text": "Transportation method"
+        },
+        {
+          "id": "D",
+          "text": "Assignment method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q015",
+      "text": "If in sensitivity analysis, RHS change is within allowable range:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shadow price remains constant"
+        },
+        {
+          "id": "B",
+          "text": "Optimal solution changes completely"
+        },
+        {
+          "id": "C",
+          "text": "Basis changes"
+        },
+        {
+          "id": "D",
+          "text": "Problem becomes unbounded"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q016",
+      "text": "The opportunity cost in MODI method represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Improvement possible by entering that cell"
+        },
+        {
+          "id": "B",
+          "text": "Actual transportation cost"
+        },
+        {
+          "id": "C",
+          "text": "Shadow price only"
+        },
+        {
+          "id": "D",
+          "text": "Supply cost"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q017",
+      "text": "Which statement is true for balanced transportation problem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Total supply equals total demand"
+        },
+        {
+          "id": "B",
+          "text": "Total supply is always greater"
+        },
+        {
+          "id": "C",
+          "text": "Total demand is always greater"
+        },
+        {
+          "id": "D",
+          "text": "No basic feasible solution exists"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q018",
+      "text": "In stepping-stone method, closed path is used to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adjust allocation by +θ and -θ"
+        },
+        {
+          "id": "B",
+          "text": "Calculate ui and vj"
+        },
+        {
+          "id": "C",
+          "text": "Find initial solution"
+        },
+        {
+          "id": "D",
+          "text": "Check optimality"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q019",
+      "text": "Big-M method can lead to numerical issues because:",
+      "options": [
+        {
+          "id": "A",
+          "text": "M is very large"
+        },
+        {
+          "id": "B",
+          "text": "M is very small"
+        },
+        {
+          "id": "C",
+          "text": "No artificial variables"
+        },
+        {
+          "id": "D",
+          "text": "Only slack variables used"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q020",
+      "text": "Two-Phase method is preferred over Big-M when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Numerical stability is important"
+        },
+        {
+          "id": "B",
+          "text": "Problem has only 2 variables"
+        },
+        {
+          "id": "C",
+          "text": "Graphical solution needed"
+        },
+        {
+          "id": "D",
+          "text": "Integer constraints"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q021",
+      "text": "In transportation problem, the solution is optimal when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "All opportunity costs are non-negative (minimization)"
+        },
+        {
+          "id": "B",
+          "text": "All opportunity costs are positive"
+        },
+        {
+          "id": "C",
+          "text": "Some opportunity costs are negative"
+        },
+        {
+          "id": "D",
+          "text": "No occupied cells"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q022",
+      "text": "If a transportation problem has degeneracy:",
+      "options": [
+        {
+          "id": "A",
+          "text": "We place epsilon in an empty independent cell to apply MODI"
+        },
+        {
+          "id": "B",
+          "text": "We ignore it"
+        },
+        {
+          "id": "C",
+          "text": "Problem has no solution"
+        },
+        {
+          "id": "D",
+          "text": "Use Big-M"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q023",
+      "text": "The number of allocations in a non-degenerate basic feasible solution is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "m + n - 1"
+        },
+        {
+          "id": "B",
+          "text": "m + n"
+        },
+        {
+          "id": "C",
+          "text": "m × n"
+        },
+        {
+          "id": "D",
+          "text": "m - n"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q024",
+      "text": "Sensitivity analysis helps managers to know:",
+      "options": [
+        {
+          "id": "A",
+          "text": "How robust the optimal solution is"
+        },
+        {
+          "id": "B",
+          "text": "Only the optimal value"
+        },
+        {
+          "id": "C",
+          "text": "Only feasible region"
+        },
+        {
+          "id": "D",
+          "text": "Integer solutions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q025",
+      "text": "In Dual Simplex, the algorithm terminates when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "All RHS values are non-negative"
+        },
+        {
+          "id": "B",
+          "text": "All cj-zj are non-negative"
+        },
+        {
+          "id": "C",
+          "text": "Artificial variables become zero"
+        },
+        {
+          "id": "D",
+          "text": "No basic variables left"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q026",
+      "text": "Which method is used to check optimality in transportation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "MODI Method"
+        },
+        {
+          "id": "B",
+          "text": "North-West Corner"
+        },
+        {
+          "id": "C",
+          "text": "Least Cost Method"
+        },
+        {
+          "id": "D",
+          "text": "Vogel’s Method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q027",
+      "text": "If shadow price is positive for a ≤ constraint in maximization:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increasing RHS will improve objective"
+        },
+        {
+          "id": "B",
+          "text": "Increasing RHS will worsen objective"
+        },
+        {
+          "id": "C",
+          "text": "Constraint is non-binding"
+        },
+        {
+          "id": "D",
+          "text": "No effect"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q028",
+      "text": "Vogel’s Approximation Method considers:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Opportunity cost (penalty) for each row and column"
+        },
+        {
+          "id": "B",
+          "text": "Only lowest cost"
+        },
+        {
+          "id": "C",
+          "text": "North-West cell"
+        },
+        {
+          "id": "D",
+          "text": "Highest cost cell"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q029",
+      "text": "In assignment problem, cost matrix is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Square matrix"
+        },
+        {
+          "id": "B",
+          "text": "Rectangular matrix"
+        },
+        {
+          "id": "C",
+          "text": "Triangular matrix"
+        },
+        {
+          "id": "D",
+          "text": "Any size"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q030",
+      "text": "The main purpose of sensitivity analysis is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "To see effect of parameter changes without resolving the problem"
+        },
+        {
+          "id": "B",
+          "text": "To find initial solution"
+        },
+        {
+          "id": "C",
+          "text": "To solve integer problems"
+        },
+        {
+          "id": "D",
+          "text": "To draw graph"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q031",
+      "text": "In transportation problem, if we add a dummy source, its cost is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zero"
+        },
+        {
+          "id": "B",
+          "text": "Very high (M)"
+        },
+        {
+          "id": "C",
+          "text": "Negative"
+        },
+        {
+          "id": "D",
+          "text": "Equal to average cost"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q032",
+      "text": "Dual Simplex starts with:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Primal infeasible but dual feasible basic solution"
+        },
+        {
+          "id": "B",
+          "text": "Optimal solution"
+        },
+        {
+          "id": "C",
+          "text": "Infeasible dual"
+        },
+        {
+          "id": "D",
+          "text": "Non-basic solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q033",
+      "text": "Which is true for Big-M method?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Artificial variables are penalized in objective function"
+        },
+        {
+          "id": "B",
+          "text": "No penalty is used"
+        },
+        {
+          "id": "C",
+          "text": "Only Phase-I is needed"
+        },
+        {
+          "id": "D",
+          "text": "It cannot handle equality constraints"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q034",
+      "text": "Stepping-Stone method uses:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Closed paths to evaluate empty cells"
+        },
+        {
+          "id": "B",
+          "text": "Only basic cells"
+        },
+        {
+          "id": "C",
+          "text": "ui and vj calculation"
+        },
+        {
+          "id": "D",
+          "text": "Initial solution only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q035",
+      "text": "If all Δij ≥ 0 in MODI for minimization transportation problem:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal solution reached"
+        },
+        {
+          "id": "B",
+          "text": "Further improvement possible"
+        },
+        {
+          "id": "C",
+          "text": "Infeasible"
+        },
+        {
+          "id": "D",
+          "text": "Degenerate"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q036",
+      "text": "The reduced cost in LP sensitivity is analogous to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Opportunity cost in transportation"
+        },
+        {
+          "id": "B",
+          "text": "Shadow price"
+        },
+        {
+          "id": "C",
+          "text": "RHS value"
+        },
+        {
+          "id": "D",
+          "text": "Basic variable value"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q037",
+      "text": "In Two-Phase method, Phase-II starts with:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Feasible basic solution from Phase-I"
+        },
+        {
+          "id": "B",
+          "text": "Artificial variables"
+        },
+        {
+          "id": "C",
+          "text": "Infeasible solution"
+        },
+        {
+          "id": "D",
+          "text": "Big-M objective"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q038",
+      "text": "Sensitivity analysis is part of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Post-optimality analysis"
+        },
+        {
+          "id": "B",
+          "text": "Pre-optimality analysis"
+        },
+        {
+          "id": "C",
+          "text": "Model formulation"
+        },
+        {
+          "id": "D",
+          "text": "Only graphical solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q039",
+      "text": "Transportation problem can be solved using:",
+      "options": [
+        {
+          "id": "A",
+          "text": "General Simplex, but special methods are more efficient"
+        },
+        {
+          "id": "B",
+          "text": "Only graphical method"
+        },
+        {
+          "id": "C",
+          "text": "Dynamic programming"
+        },
+        {
+          "id": "D",
+          "text": "Integer programming only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q040",
+      "text": "Assignment problem is a special case of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transportation problem with unit supply and demand"
+        },
+        {
+          "id": "B",
+          "text": "General Linear Programming"
+        },
+        {
+          "id": "C",
+          "text": "Dynamic Programming"
+        },
+        {
+          "id": "D",
+          "text": "Network Flow problem only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q041",
+      "text": "In assignment problem, the cost matrix is always:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Square matrix (n x n)"
+        },
+        {
+          "id": "B",
+          "text": "Rectangular matrix"
+        },
+        {
+          "id": "C",
+          "text": "Triangular matrix"
+        },
+        {
+          "id": "D",
+          "text": "Any size matrix"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q042",
+      "text": "The Hungarian method is used to solve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Assignment problems"
+        },
+        {
+          "id": "B",
+          "text": "Transportation problems"
+        },
+        {
+          "id": "C",
+          "text": "Integer Programming problems"
+        },
+        {
+          "id": "D",
+          "text": "Dynamic Programming problems"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q043",
+      "text": "The objective of assignment problem is usually to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimize total cost or time"
+        },
+        {
+          "id": "B",
+          "text": "Maximize total profit only"
+        },
+        {
+          "id": "C",
+          "text": "Minimize number of assignments"
+        },
+        {
+          "id": "D",
+          "text": "Balance supply and demand"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q044",
+      "text": "In Hungarian method, the first step is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Row reduction (subtract minimum of each row)"
+        },
+        {
+          "id": "B",
+          "text": "Column reduction"
+        },
+        {
+          "id": "C",
+          "text": "Covering zeros"
+        },
+        {
+          "id": "D",
+          "text": "Finding optimal assignment"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q045",
+      "text": "After row and column reduction in Hungarian method, we draw:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimum number of lines to cover all zeros"
+        },
+        {
+          "id": "B",
+          "text": "Maximum number of lines"
+        },
+        {
+          "id": "C",
+          "text": "Diagonal lines only"
+        },
+        {
+          "id": "D",
+          "text": "Random lines"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q046",
+      "text": "If the number of lines equals the order of matrix (n), then:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal assignment is possible"
+        },
+        {
+          "id": "B",
+          "text": "We need to adjust the matrix"
+        },
+        {
+          "id": "C",
+          "text": "Problem is infeasible"
+        },
+        {
+          "id": "D",
+          "text": "Multiple optimal solutions exist"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q047",
+      "text": "The Hungarian method guarantees:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal solution for assignment problems"
+        },
+        {
+          "id": "B",
+          "text": "Only feasible solution"
+        },
+        {
+          "id": "C",
+          "text": "Sub-optimal solution"
+        },
+        {
+          "id": "D",
+          "text": "Approximate solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q048",
+      "text": "Dummy row or column is added in assignment problem when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of rows ≠ number of columns"
+        },
+        {
+          "id": "B",
+          "text": "All costs are zero"
+        },
+        {
+          "id": "C",
+          "text": "Problem is balanced"
+        },
+        {
+          "id": "D",
+          "text": "Only one person/machine"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q049",
+      "text": "In assignment problem, opportunity cost matrix is obtained by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Row and column reduction"
+        },
+        {
+          "id": "B",
+          "text": "Adding all rows"
+        },
+        {
+          "id": "C",
+          "text": "Subtracting total cost"
+        },
+        {
+          "id": "D",
+          "text": "Multiplying costs"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-03-q050",
+      "text": "Which of the following is NOT a step in Hungarian method?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Row reduction"
+        },
+        {
+          "id": "B",
+          "text": "Column reduction"
+        },
+        {
+          "id": "C",
+          "text": "North-West Corner allocation"
+        },
+        {
+          "id": "D",
+          "text": "Zero covering with lines"
+        }
+      ],
+      "correctOptionId": "C"
+    }
+  ],
+  "createdAt": "2026-06-01T18:10:11.545Z",
+  "bundled": true,
+  "setIndex": 3,
+  "sourceFile": "MCQs Bank for OR.docx"
+}

@@ -1,0 +1,1160 @@
+{
+  "id": "or-bank-set-06",
+  "title": "OR MCQs — Quiz 6 (50 questions)",
+  "questions": [
+    {
+      "id": "or-bank-set-06-q001",
+      "text": "Modern commercial solvers like CPLEX and Gurobi use:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Advanced Branch and Cut algorithms"
+        },
+        {
+          "id": "B",
+          "text": "Only simplex method"
+        },
+        {
+          "id": "C",
+          "text": "Hungarian method"
+        },
+        {
+          "id": "D",
+          "text": "Dynamic Programming"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q002",
+      "text": "The term “relaxation” in BIP refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solving the problem without integrality constraints (LP)"
+        },
+        {
+          "id": "B",
+          "text": "Adding more constraints"
+        },
+        {
+          "id": "C",
+          "text": "Removing all constraints"
+        },
+        {
+          "id": "D",
+          "text": "Using graphical method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q003",
+      "text": "Which of the following is NOT a BIP application?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Continuous product mix"
+        },
+        {
+          "id": "B",
+          "text": "Vehicle routing"
+        },
+        {
+          "id": "C",
+          "text": "Staff scheduling"
+        },
+        {
+          "id": "D",
+          "text": "Network design with binary decisions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q004",
+      "text": "In BIP, logical implication “x implies y” is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x ≤ y (both binary)"
+        },
+        {
+          "id": "B",
+          "text": "x + y ≤ 1"
+        },
+        {
+          "id": "C",
+          "text": "x + y = 1"
+        },
+        {
+          "id": "D",
+          "text": "x - y = 0"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q005",
+      "text": "Advanced techniques like Branch-and-Price are used for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Problems with huge number of variables (column generation)"
+        },
+        {
+          "id": "B",
+          "text": "Small problems only"
+        },
+        {
+          "id": "C",
+          "text": "Transportation only"
+        },
+        {
+          "id": "D",
+          "text": "Graphical LP"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q006",
+      "text": "The integrality property holds when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "LP relaxation automatically gives integer solution"
+        },
+        {
+          "id": "B",
+          "text": "All solutions are fractional"
+        },
+        {
+          "id": "C",
+          "text": "No feasible integer solution"
+        },
+        {
+          "id": "D",
+          "text": "Problem is unbounded"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q007",
+      "text": "Which method combines branching with cutting planes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Branch-and-Cut"
+        },
+        {
+          "id": "B",
+          "text": "Pure Branch and Bound"
+        },
+        {
+          "id": "C",
+          "text": "Simplex only"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q008",
+      "text": "In final review, students should be able to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formulate and solve basic BIP models"
+        },
+        {
+          "id": "B",
+          "text": "Only solve transportation problems"
+        },
+        {
+          "id": "C",
+          "text": "Draw graphical LP only"
+        },
+        {
+          "id": "D",
+          "text": "Perform sensitivity on assignment"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q009",
+      "text": "A common way to handle “if-then” constraints in BIP is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Big-M method with binary indicator variable"
+        },
+        {
+          "id": "B",
+          "text": "Only slack variables"
+        },
+        {
+          "id": "C",
+          "text": "Continuous relaxation"
+        },
+        {
+          "id": "D",
+          "text": "Vogel’s method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q010",
+      "text": "BIP is a special case of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integer Programming"
+        },
+        {
+          "id": "B",
+          "text": "Linear Programming"
+        },
+        {
+          "id": "C",
+          "text": "Dynamic Programming"
+        },
+        {
+          "id": "D",
+          "text": "Transportation problem"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q011",
+      "text": "The objective in many BIP models is to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minimize cost or maximize profit subject to binary decisions"
+        },
+        {
+          "id": "B",
+          "text": "Only find feasible solution"
+        },
+        {
+          "id": "C",
+          "text": "Perform what-if analysis"
+        },
+        {
+          "id": "D",
+          "text": "Draw feasible region"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q012",
+      "text": "Which of the following helps in tightening the LP relaxation in BIP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adding strong valid inequalities / cutting planes"
+        },
+        {
+          "id": "B",
+          "text": "Removing constraints"
+        },
+        {
+          "id": "C",
+          "text": "Relaxing integrality"
+        },
+        {
+          "id": "D",
+          "text": "Using Big-M only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q013",
+      "text": "In course project viva, students demonstrate:",
+      "options": [
+        {
+          "id": "A",
+          "text": "OR-based project solutions using BIP and other techniques"
+        },
+        {
+          "id": "B",
+          "text": "Only theory of simplex"
+        },
+        {
+          "id": "C",
+          "text": "Transportation tableau only"
+        },
+        {
+          "id": "D",
+          "text": "Graphical solutions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q014",
+      "text": "The number of possible solutions in BIP with n binary variables is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2^n"
+        },
+        {
+          "id": "B",
+          "text": "n!"
+        },
+        {
+          "id": "C",
+          "text": "n + m - 1"
+        },
+        {
+          "id": "D",
+          "text": "Infinite"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q015",
+      "text": "Pre-processing techniques in BIP solvers include:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fixing variables, tightening bounds, and adding cuts"
+        },
+        {
+          "id": "B",
+          "text": "Only row reduction"
+        },
+        {
+          "id": "C",
+          "text": "Hungarian steps"
+        },
+        {
+          "id": "D",
+          "text": "MODI calculations"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q016",
+      "text": "Which problem is modeled using BIP for selecting exactly k items?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cardinality constrained knapsack / project selection"
+        },
+        {
+          "id": "B",
+          "text": "Continuous knapsack"
+        },
+        {
+          "id": "C",
+          "text": "Transportation"
+        },
+        {
+          "id": "D",
+          "text": "Assignment"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q017",
+      "text": "Advanced BIP often uses:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hybrid methods combining exact and heuristic approaches"
+        },
+        {
+          "id": "B",
+          "text": "Only exact enumeration"
+        },
+        {
+          "id": "C",
+          "text": "Graphical method for large n"
+        },
+        {
+          "id": "D",
+          "text": "Transportation simplex"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q018",
+      "text": "In review sessions, emphasis is given on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formulating real-world problems as BIP models"
+        },
+        {
+          "id": "B",
+          "text": "Only history of OR"
+        },
+        {
+          "id": "C",
+          "text": "Dual theory only"
+        },
+        {
+          "id": "D",
+          "text": "Sensitivity analysis of transportation"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q019",
+      "text": "A valid inequality in IP is a constraint that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cuts off some fractional solutions but does not remove any feasible integer solution"
+        },
+        {
+          "id": "B",
+          "text": "Removes integer solutions"
+        },
+        {
+          "id": "C",
+          "text": "Enlarges feasible region"
+        },
+        {
+          "id": "D",
+          "text": "Only adds artificial variables"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q020",
+      "text": "BIP formulations are powerful because they can model:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Logical relationships and discrete decisions accurately"
+        },
+        {
+          "id": "B",
+          "text": "Only continuous variables"
+        },
+        {
+          "id": "C",
+          "text": "Non-linear objectives directly"
+        },
+        {
+          "id": "D",
+          "text": "Unlimited resources"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q021",
+      "text": "The final examination is likely to test:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formulation and solution concepts of BIP and advanced techniques"
+        },
+        {
+          "id": "B",
+          "text": "Only introduction to OR"
+        },
+        {
+          "id": "C",
+          "text": "Graphical LP only"
+        },
+        {
+          "id": "D",
+          "text": "Transportation initial solution methods"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q022",
+      "text": "Which technique is used to solve very large BIP problems approximately?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metaheuristics (Genetic Algorithm, Tabu Search, etc.)"
+        },
+        {
+          "id": "B",
+          "text": "Simplex method"
+        },
+        {
+          "id": "C",
+          "text": "Hungarian method"
+        },
+        {
+          "id": "D",
+          "text": "North-West Corner"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q023",
+      "text": "In BIP, the variable xj = 0 represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option is not selected / inactive"
+        },
+        {
+          "id": "B",
+          "text": "Option is selected"
+        },
+        {
+          "id": "C",
+          "text": "Fractional value"
+        },
+        {
+          "id": "D",
+          "text": "Continuous quantity"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q024",
+      "text": "“Generalized assignment problem” is an extension of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Assignment problem using integer/BIP concepts"
+        },
+        {
+          "id": "B",
+          "text": "Pure transportation"
+        },
+        {
+          "id": "C",
+          "text": "Dynamic Programming only"
+        },
+        {
+          "id": "D",
+          "text": "Graphical method"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q025",
+      "text": "Students should be able to critically evaluate:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Impact of model assumptions in BIP formulations"
+        },
+        {
+          "id": "B",
+          "text": "Only shadow prices in LP"
+        },
+        {
+          "id": "C",
+          "text": "Initial solutions in transportation"
+        },
+        {
+          "id": "D",
+          "text": "Graphical feasible regions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q026",
+      "text": "Branch-and-Cut is particularly effective for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Combinatorial optimization problems modeled as BIP"
+        },
+        {
+          "id": "B",
+          "text": "Small LP problems"
+        },
+        {
+          "id": "C",
+          "text": "Continuous nonlinear problems"
+        },
+        {
+          "id": "D",
+          "text": "Pure dynamic programming"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q027",
+      "text": "In the course learning outcomes, CLO2 includes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Analyzing Binary Integer Programming problems"
+        },
+        {
+          "id": "B",
+          "text": "Only transportation"
+        },
+        {
+          "id": "C",
+          "text": "Only introduction to OR"
+        },
+        {
+          "id": "D",
+          "text": "Network models only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q028",
+      "text": "A good BIP formulation should have:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tight LP relaxation (small integrality gap)"
+        },
+        {
+          "id": "B",
+          "text": "Very loose relaxation"
+        },
+        {
+          "id": "C",
+          "text": "Many fractional solutions"
+        },
+        {
+          "id": "D",
+          "text": "No constraints"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q029",
+      "text": "Which of the following is an advanced technique mentioned in the syllabus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Branch-and-cut approach for BIP"
+        },
+        {
+          "id": "B",
+          "text": "Stepping-stone method"
+        },
+        {
+          "id": "C",
+          "text": "Big-M method only"
+        },
+        {
+          "id": "D",
+          "text": "Graphical solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q030",
+      "text": "The main goal of Week 16 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Applications of OR and final revision"
+        },
+        {
+          "id": "B",
+          "text": "Mid-term review"
+        },
+        {
+          "id": "C",
+          "text": "Introduction to LP"
+        },
+        {
+          "id": "D",
+          "text": "Dual theory"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q031",
+      "text": "In project demonstration, students explain:",
+      "options": [
+        {
+          "id": "A",
+          "text": "OR models (including BIP) applied to real problems"
+        },
+        {
+          "id": "B",
+          "text": "Only theoretical definitions"
+        },
+        {
+          "id": "C",
+          "text": "History of OR"
+        },
+        {
+          "id": "D",
+          "text": "Scope of OR"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q032",
+      "text": "Operations Research is also known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Management Science"
+        },
+        {
+          "id": "B",
+          "text": "Pure Mathematics"
+        },
+        {
+          "id": "C",
+          "text": "Computer Programming"
+        },
+        {
+          "id": "D",
+          "text": "Financial Accounting"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q033",
+      "text": "The scientific method used in OR for decision making is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Model building and optimization"
+        },
+        {
+          "id": "B",
+          "text": "Trial and error"
+        },
+        {
+          "id": "C",
+          "text": "Intuition only"
+        },
+        {
+          "id": "D",
+          "text": "Guess work"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q034",
+      "text": "Which of the following is a decision-making environment in OR?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Certainty, Risk, Uncertainty"
+        },
+        {
+          "id": "B",
+          "text": "Only Certainty"
+        },
+        {
+          "id": "C",
+          "text": "Only Uncertainty"
+        },
+        {
+          "id": "D",
+          "text": "Only Risk"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q035",
+      "text": "OR is an interdisciplinary field involving:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mathematics, Statistics, Computer Science and Management"
+        },
+        {
+          "id": "B",
+          "text": "Only Physics and Chemistry"
+        },
+        {
+          "id": "C",
+          "text": "Only Biology"
+        },
+        {
+          "id": "D",
+          "text": "Only Arts subjects"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q036",
+      "text": "A good OR model should be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple, valid, and solvable"
+        },
+        {
+          "id": "B",
+          "text": "As complex as possible"
+        },
+        {
+          "id": "C",
+          "text": "Only theoretical"
+        },
+        {
+          "id": "D",
+          "text": "Without any assumptions"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q037",
+      "text": "Which technique is used for sequencing and scheduling in OR?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dynamic Programming and Network models"
+        },
+        {
+          "id": "B",
+          "text": "Only Graphical method"
+        },
+        {
+          "id": "C",
+          "text": "Big-M method"
+        },
+        {
+          "id": "D",
+          "text": "Hungarian method only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q038",
+      "text": "The phase of OR that comes after model solution is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Implementation and control"
+        },
+        {
+          "id": "B",
+          "text": "Data collection"
+        },
+        {
+          "id": "C",
+          "text": "Problem definition"
+        },
+        {
+          "id": "D",
+          "text": "Model validation"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q039",
+      "text": "OR was developed to solve problems during:",
+      "options": [
+        {
+          "id": "A",
+          "text": "World War II military operations"
+        },
+        {
+          "id": "B",
+          "text": "Industrial Revolution"
+        },
+        {
+          "id": "C",
+          "text": "21st century only"
+        },
+        {
+          "id": "D",
+          "text": "Space exploration"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q040",
+      "text": "In Linear Programming, the term “linearity” assumes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Proportionality and additivity"
+        },
+        {
+          "id": "B",
+          "text": "Non-linear relationships"
+        },
+        {
+          "id": "C",
+          "text": "Random variation"
+        },
+        {
+          "id": "D",
+          "text": "Integer values only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q041",
+      "text": "A feasible solution in LP satisfies:",
+      "options": [
+        {
+          "id": "A",
+          "text": "All constraints"
+        },
+        {
+          "id": "B",
+          "text": "Only the objective function"
+        },
+        {
+          "id": "C",
+          "text": "Only non-negativity"
+        },
+        {
+          "id": "D",
+          "text": "Only one constraint"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q042",
+      "text": "In graphical method, corner point theorem says optimal solution is at:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A corner point of the feasible region"
+        },
+        {
+          "id": "B",
+          "text": "Inside the feasible region"
+        },
+        {
+          "id": "C",
+          "text": "Outside the feasible region"
+        },
+        {
+          "id": "D",
+          "text": "Origin only"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q043",
+      "text": "An unbounded solution in LP means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The objective function can be improved without limit"
+        },
+        {
+          "id": "B",
+          "text": "No feasible solution exists"
+        },
+        {
+          "id": "C",
+          "text": "Multiple optimal solutions"
+        },
+        {
+          "id": "D",
+          "text": "Unique optimal solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q044",
+      "text": "Infeasible LP problem occurs when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Feasible region is empty"
+        },
+        {
+          "id": "B",
+          "text": "Objective is parallel to constraint"
+        },
+        {
+          "id": "C",
+          "text": "All constraints are satisfied"
+        },
+        {
+          "id": "D",
+          "text": "There is at least one basic feasible solution"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q045",
+      "text": "Standard form of LP has:",
+      "options": [
+        {
+          "id": "A",
+          "text": "All constraints as equalities and non-negative variables"
+        },
+        {
+          "id": "B",
+          "text": "All constraints as inequalities"
+        },
+        {
+          "id": "C",
+          "text": "Negative variables allowed"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear objective"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q046",
+      "text": "Slack variable is added to convert:",
+      "options": [
+        {
+          "id": "A",
+          "text": "≤ constraint into equality"
+        },
+        {
+          "id": "B",
+          "text": "≥ constraint into equality"
+        },
+        {
+          "id": "C",
+          "text": "= constraint"
+        },
+        {
+          "id": "D",
+          "text": "Non-linear constraint"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q047",
+      "text": "Surplus variable is added to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "≥ constraint"
+        },
+        {
+          "id": "B",
+          "text": "≤ constraint"
+        },
+        {
+          "id": "C",
+          "text": "Equality constraint"
+        },
+        {
+          "id": "D",
+          "text": "Objective function"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q048",
+      "text": "In Simplex method, the entering variable is the one with:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Most negative cj – zj (in maximization)"
+        },
+        {
+          "id": "B",
+          "text": "Most positive cj – zj"
+        },
+        {
+          "id": "C",
+          "text": "Zero cj – zj"
+        },
+        {
+          "id": "D",
+          "text": "Highest RHS value"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q049",
+      "text": "The minimum ratio test is performed to select:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Leaving variable"
+        },
+        {
+          "id": "B",
+          "text": "Entering variable"
+        },
+        {
+          "id": "C",
+          "text": "Pivot element"
+        },
+        {
+          "id": "D",
+          "text": "Objective value"
+        }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": "or-bank-set-06-q050",
+      "text": "Degenerate basic feasible solution occurs when:",
+      "options": [
+        {
+          "id": "A",
+          "text": "At least one basic variable is zero"
+        },
+        {
+          "id": "B",
+          "text": "All basic variables are positive"
+        },
+        {
+          "id": "C",
+          "text": "No basic variables"
+        },
+        {
+          "id": "D",
+          "text": "Artificial variable is present"
+        }
+      ],
+      "correctOptionId": "A"
+    }
+  ],
+  "createdAt": "2026-06-01T18:10:11.683Z",
+  "bundled": true,
+  "setIndex": 6,
+  "sourceFile": "MCQs Bank for OR.docx"
+}
